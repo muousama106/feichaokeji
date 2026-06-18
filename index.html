@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>🎮 游戏年历 — Game Calendar</title>
+<style>
+:root { --bg:#f2f3f5; --card:#fff; --border:#dde0e4; --gold:#c4862b; --green:#2d8a4e; --blue:#2b6cb0; --orange:#c0561a; --red:#c0392b; --text:#2c2c34; --muted:#7a7d84; --today-bg:#e8f0fe; --today-border:#2b6cb0; --hover:#f0f1f3; }
+* { margin:0; padding:0; box-sizing:border-box; }
+body { font-family:'Microsoft YaHei','Segoe UI',-apple-system,sans-serif; background:var(--bg); color:var(--text); min-height:100vh; }
+#header { background:var(--card); border-bottom:1px solid var(--border); padding:14px 28px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px; }
+#header h1 { color:var(--text); font-size:22px; font-weight:600; }
+#header nav { display:flex; gap:8px; flex-wrap:wrap; align-items:center; }
+#header button { padding:7px 16px; cursor:pointer; border:1px solid var(--border); background:var(--card); color:var(--text); border-radius:6px; font-family:inherit; font-size:14px; }
+#header button:hover { background:var(--hover); border-color:#bbb; }
+#main { display:flex; height:calc(100vh - 60px); }
+#sidebar { width:320px; background:var(--card); border-right:1px solid var(--border); padding:16px; overflow-y:auto; display:none; }
+#sidebar.show { display:block; }
+#sidebar h3 { color:var(--text); font-size:16px; margin-bottom:10px; font-weight:600; }
+#game-list { display:flex; flex-direction:column; gap:8px; }
+.game-card { background:var(--bg); border:1px solid var(--border); border-radius:8px; padding:12px; cursor:pointer; font-size:14px; transition:all .2s; }
+.game-card:hover { border-color:var(--blue); box-shadow:0 2px 8px rgba(0,0,0,0.06); }
+.game-card .gc-cover { font-size:28px; float:left; margin-right:10px; }
+.game-card .gc-name { color:var(--text); font-weight:600; font-size:15px; }
+.game-card .gc-info { color:var(--muted); font-size:12px; }
+.game-card .gc-score { color:var(--gold); font-size:12px; }
+.game-card.ignored { opacity:0.35; }
+.game-card.wishlist { border-color:var(--green); }
+#calendar-area { flex:1; padding:16px 20px; overflow-y:auto; overflow-x:hidden; }
+#month-header { display:flex; justify-content:space-between; align-items:center; margin-bottom:8px; }
+#month-header h2 { color:var(--text); font-size:22px; font-weight:600; }
+#month-header button { padding:6px 12px; cursor:pointer; border:1px solid var(--border); background:var(--card); color:var(--text); border-radius:6px; font-size:16px; }
+#month-header button:hover { background:var(--hover); }
+#weekday-row { display:grid; grid-template-columns:repeat(7,1fr); text-align:center; color:var(--muted); font-size:18px; font-weight:500; padding:6px 0; border-bottom:1px solid var(--border); }
+#calendar-grid { display:grid; grid-template-columns:repeat(7,1fr); gap:2px; }
+.cal-day { aspect-ratio:1; background:var(--card); border:1px solid var(--border); border-radius:6px; padding:5px 7px; cursor:pointer; transition:all .15s; overflow:hidden; }
+.cal-day:hover { background:var(--hover); }
+.cal-day.other-month { opacity:0.3; }
+.cal-day.today { border:2px solid var(--today-border); background:var(--today-bg); }
+.cal-day .day-top { display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:4px; }
+.cal-day .day-num { color:var(--text); font-size:36px; font-weight:600; line-height:1; }
+.cal-day.today .day-num { color:var(--today-border); font-size:38px; }
+.cal-day .day-lunar { font-size:18px; color:var(--muted); line-height:1; }
+.cal-day .day-holiday { font-size:18px; color:var(--red); font-weight:600; line-height:1.2; }
+.cal-day .day-games { display:flex; flex-direction:column; gap:2px; margin-top:6px; }
+.day-game-dot { font-size:18px; padding:3px 5px; border-radius:4px; display:block; text-overflow:ellipsis; overflow:hidden; cursor:pointer; line-height:1.3; }
+.day-game-dot.release { background:rgba(45,138,78,0.1); color:var(--green); font-weight:500; }
+.day-game-dot.update { background:rgba(43,108,176,0.08); color:var(--blue); font-weight:500; }
+.day-game-dot.dlc { background:rgba(192,86,26,0.08); color:var(--orange); font-weight:500; }
+select { padding:6px 12px; background:var(--card); color:var(--text); border:1px solid var(--border); border-radius:6px; font-size:14px; font-family:inherit; }
+#modal-overlay { position:fixed; inset:0; background:rgba(0,0,0,0.5); z-index:100; display:none; justify-content:center; align-items:center; }
+#modal-overlay.show { display:flex; }
+#modal { background:var(--card); border:1px solid var(--border); border-radius:12px; padding:24px; max-width:600px; width:90%; max-height:80vh; overflow-y:auto; }
+#modal h2 { color:var(--text); margin-bottom:12px; }
+@media (max-width:768px) { #sidebar { width:100%; position:fixed; bottom:0; left:0; height:40%; z-index:50; border-top:1px solid var(--border); } #calendar-area { padding:8px; } }
+</style>
+</head>
+<body>
+<div id="header">
+    <h1>🎮 游戏年历</h1>
+    <nav>
+        <button onclick="toggleSidebar()">📋 游戏列表</button>
+        <button onclick="showQuestionnaire()">📝 偏好问卷</button>
+        <button onclick="exportICS()">📅 导出日历</button>
+        <button onclick="showAdminPanel()" style="font-size:13px;">📦 数据管理</button>
+        <select id="region-select" onchange="changeRegion(this.value)">
+            <option value="CN">🇨🇳 中国</option><option value="GLOBAL">🌍 全球</option><option value="JP">🇯🇵 日本</option><option value="EU">🇪🇺 欧洲</option><option value="KR">🇰🇷 韩国</option>
+        </select>
+    </nav>
+</div>
+<div id="main">
+    <div id="sidebar" class="show">
+        <h3>📋 当日游戏</h3>
+        <div id="game-list"><p style="color:var(--muted)">点击日历中的日期查看</p></div>
+        <div style="margin-top:12px;padding-top:8px;border-top:1px solid var(--border);font-size:11px;color:#aaa">⚠ MVP演示版（手动数据），后续接入IGDB/Steam API</div>
+    </div>
+    <div id="calendar-area">
+        <div id="month-header">
+            <button onclick="prevMonth()">◀</button>
+            <h2 id="month-title">2026年 6月</h2>
+            <button onclick="nextMonth()">▶</button>
+        </div>
+        <div id="weekday-row"><span>日</span><span>一</span><span>二</span><span>三</span><span>四</span><span>五</span><span>六</span></div>
+        <div id="calendar-grid"></div>
+    </div>
+</div>
+<div id="modal-overlay" onclick="closeModal(event)"><div id="modal" onclick="event.stopPropagation()"></div></div>
+<script src="src/data.js"></script>
+<script src="src/holidays.js"></script>
+<script src="src/crawler.js"></script>
+<script src="src/app.js"></script>
+</body>
+</html>
