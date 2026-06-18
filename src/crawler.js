@@ -95,12 +95,12 @@ function setCachedGames(games) {
 
 // ═══ 主同步 ═══
 async function syncGameData() {
-    // 1. Vercel代理RAWG（自动，无需VPN）
+    // 1. Vercel代理RAWG（实时数据，最优先）
     var rawg = await fetchViaVercel();
     if (rawg && rawg.length > 0) { GAME_DATA = rawg; setCachedGames(rawg); return rawg.length; }
-    // 2. GitHub API
+    // 2. GitHub API（Vercel失败时才启用）
     var cdn = await fetchRemoteCDN();
-    if (cdn && cdn.length > GAME_DATA.length) { GAME_DATA = cdn; setCachedGames(cdn); return cdn.length; }
+    if (cdn && cdn.length > 0 && (!rawg || rawg.length === 0)) { GAME_DATA = cdn; setCachedGames(cdn); return cdn.length; }
     // 3. 缓存
     var cached = getCachedGames();
     if (cached && cached.length > 0) { GAME_DATA = cached; return cached.length; }
