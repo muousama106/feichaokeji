@@ -9,9 +9,9 @@ module.exports = async function handler(req, res) {
 
     var KEY = process.env.RAWG_KEY || 'cd40865edfda46d5bc7eca06864f3667';
     var page = req.query.page || 1;
-    var today = new Date().toISOString().split('T')[0];
+    var past = new Date(Date.now() - 180*86400000).toISOString().split('T')[0];
     var future = new Date(Date.now() + 365*86400000).toISOString().split('T')[0];
-    var url = 'https://api.rawg.io/api/games?key=' + KEY + '&dates=' + today + ',' + future + '&ordering=-added&page_size=40&page=' + page;
+    var url = 'https://api.rawg.io/api/games?key=' + KEY + '&dates=' + past + ',' + future + '&ordering=-added&page_size=40&page=' + page;
 
     try {
         var resp = await fetch(url);
