@@ -7,7 +7,7 @@
 // RAWG API Key（运营方配置，用户无需关心）
 var RAWG_API_KEY = localStorage.getItem('gc_rawg_key') || '';
 // Gitee/CDN 远程数据库URL（用户自动拉取，无需VPN）
-var REMOTE_DATA_URL = 'https://feichaokeji1.vercel.app/api/proxy';
+var REMOTE_DATA_URL = '/api/proxy'; // 同域部署，无需完整URL
 
 var CRAWLER_CONFIG = {
     cacheKey: 'gc_game_cache',
@@ -23,7 +23,7 @@ async function fetchViaVercel() {
             var resp = await fetchTimeout(REMOTE_DATA_URL + '?page=' + p, 10000);
             if (!resp.ok) break;
             var data = await resp.json();
-            if (!data.results || data.results.length === 0) break;
+            if (!data || !data.results || data.results.length === 0) break;
             data.results.forEach(function(g) {
                 var rdate = g.released || '2026-08-01';
                 if (!rdate.match(/^\d{4}-\d{2}-\d{2}$/)) rdate = '2026-08-01';
@@ -97,7 +97,7 @@ function setCachedGames(games) {
 async function syncGameData() {
     // 1. Vercel代理RAWG（自动，无需VPN）
     var rawg = await fetchViaVercel();
-    if (rawg && rawg.length > 50) { GAME_DATA = rawg; setCachedGames(rawg); return rawg.length; }
+    if (rawg && rawg.length > 0) { GAME_DATA = rawg; setCachedGames(rawg); return rawg.length; }
     // 2. GitHub API
     var cdn = await fetchRemoteCDN();
     if (cdn && cdn.length > GAME_DATA.length) { GAME_DATA = cdn; setCachedGames(cdn); return cdn.length; }
