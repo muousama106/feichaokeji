@@ -70,7 +70,9 @@ function renderCalendar() {
             var gColor = games[g].type === 'update' ? 'update' : (games[g].type === 'dlc' ? 'dlc' : 'release');
             var isWish = userWishlist.indexOf(games[g].id) >= 0 ? ' ⭐' : '';
             var wishMarker = isWish ? '⭐ ' : '';
-            cell.innerHTML += '<span class="day-game-dot ' + gColor + '" title="' + games[g].name + '">' + wishMarker + games[g].cover + ' ' + games[g].name + '</span>';
+            var cnName = getGameDisplayName(games[g].name);
+            var dotName = cnName !== games[g].name ? cnName : games[g].name;
+            cell.innerHTML += '<span class="day-game-dot ' + gColor + '" title="' + games[g].name + '">' + wishMarker + games[g].cover + ' ' + dotName + '</span>';
         }
         if (games.length > 4) cell.innerHTML += '<span class="day-game-dot" style="color:#666;">+' + (games.length - 4) + ' 更多</span>';
         cell.innerHTML += '</div>';
@@ -126,16 +128,21 @@ function renderGameList(games) {
             var map = { PC:'🖥️ Steam/Epic', PS5:'🎮 PS5', Xbox:'🎯 Xbox', Switch:'🕹️ Switch', 手机:'📱 App Store' };
             return map[p] || p;
         });
+        var cnName = getGameDisplayName(g.name);
+        var nameDisplay = g.name;
+        if (cnName !== g.name) nameDisplay += '<br><span style="font-size:12px;color:#aaa;">' + cnName + '</span>';
+
         div.innerHTML = '<span class="gc-cover">' + g.cover + '</span>' +
-            '<div class="gc-name">' + g.name + (isWish ? ' ⭐' : '') + '</div>' +
+            '<div class="gc-name">' + nameDisplay + (isWish ? ' ⭐' : '') + '</div>' +
             '<div class="gc-info">' + platNames.join('<br>') + '</div>' +
             '<div class="gc-info" style="margin-top:3px;">' + (g.type==='release'?'🎮 发售':g.type==='dlc'?'📦 DLC':'🔄 更新') + '</div>' +
             (g.expectScore ? '<div class="gc-score">期待度 ' + g.expectScore + '</div>' : '') +
-            '<div style="margin-top:4px;display:flex;gap:4px;">' +
-            '<button onclick="toggleWishlist(\'' + g.id + '\')" style="font-size:13px;padding:4px 10px;cursor:pointer;border:1px solid #4aaf5c;background:#1a4a2f;color:#c0ffc0;border-radius:4px;">' + (isWish?'取消关注':'⭐关注') + '</button>' +
+            '<div style="margin-top:4px;display:flex;gap:4px;flex-wrap:wrap;">' +
+            '<button onclick="event.stopPropagation();showGameDetail(\'' + g.id + '\')" style="font-size:12px;padding:3px 8px;cursor:pointer;border:1px solid #ffd700;background:rgba(30,30,20,0.8);color:#ffd700;border-radius:4px;">📋 详情</button>' +
+            '<button onclick="event.stopPropagation();toggleWishlist(\'' + g.id + '\')" style="font-size:12px;padding:3px 8px;cursor:pointer;border:1px solid #4aaf5c;background:#1a4a2f;color:#c0ffc0;border-radius:4px;">' + (isWish?'取消关注':'⭐关注') + '</button>' +
             (isIgnored ?
-                '<button onclick="unignoreGame(\'' + g.id + '\')" style="font-size:13px;padding:4px 10px;cursor:pointer;border:1px solid #4488cc;background:#1a2a3a;color:#88bbff;border-radius:4px;">↩ 撤销</button>' :
-                '<button onclick="ignoreGame(\'' + g.id + '\')" style="font-size:13px;padding:4px 10px;cursor:pointer;border:1px solid #5a3a3a;background:#2a1a1a;color:#aa8888;border-radius:4px;">不感兴趣</button>') +
+                '<button onclick="event.stopPropagation();unignoreGame(\'' + g.id + '\')" style="font-size:12px;padding:3px 8px;cursor:pointer;border:1px solid #4488cc;background:#1a2a3a;color:#88bbff;border-radius:4px;">↩ 撤销</button>' :
+                '<button onclick="event.stopPropagation();ignoreGame(\'' + g.id + '\')" style="font-size:12px;padding:3px 8px;cursor:pointer;border:1px solid #5a3a3a;background:#2a1a1a;color:#aa8888;border-radius:4px;">不感兴趣</button>') +
             '</div>';
         list.appendChild(div);
     }
@@ -185,6 +192,44 @@ function changeRegion(r) { userRegion = r; renderCalendar(); selectDate(selected
 function toggleSidebar() {
     var sb = document.getElementById('sidebar');
     sb.classList.toggle('show');
+}
+
+// ── Game Detail Modal ──
+function showGameDetail(gameId) {
+    var g = null;
+    for (var i = 0; i < GAME_DATA.length; i++) { if (GAME_DATA[i].id === gameId) { g = GAME_DATA[i]; break; } }
+    if (!g) return;
+
+    var cnName = getGameDisplayName(g.name);
+    var platNames = g.platforms.map(function(p) {
+        var map = { PC:'🖥️ Steam/Epic', PS5:'🎮 PS5', Xbox:'🎯 Xbox', Switch:'🕹️ Switch', 手机:'📱 App Store' };
+        return map[p] || p;
+    });
+    var typeLabel = g.type === 'release' ? '🎮 发售' : (g.type === 'dlc' ? '📦 DLC' : '🔄 更新');
+    var ratingLabel = g.rating === 'mature' ? '🔞 成人' : (g.rating === 'teen' ? '👦 青少年' : '👶 全年龄');
+
+    var releasesHTML = '';
+    for (var i = 0; i < g.releases.length; i++) {
+        var regionNames = { CN:'🇨🇳中国', GLOBAL:'🌍全球', JP:'🇯🇵日本', EU:'🇪🇺欧洲', KR:'🇰🇷韩国' };
+        releasesHTML += '<span style="margin-right:12px;">' + (regionNames[g.releases[i].region]||g.releases[i].region) + ': <b>' + g.releases[i].date + '</b></span>';
+    }
+
+    var html = '<div style="text-align:center;">';
+    html += '<span style="font-size:48px;">' + g.cover + '</span>';
+    html += '<h2 style="color:#fff;margin:8px 0;">' + g.name + '</h2>';
+    if (cnName !== g.name) html += '<p style="color:#ffd700;font-size:18px;">' + cnName + '</p>';
+    html += '<p style="color:#aaa;">' + typeLabel + ' | ' + ratingLabel + ' | ' + platNames.join(' ｜ ') + '</p>';
+    if (g.expectScore) html += '<p style="color:#ffd700;font-size:16px;">⭐ 期待度: ' + g.expectScore + ' | 🔥 热度: ' + g.popularity + '</p>';
+    html += '<div style="margin:10px 0;">' + releasesHTML + '</div>';
+    html += '<p style="color:#ccc;line-height:1.6;max-height:120px;overflow-y:auto;">' + (g.desc || '暂无描述') + '</p>';
+    var isWish = userWishlist.indexOf(g.id) >= 0;
+    html += '<div style="margin-top:12px;">';
+    html += '<button onclick="toggleWishlist(\'' + g.id + '\');showGameDetail(\'' + g.id + '\')" style="padding:6px 16px;cursor:pointer;border:1px solid #4aaf5c;background:#1a4a2f;color:#c0ffc0;border-radius:4px;font-size:14px;margin:4px;">' + (isWish?'取消关注':'⭐ 关注') + '</button>';
+    html += '<button onclick="closeModal()" style="padding:6px 16px;cursor:pointer;border:1px solid #666;background:#333;color:#aaa;border-radius:4px;font-size:14px;margin:4px;">关闭</button>';
+    html += '</div></div>';
+
+    document.getElementById('modal').innerHTML = html;
+    document.getElementById('modal-overlay').classList.add('show');
 }
 
 // ── Modal ──
