@@ -124,6 +124,7 @@ function renderGameList(games) {
         var isIgnored = userPrefs.ignored.indexOf(g.id) >= 0;
         var div = document.createElement('div');
         div.className = 'game-card' + (isWish ? ' wishlist' : '') + (isIgnored ? ' ignored' : '');
+        div.onclick = function(e) { if (e.target.tagName !== 'BUTTON') showGameDetail(g.id); };
         var platNames = g.platforms.map(function(p) {
             var map = { PC:'🖥️ Steam/Epic', PS5:'🎮 PS5', Xbox:'🎯 Xbox', Switch:'🕹️ Switch', 手机:'📱 App Store' };
             return map[p] || p;
@@ -214,19 +215,48 @@ function showGameDetail(gameId) {
         releasesHTML += '<span style="margin-right:12px;">' + (regionNames[g.releases[i].region]||g.releases[i].region) + ': <b>' + g.releases[i].date + '</b></span>';
     }
 
-    var html = '<div style="text-align:center;">';
-    html += '<span style="font-size:48px;">' + g.cover + '</span>';
+    // 封面图片
+    var coverHTML = '';
+    if (g.cover && g.cover.indexOf('http') === 0) {
+        coverHTML = '<img src="' + g.cover + '" style="width:100%;max-width:460px;border-radius:8px;margin-bottom:10px;" onerror="this.style.display=\'none\'">';
+    } else {
+        coverHTML = '<span style="font-size:64px;">🎮</span>';
+    }
+
+    // 截图
+    var screenshotsHTML = '';
+    if (g.screenshots && g.screenshots.length > 0) {
+        screenshotsHTML = '<div style="display:flex;gap:4px;overflow-x:auto;margin:10px 0;padding-bottom:4px;">';
+        for (var si = 0; si < Math.min(g.screenshots.length, 6); si++) {
+            screenshotsHTML += '<img src="' + g.screenshots[si] + '" style="height:80px;border-radius:4px;flex-shrink:0;" onerror="this.style.display=\'none\'">';
+        }
+        screenshotsHTML += '</div>';
+    }
+
+    // 评分
+    var scoreHTML = '';
+    if (g.expectScore) {
+        scoreHTML = '<span style="color:#5cce7c;font-size:16px;">⭐ ' + g.expectScore + '</span>';
+        if (g.scoreSource) scoreHTML += ' <span style="color:#888;font-size:12px;">(' + g.scoreSource + ')</span>';
+    }
+    scoreHTML += ' <span style="color:#e08850;font-size:16px;margin-left:12px;">🔥 ' + (g.popularity || '?') + '</span> <span style="color:#888;font-size:12px;">(热度)</span>';
+
+    var html = '<div style="position:relative;">';
+    html += '<button onclick="closeModal()" style="position:absolute;top:0;right:0;padding:4px 10px;cursor:pointer;border:1px solid #666;background:#333;color:#ccc;border-radius:4px;font-size:18px;line-height:1;">✕</button>';
+    html += '<div style="text-align:center;">';
+    html += coverHTML;
     html += '<h2 style="color:#fff;margin:8px 0;">' + g.name + '</h2>';
     if (cnName !== g.name) html += '<p style="color:#ffd700;font-size:18px;">' + cnName + '</p>';
     html += '<p style="color:#aaa;">' + typeLabel + ' | ' + ratingLabel + ' | ' + platNames.join(' ｜ ') + '</p>';
-    if (g.expectScore) html += '<p style="color:#ffd700;font-size:16px;">⭐ 期待度: ' + g.expectScore + ' | 🔥 热度: ' + g.popularity + '</p>';
-    html += '<div style="margin:10px 0;">' + releasesHTML + '</div>';
-    html += '<p style="color:#ccc;line-height:1.6;max-height:120px;overflow-y:auto;">' + (g.desc || '暂无描述') + '</p>';
+    html += '<p style="margin:8px 0;">' + scoreHTML + '</p>';
+    html += '<div style="margin:10px 0;font-size:14px;">' + releasesHTML + '</div>';
+    html += screenshotsHTML;
+    html += '<p style="color:#ccc;line-height:1.6;max-height:150px;overflow-y:auto;">' + (g.desc ? g.desc.replace(/-/g,' ') : '暂无描述') + '</p>';
     var isWish = userWishlist.indexOf(g.id) >= 0;
     html += '<div style="margin-top:12px;">';
     html += '<button onclick="toggleWishlist(\'' + g.id + '\');showGameDetail(\'' + g.id + '\')" style="padding:6px 16px;cursor:pointer;border:1px solid #4aaf5c;background:#1a4a2f;color:#c0ffc0;border-radius:4px;font-size:14px;margin:4px;">' + (isWish?'取消关注':'⭐ 关注') + '</button>';
     html += '<button onclick="closeModal()" style="padding:6px 16px;cursor:pointer;border:1px solid #666;background:#333;color:#aaa;border-radius:4px;font-size:14px;margin:4px;">关闭</button>';
-    html += '</div></div>';
+    html += '</div></div></div>';
 
     document.getElementById('modal').innerHTML = html;
     document.getElementById('modal-overlay').classList.add('show');
@@ -238,7 +268,6 @@ function showModal(html) {
     document.getElementById('modal-overlay').classList.add('show');
 }
 function closeModal(e) {
-    if (e && e.target !== document.getElementById('modal-overlay')) return;
     document.getElementById('modal-overlay').classList.remove('show');
 }
 
