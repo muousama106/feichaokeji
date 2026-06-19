@@ -7,7 +7,8 @@
 // RAWG API Key（运营方配置，用户无需关心）
 var RAWG_API_KEY = localStorage.getItem('gc_rawg_key') || '';
 // Gitee/CDN 远程数据库URL（用户自动拉取，无需VPN）
-var REMOTE_DATA_URL = '/api/proxy'; // 同域部署，无需完整URL
+// GitHub API — 国内可直连
+var REMOTE_DATA_URL = 'https://api.github.com/repos/muousama106/feichaokeji/contents/games.json';
 
 var CRAWLER_CONFIG = {
     cacheKey: 'gc_game_cache',
@@ -15,56 +16,6 @@ var CRAWLER_CONFIG = {
 };
 
 // ═══ 从 RAWG API 拉取（需要VPN）═══
-// ═══ 通过 Vercel 代理抓取 RAWG（无 CORS 问题）═══
-async function fetchViaVercel() {
-    var all = [];
-    for (var p = 1; p <= 10; p++) {
-        try {
-            var resp = await fetchTimeout(REMOTE_DATA_URL + '?page=' + p, 10000);
-            if (!resp.ok) break;
-            var data = await resp.json();
-            if (!data || !data.results || data.results.length === 0) break;
-            data.results.forEach(function(g) {
-                var rdate = g.released || '2026-08-01';
-                if (!rdate.match(/^\d{4}-\d{2}-\d{2}$/)) rdate = '2026-08-01';
-                var genres = [];
-                if (g.genres) g.genres.forEach(function(ge) {
-                    var n = ge.name;
-                    if (n.indexOf('Action')>=0) genres.push('动作冒险');
-                    else if (n.indexOf('RPG')>=0) genres.push('RPG');
-                    else if (n.indexOf('Shooter')>=0) genres.push('FPS/射击');
-                    else if (n.indexOf('Strategy')>=0) genres.push('策略');
-                    else if (n.indexOf('Simulation')>=0) genres.push('模拟经营');
-                    else if (n.indexOf('Sport')>=0||n.indexOf('Racing')>=0) genres.push('体育竞速');
-                    else if (n.indexOf('Indie')>=0) genres.push('独立游戏');
-                });
-                if (genres.length===0) genres.push('动作冒险');
-                var platforms = [];
-                if (g.parent_platforms) g.parent_platforms.forEach(function(pf) {
-                    var n = pf.platform.name;
-                    if (n==='PC') platforms.push('PC');
-                    else if (n==='PlayStation') platforms.push('PS5');
-                    else if (n==='Xbox') platforms.push('Xbox');
-                    else if (n==='Nintendo') platforms.push('Switch');
-                });
-                if (platforms.length===0) platforms.push('PC');
-                all.push({
-                    id:'rawg_'+g.id, name:g.name, type:'release',
-                    genres:genres.slice(0,3), platforms:platforms,
-                    releases:[{region:'GLOBAL',date:rdate},{region:'CN',date:rdate}],
-                    expectScore:g.metacritic||g.rating_top||75, popularity:Math.round((g.added||100)/10),
-                    rating:g.esrb_rating&&g.esrb_rating.name==='Mature'?'mature':'teen',
-                    cover:g.background_image?'🖼️':'🎮', desc:(g.slug||'').replace(/-/g,' ').substring(0,60),
-                    source:'vercel_rawg',
-                });
-            });
-        } catch(e) { continue; }
-    }
-    if (all.length > 0) flashMsg('🎮 Vercel抓取: ' + all.length + ' 款游戏');
-    else flashMsg('⚠ Vercel返回0款，检查代理是否正常');
-    return all.length > 0 ? all : null;
-}
-
 // ═══ GitHub API（国内直连）═══
 async function fetchRemoteCDN() {
     var apiUrl = 'https://api.github.com/repos/muousama106/feichaokeji/contents/games.json';
@@ -95,13 +46,10 @@ function setCachedGames(games) {
 
 // ═══ 主同步 ═══
 async function syncGameData() {
-    // 1. Vercel代理RAWG（实时数据，最优先）
-    var rawg = await fetchViaVercel();
-    if (rawg && rawg.length > 0) { GAME_DATA = rawg; setCachedGames(rawg); return rawg.length; }
-    // 2. GitHub API（Vercel失败时才启用）
+    // 1. GitHub API（国内直连，数据由GitHub Actions每天自动更新）
     var cdn = await fetchRemoteCDN();
-    if (cdn && cdn.length > 0 && (!rawg || rawg.length === 0)) { GAME_DATA = cdn; setCachedGames(cdn); return cdn.length; }
-    // 3. 缓存
+    if (cdn && cdn.length > 0) { GAME_DATA = cdn; setCachedGames(cdn); return cdn.length; }
+    // 2. 缓存
     var cached = getCachedGames();
     if (cached && cached.length > 0) { GAME_DATA = cached; return cached.length; }
     return GAME_DATA.length;
