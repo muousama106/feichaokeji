@@ -1,0 +1,23 @@
+name: 每日自动更新游戏数据
+on:
+  schedule:
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      - name: 抓取RAWG并更新games.json
+        run: node scripts/fetch.js
+        env:
+          RAWG_KEY: ${{ secrets.RAWG_KEY }}
+      - name: 提交更新
+        run: |
+          git config user.name "GameBot"
+          git config user.email "bot@gamecalendar.app"
+          git add games.json
+          git diff --staged --quiet || (git commit -m "🔄 自动更新 ($(date +%Y-%m-%d))" && git push)
