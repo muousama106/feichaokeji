@@ -48,15 +48,24 @@ async function main() {
           if (n && !platforms.includes(n)) platforms.push(n);
         });
         if (!platforms.length) platforms.push('PC');
+        // 截图URL列表
+        var screenshots = [];
+        if (g.short_screenshots) g.short_screenshots.forEach(function(s) {
+          if (s.image && s.id !== -1) screenshots.push(s.image);
+        });
+        // Metacritic评分来源
+        var scoreSource = g.metacritic ? 'Metacritic' : (g.rating_top ? 'RAWG用户' : '暂无');
         all.push({
           id: 'rawg_' + g.id, name: g.name, type: 'release',
           genres: genres.slice(0, 3), platforms,
           releases: [{ region: 'GLOBAL', date: rdate }, { region: 'CN', date: rdate }],
-          expectScore: g.metacritic || g.rating_top || 75,
+          expectScore: g.metacritic || g.rating_top || null,
+          scoreSource: scoreSource,
           popularity: Math.round((g.added || 100) / 10),
           rating: g.esrb_rating && g.esrb_rating.name === 'Mature' ? 'mature' : 'teen',
-          cover: g.background_image ? '🖼️' : '🎮',
-          desc: (g.slug || '').replace(/-/g, ' ').substring(0, 60),
+          cover: g.background_image || '',
+          screenshots: screenshots,
+          desc: (g.description_raw || g.slug || '').replace(/-/g, ' ').substring(0, 200),
           source: 'rawg_auto',
         });
       }
