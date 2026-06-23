@@ -60,7 +60,7 @@
     ],
     "expectScore": 5,
     "scoreSource": "RAWG用户",
-    "popularity": 78,
+    "popularity": 79,
     "rating": "mature",
     "cover": "https://media.rawg.io/media/games/734/7342a1cd82c8997ec620084ae4c2e7e4.jpg",
     "screenshots": [
@@ -1197,6 +1197,36 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1010940",
+    "name": "Nioh 3",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC",
+      "PS5"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-02-06"
+      },
+      {
+        "region": "CN",
+        "date": "2026-02-06"
+      }
+    ],
+    "expectScore": 5,
+    "scoreSource": "RAWG用户",
+    "popularity": 7,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/18f/18f1e09f98c9a0e822b616d68d73c956.jpg",
+    "screenshots": [],
+    "desc": "nioh 3",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_983869",
     "name": "MIO: Memories in Orbit",
     "type": "release",
@@ -1233,36 +1263,6 @@
       "https://media.rawg.io/media/screenshots/1f3/1f3a18aec84fa56ce025a303fefb6ba5.jpg"
     ],
     "desc": "mio memories in orbit",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1010940",
-    "name": "Nioh 3",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC",
-      "PS5"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-02-06"
-      },
-      {
-        "region": "CN",
-        "date": "2026-02-06"
-      }
-    ],
-    "expectScore": 5,
-    "scoreSource": "RAWG用户",
-    "popularity": 6,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/18f/18f1e09f98c9a0e822b616d68d73c956.jpg",
-    "screenshots": [],
-    "desc": "nioh 3",
     "source": "rawg_auto"
   },
   {
@@ -1542,34 +1542,40 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_987698",
-    "name": "Heroes of Might & Magic: Olden Era",
+    "id": "rawg_1017360",
+    "name": "Assassin's Creed Back Flag Resynced",
     "type": "release",
     "genres": [
-      "策略"
+      "动作冒险"
     ],
     "platforms": [
-      "PC"
+      "PC",
+      "PS5",
+      "Xbox"
     ],
     "releases": [
       {
         "region": "GLOBAL",
-        "date": "2026-04-30"
+        "date": "2026-07-09"
       },
       {
         "region": "CN",
-        "date": "2026-04-30"
+        "date": "2026-07-09"
       }
     ],
-    "expectScore": 4,
-    "scoreSource": "RAWG用户",
+    "expectScore": null,
+    "scoreSource": "暂无",
     "popularity": 5,
     "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/69e/69ece38d22dcc1c44de7ddb7901a1a41.jpg",
+    "cover": "https://media.rawg.io/media/screenshots/990/99088f6f170459244defd7afd9fce096.jpg",
     "screenshots": [
-      "https://media.rawg.io/media/screenshots/69e/69ece38d22dcc1c44de7ddb7901a1a41.jpg"
+      "https://media.rawg.io/media/screenshots/d58/d5821066a66a40821dd1a76543896e83.jpg",
+      "https://media.rawg.io/media/screenshots/78a/78aa4ec55e4f9ee8b23565c3e7405de8.jpg",
+      "https://media.rawg.io/media/screenshots/816/8160e9927929a9750fc63ed485df3e2a.jpg",
+      "https://media.rawg.io/media/screenshots/ce0/ce0ebb7f1d0a8234e5a0248cdc6fd4e9.jpg",
+      "https://media.rawg.io/media/screenshots/990/99088f6f170459244defd7afd9fce096.jpg"
     ],
-    "desc": "heroes of might magic olden era",
+    "desc": "assassins creed back flag resynced",
     "source": "rawg_auto"
   },
   {
@@ -1610,40 +1616,34 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1017360",
-    "name": "Assassin's Creed Back Flag Resynced",
+    "id": "rawg_987698",
+    "name": "Heroes of Might & Magic: Olden Era",
     "type": "release",
     "genres": [
-      "动作冒险"
+      "策略"
     ],
     "platforms": [
-      "PC",
-      "PS5",
-      "Xbox"
+      "PC"
     ],
     "releases": [
       {
         "region": "GLOBAL",
-        "date": "2026-07-09"
+        "date": "2026-04-30"
       },
       {
         "region": "CN",
-        "date": "2026-07-09"
+        "date": "2026-04-30"
       }
     ],
-    "expectScore": null,
-    "scoreSource": "暂无",
+    "expectScore": 4,
+    "scoreSource": "RAWG用户",
     "popularity": 5,
     "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/990/99088f6f170459244defd7afd9fce096.jpg",
+    "cover": "https://media.rawg.io/media/screenshots/69e/69ece38d22dcc1c44de7ddb7901a1a41.jpg",
     "screenshots": [
-      "https://media.rawg.io/media/screenshots/d58/d5821066a66a40821dd1a76543896e83.jpg",
-      "https://media.rawg.io/media/screenshots/78a/78aa4ec55e4f9ee8b23565c3e7405de8.jpg",
-      "https://media.rawg.io/media/screenshots/816/8160e9927929a9750fc63ed485df3e2a.jpg",
-      "https://media.rawg.io/media/screenshots/ce0/ce0ebb7f1d0a8234e5a0248cdc6fd4e9.jpg",
-      "https://media.rawg.io/media/screenshots/990/99088f6f170459244defd7afd9fce096.jpg"
+      "https://media.rawg.io/media/screenshots/69e/69ece38d22dcc1c44de7ddb7901a1a41.jpg"
     ],
-    "desc": "assassins creed back flag resynced",
+    "desc": "heroes of might magic olden era",
     "source": "rawg_auto"
   },
   {
@@ -2073,6 +2073,39 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_275607",
+    "name": "Phonopolis",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-05-20"
+      },
+      {
+        "region": "CN",
+        "date": "2026-05-20"
+      }
+    ],
+    "expectScore": 4,
+    "scoreSource": "RAWG用户",
+    "popularity": 3,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/044/044e2732dc470c41a6a2ac074bdf7fb0.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/806/806558b7c005600e18e0d6e4de18af77.jpg",
+      "https://media.rawg.io/media/screenshots/aa3/aa3c89975d2a3a160e13c7ba12385a5b.jpg",
+      "https://media.rawg.io/media/screenshots/089/0894347e351aa509077c67e2e54dab0c.jpg"
+    ],
+    "desc": "phonopolis",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1002696",
     "name": "Motorslice",
     "type": "release",
@@ -2107,39 +2140,6 @@
       "https://media.rawg.io/media/screenshots/667/66755b959fa3fe7ca638a829b92f3535.jpg"
     ],
     "desc": "motorslice",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_275607",
-    "name": "Phonopolis",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-05-20"
-      },
-      {
-        "region": "CN",
-        "date": "2026-05-20"
-      }
-    ],
-    "expectScore": 5,
-    "scoreSource": "RAWG用户",
-    "popularity": 3,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/044/044e2732dc470c41a6a2ac074bdf7fb0.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/806/806558b7c005600e18e0d6e4de18af77.jpg",
-      "https://media.rawg.io/media/screenshots/aa3/aa3c89975d2a3a160e13c7ba12385a5b.jpg",
-      "https://media.rawg.io/media/screenshots/089/0894347e351aa509077c67e2e54dab0c.jpg"
-    ],
-    "desc": "phonopolis",
     "source": "rawg_auto"
   },
   {
@@ -3083,6 +3083,45 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1013132",
+    "name": "Halo Campaign Evolved",
+    "type": "release",
+    "genres": [
+      "FPS/射击",
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-07-28"
+      },
+      {
+        "region": "CN",
+        "date": "2026-07-28"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 2,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/c44/c445c015eb08b156eed3f047f9718508.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/7f0/7f074d2e43a973552128d487ed551b2c.jpg",
+      "https://media.rawg.io/media/screenshots/21a/21aed35c2a98931b24b0d396328353a3.jpg",
+      "https://media.rawg.io/media/screenshots/e91/e919553ac3bc562c78a1b76ec5f274d1.jpg",
+      "https://media.rawg.io/media/screenshots/c7a/c7ab62bd626033433e7449599b5996f8.jpeg",
+      "https://media.rawg.io/media/screenshots/183/18317603999ef601d3addcb99d452bfc.jpg",
+      "https://media.rawg.io/media/screenshots/501/5014da12dae913611e69a1d7011a9ec8.jpeg"
+    ],
+    "desc": "halo campaign evolved",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1015425",
     "name": "Ace Combat 8: Wings of Theve",
     "type": "release",
@@ -3114,45 +3153,6 @@
       "https://media.rawg.io/media/screenshots/f9e/f9ef6161a0fc80e9f588077e3c3206b0.jpg"
     ],
     "desc": "ace combat 8 wings of theve",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1013132",
-    "name": "Halo Campaign Evolved",
-    "type": "release",
-    "genres": [
-      "FPS/射击",
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC",
-      "PS5",
-      "Xbox"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-07-28"
-      },
-      {
-        "region": "CN",
-        "date": "2026-07-28"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 1,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/c44/c445c015eb08b156eed3f047f9718508.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/7f0/7f074d2e43a973552128d487ed551b2c.jpg",
-      "https://media.rawg.io/media/screenshots/21a/21aed35c2a98931b24b0d396328353a3.jpg",
-      "https://media.rawg.io/media/screenshots/e91/e919553ac3bc562c78a1b76ec5f274d1.jpg",
-      "https://media.rawg.io/media/screenshots/c7a/c7ab62bd626033433e7449599b5996f8.jpeg",
-      "https://media.rawg.io/media/screenshots/183/18317603999ef601d3addcb99d452bfc.jpg",
-      "https://media.rawg.io/media/screenshots/501/5014da12dae913611e69a1d7011a9ec8.jpeg"
-    ],
-    "desc": "halo campaign evolved",
     "source": "rawg_auto"
   },
   {
@@ -4024,6 +4024,40 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1017826",
+    "name": "Dead as Disco",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-05-05"
+      },
+      {
+        "region": "CN",
+        "date": "2026-05-05"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 1,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/508/5089a843a832f5e590ea188f098606b4.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/d8e/d8e64c5a0d8aefa06407d8732aed3ca2.jpg",
+      "https://media.rawg.io/media/screenshots/4d3/4d390c238ead2e499e4a5460db7f8720.jpg",
+      "https://media.rawg.io/media/screenshots/e90/e90372bac4a984751556b21753677c2e.jpg",
+      "https://media.rawg.io/media/screenshots/508/5089a843a832f5e590ea188f098606b4.jpg"
+    ],
+    "desc": "dead as disco",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1018062",
     "name": "Silent Hill: Townfall",
     "type": "release",
@@ -4208,40 +4242,6 @@
     "cover": "https://media.rawg.io/media/games/67b/67b8ca361688922a71e441445fe892d4.jpg",
     "screenshots": [],
     "desc": "crushed in time",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1017826",
-    "name": "Dead as Disco",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-05-05"
-      },
-      {
-        "region": "CN",
-        "date": "2026-05-05"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 1,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/508/5089a843a832f5e590ea188f098606b4.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/d8e/d8e64c5a0d8aefa06407d8732aed3ca2.jpg",
-      "https://media.rawg.io/media/screenshots/4d3/4d390c238ead2e499e4a5460db7f8720.jpg",
-      "https://media.rawg.io/media/screenshots/e90/e90372bac4a984751556b21753677c2e.jpg",
-      "https://media.rawg.io/media/screenshots/508/5089a843a832f5e590ea188f098606b4.jpg"
-    ],
-    "desc": "dead as disco",
     "source": "rawg_auto"
   },
   {
@@ -5091,35 +5091,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1015604",
-    "name": "Starrupture",
-    "type": "release",
-    "genres": [
-      "FPS/射击"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-01-06"
-      },
-      {
-        "region": "CN",
-        "date": "2026-01-06"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "",
-    "screenshots": [],
-    "desc": "starrupture",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1016313",
     "name": "ASTRID'S ADVENTURE",
     "type": "release",
@@ -5771,6 +5742,35 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1015604",
+    "name": "Starrupture",
+    "type": "release",
+    "genres": [
+      "FPS/射击"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-01-06"
+      },
+      {
+        "region": "CN",
+        "date": "2026-01-06"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "",
+    "screenshots": [],
+    "desc": "starrupture",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1016375",
     "name": "Lost and Found Co.",
     "type": "release",
@@ -6082,37 +6082,6 @@
       "https://media.rawg.io/media/screenshots/2dd/2ddc61f2d509dd3fdecf8cb8b9c34b10.jpg"
     ],
     "desc": "dead pets unleashed",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1015522",
-    "name": "The Black Ice",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2025-12-24"
-      },
-      {
-        "region": "CN",
-        "date": "2025-12-24"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/57c/57c7c960b04c3ed3349ed78440d926f4.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/57c/57c7c960b04c3ed3349ed78440d926f4.jpg"
-    ],
-    "desc": "the black ice",
     "source": "rawg_auto"
   },
   {
@@ -14008,6 +13977,42 @@
       "https://media.rawg.io/media/screenshots/78b/78b4aa72c2e9fd8c97022538b4a1678d.jpg"
     ],
     "desc": "the golden caravan demo",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1017376",
+    "name": "Bonereader Demo",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-04-20"
+      },
+      {
+        "region": "CN",
+        "date": "2026-04-20"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/6c0/6c0921bcf88ee6ffe51cfbd4e29dc141.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/23f/23f76849875adb41f97cd3b3c39fef01.jpg",
+      "https://media.rawg.io/media/screenshots/14b/14ba45a8f5d1a88b56c460ab792e0cd1.jpg",
+      "https://media.rawg.io/media/screenshots/ad4/ad4699cb876f62b284e65e89d60ce4fb.jpg",
+      "https://media.rawg.io/media/screenshots/ea7/ea7443f60cdd0c3ab79a10f690433837.jpg",
+      "https://media.rawg.io/media/screenshots/250/250e1bdb596b0b686b6730c7cb2cebfa.jpg",
+      "https://media.rawg.io/media/screenshots/064/064d3dcf31ba9d4d32dd62e47eca54b6.jpg"
+    ],
+    "desc": "bonereader demo",
     "source": "rawg_auto"
   }
 ]
