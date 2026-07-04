@@ -1646,6 +1646,41 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_846302",
+    "name": "Luna Abyss",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-05-21"
+      },
+      {
+        "region": "CN",
+        "date": "2026-05-21"
+      }
+    ],
+    "expectScore": 4,
+    "scoreSource": "RAWG用户",
+    "popularity": 5,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/759/75938a44d83af478a137a8a2298c0f47.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/147/1473c3b6fa75f338a5dc6322d209e004.jpg",
+      "https://media.rawg.io/media/screenshots/b4e/b4e86b026e975d3f70422bf8245f0da2.jpg",
+      "https://media.rawg.io/media/screenshots/363/363706543223b69fa9a6fab5df00b2ba.jpg",
+      "https://media.rawg.io/media/screenshots/aa7/aa7c50baac2f0ff945598159f8f9487a.jpg",
+      "https://media.rawg.io/media/screenshots/1af/1afbb5ac587d61e3c93bc7d92b552f50.jpg"
+    ],
+    "desc": "luna abyss",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1009246",
     "name": "Arknights: Endfield",
     "type": "release",
@@ -1680,75 +1715,6 @@
       "https://media.rawg.io/media/screenshots/6da/6da7a407b0d98c5346a544c00061f754.jpg"
     ],
     "desc": "arknights endfield",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_846302",
-    "name": "Luna Abyss",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-05-21"
-      },
-      {
-        "region": "CN",
-        "date": "2026-05-21"
-      }
-    ],
-    "expectScore": 4,
-    "scoreSource": "RAWG用户",
-    "popularity": 4,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/759/75938a44d83af478a137a8a2298c0f47.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/147/1473c3b6fa75f338a5dc6322d209e004.jpg",
-      "https://media.rawg.io/media/screenshots/b4e/b4e86b026e975d3f70422bf8245f0da2.jpg",
-      "https://media.rawg.io/media/screenshots/363/363706543223b69fa9a6fab5df00b2ba.jpg",
-      "https://media.rawg.io/media/screenshots/aa7/aa7c50baac2f0ff945598159f8f9487a.jpg",
-      "https://media.rawg.io/media/screenshots/1af/1afbb5ac587d61e3c93bc7d92b552f50.jpg"
-    ],
-    "desc": "luna abyss",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1015972",
-    "name": "Kena: Scars of Kosmora",
-    "type": "release",
-    "genres": [
-      "动作冒险",
-      "RPG"
-    ],
-    "platforms": [
-      "PC",
-      "PS5"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-12-31"
-      },
-      {
-        "region": "CN",
-        "date": "2026-12-31"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 4,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/3a3/3a3855e1b5218c02ab038dcb873eacde.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/fbd/fbd47013add2bd8363dc65e989c208d9.jpg",
-      "https://media.rawg.io/media/screenshots/3a3/3a3855e1b5218c02ab038dcb873eacde.jpg"
-    ],
-    "desc": "kena scars of kosmora",
     "source": "rawg_auto"
   },
   {
@@ -1823,6 +1789,40 @@
       "https://media.rawg.io/media/screenshots/e8e/e8ead60e8d276523d0e590674cb62678.jpg"
     ],
     "desc": "quarantine zone the last check",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1015972",
+    "name": "Kena: Scars of Kosmora",
+    "type": "release",
+    "genres": [
+      "动作冒险",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PS5"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-12-31"
+      },
+      {
+        "region": "CN",
+        "date": "2026-12-31"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 4,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/3a3/3a3855e1b5218c02ab038dcb873eacde.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/fbd/fbd47013add2bd8363dc65e989c208d9.jpg",
+      "https://media.rawg.io/media/screenshots/3a3/3a3855e1b5218c02ab038dcb873eacde.jpg"
+    ],
+    "desc": "kena scars of kosmora",
     "source": "rawg_auto"
   },
   {
@@ -2034,6 +2034,36 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1010947",
+    "name": "Code Vein II",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC",
+      "PS5"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-01-30"
+      },
+      {
+        "region": "CN",
+        "date": "2026-01-30"
+      }
+    ],
+    "expectScore": 3,
+    "scoreSource": "RAWG用户",
+    "popularity": 3,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/189/1895eab697131b69161c388807115888.jpg",
+    "screenshots": [],
+    "desc": "code vein 2",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1008986",
     "name": "Valor Mortis",
     "type": "release",
@@ -2100,36 +2130,6 @@
       "https://media.rawg.io/media/screenshots/b63/b634ca0687f73b55e355b12fe825ef96.jpg"
     ],
     "desc": "legacy of kain defiance remastered",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1010947",
-    "name": "Code Vein II",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC",
-      "PS5"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-01-30"
-      },
-      {
-        "region": "CN",
-        "date": "2026-01-30"
-      }
-    ],
-    "expectScore": 3,
-    "scoreSource": "RAWG用户",
-    "popularity": 3,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/189/1895eab697131b69161c388807115888.jpg",
-    "screenshots": [],
-    "desc": "code vein 2",
     "source": "rawg_auto"
   },
   {
@@ -3124,6 +3124,41 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1014269",
+    "name": "The Adventures of Elliot: The Millennium Tales",
+    "type": "release",
+    "genres": [
+      "动作冒险",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox",
+      "Switch"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-06-18"
+      },
+      {
+        "region": "CN",
+        "date": "2026-06-18"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 2,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/a7a/a7aed08ad87bacbc7b6b7bec1aba4094.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/a7a/a7aed08ad87bacbc7b6b7bec1aba4094.jpg"
+    ],
+    "desc": "the adventures of elliot the millenium tales",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1017507",
     "name": "inKonbini: One Store. Many Stories",
     "type": "release",
@@ -3160,41 +3195,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1014269",
-    "name": "The Adventures of Elliot: The Millennium Tales",
-    "type": "release",
-    "genres": [
-      "动作冒险",
-      "RPG"
-    ],
-    "platforms": [
-      "PC",
-      "PS5",
-      "Xbox",
-      "Switch"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-06-18"
-      },
-      {
-        "region": "CN",
-        "date": "2026-06-18"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 1,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/a7a/a7aed08ad87bacbc7b6b7bec1aba4094.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/a7a/a7aed08ad87bacbc7b6b7bec1aba4094.jpg"
-    ],
-    "desc": "the adventures of elliot the millenium tales",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1015727",
     "name": "Tides of Tomorrow",
     "type": "release",
@@ -3228,6 +3228,39 @@
       "https://media.rawg.io/media/screenshots/de6/de65dde05667371ded2d101f002fc0d8.jpg"
     ],
     "desc": "tides of tomorrow",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1018102",
+    "name": "Castlevania: Belmont's Curse",
+    "type": "release",
+    "genres": [
+      "动作冒险",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox",
+      "Switch"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-10-15"
+      },
+      {
+        "region": "CN",
+        "date": "2026-10-15"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 1,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/429/42928697eb80feb13e6087170a10565a.jpeg",
+    "screenshots": [],
+    "desc": "castlevania belmonts curse",
     "source": "rawg_auto"
   },
   {
@@ -3294,39 +3327,6 @@
       "https://media.rawg.io/media/screenshots/3c6/3c6655e5fa82e245a9f0be20d8d7ac89.jpg"
     ],
     "desc": "rayman legends retold",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1018102",
-    "name": "Castlevania: Belmont's Curse",
-    "type": "release",
-    "genres": [
-      "动作冒险",
-      "RPG"
-    ],
-    "platforms": [
-      "PC",
-      "PS5",
-      "Xbox",
-      "Switch"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-10-15"
-      },
-      {
-        "region": "CN",
-        "date": "2026-10-15"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 1,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/429/42928697eb80feb13e6087170a10565a.jpeg",
-    "screenshots": [],
-    "desc": "castlevania belmonts curse",
     "source": "rawg_auto"
   },
   {
@@ -3688,6 +3688,35 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1016114",
+    "name": "Yoshi and the Mysterious Book",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "Switch"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-05-21"
+      },
+      {
+        "region": "CN",
+        "date": "2026-05-21"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 1,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/25a/25a256ab63823d3ed3eea8207730d074.jpg",
+    "screenshots": [],
+    "desc": "yoshi and the mysterious book",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_973389",
     "name": "Exodus (Archetype Entertainment)",
     "type": "release",
@@ -3760,35 +3789,6 @@
       "https://media.rawg.io/media/screenshots/dc0/dc0bb44f9892dd4d6f68c23bd45d83fa.jpg"
     ],
     "desc": "all will fall",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1016114",
-    "name": "Yoshi and the Mysterious Book",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "Switch"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-05-21"
-      },
-      {
-        "region": "CN",
-        "date": "2026-05-21"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 1,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/25a/25a256ab63823d3ed3eea8207730d074.jpg",
-    "screenshots": [],
-    "desc": "yoshi and the mysterious book",
     "source": "rawg_auto"
   },
   {
@@ -5289,6 +5289,39 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1018100",
+    "name": "Sinking City 2",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-08-18"
+      },
+      {
+        "region": "CN",
+        "date": "2026-08-18"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/8f5/8f55c6c590a4eb8d97facbadfd8f605e.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/8f5/8f55c6c590a4eb8d97facbadfd8f605e.jpg"
+    ],
+    "desc": "sinking city 2 2",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1016313",
     "name": "ASTRID'S ADVENTURE",
     "type": "release",
@@ -5809,39 +5842,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1018100",
-    "name": "Sinking City 2",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC",
-      "PS5",
-      "Xbox"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-08-18"
-      },
-      {
-        "region": "CN",
-        "date": "2026-08-18"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/8f5/8f55c6c590a4eb8d97facbadfd8f605e.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/8f5/8f55c6c590a4eb8d97facbadfd8f605e.jpg"
-    ],
-    "desc": "sinking city 2 2",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1018109",
     "name": "Mafia: The Old Country - Man of Honor",
     "type": "release",
@@ -5873,6 +5873,42 @@
       "https://media.rawg.io/media/screenshots/747/7471aaa7e49ed46fa3d4f69594bb9380.jpg"
     ],
     "desc": "mafia the old country man of honor",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1018248",
+    "name": "Space Grunts: Chrono Shard",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-06-21"
+      },
+      {
+        "region": "CN",
+        "date": "2026-06-21"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/edc/edcb9e46a8987a123d64c89f93c9159d.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/32d/32d65008c77a6a68c58065bf40ed8d05.jpg",
+      "https://media.rawg.io/media/screenshots/c30/c3064044bb5fbbdafc9e710124d028d6.jpg",
+      "https://media.rawg.io/media/screenshots/8de/8dece54e076ec36db4d1dac493867e32.jpg",
+      "https://media.rawg.io/media/screenshots/4fd/4fdab9758e9bc14f384db4d2be77772b.jpg",
+      "https://media.rawg.io/media/screenshots/964/964c32f562d61c55ef20c6ec5092a38a.jpg",
+      "https://media.rawg.io/media/screenshots/e7b/e7bb409314321d2b50c5ad2fe0e62668.jpg"
+    ],
+    "desc": "space grunts chrono shard",
     "source": "rawg_auto"
   },
   {
@@ -7522,11 +7558,13 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1018248",
-    "name": "Space Grunts: Chrono Shard",
+    "id": "rawg_1018273",
+    "name": "Treasure Beach",
     "type": "release",
     "genres": [
-      "动作冒险"
+      "MMO",
+      "策略",
+      "模拟经营"
     ],
     "platforms": [
       "PC"
@@ -7534,27 +7572,27 @@
     "releases": [
       {
         "region": "GLOBAL",
-        "date": "2026-06-21"
+        "date": "2026-06-20"
       },
       {
         "region": "CN",
-        "date": "2026-06-21"
+        "date": "2026-06-20"
       }
     ],
     "expectScore": null,
     "scoreSource": "暂无",
     "popularity": 0,
     "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/edc/edcb9e46a8987a123d64c89f93c9159d.jpg",
+    "cover": "https://media.rawg.io/media/screenshots/3a4/3a42f69a7400810607528727269a9820.jpg",
     "screenshots": [
-      "https://media.rawg.io/media/screenshots/32d/32d65008c77a6a68c58065bf40ed8d05.jpg",
-      "https://media.rawg.io/media/screenshots/c30/c3064044bb5fbbdafc9e710124d028d6.jpg",
-      "https://media.rawg.io/media/screenshots/8de/8dece54e076ec36db4d1dac493867e32.jpg",
-      "https://media.rawg.io/media/screenshots/4fd/4fdab9758e9bc14f384db4d2be77772b.jpg",
-      "https://media.rawg.io/media/screenshots/964/964c32f562d61c55ef20c6ec5092a38a.jpg",
-      "https://media.rawg.io/media/screenshots/e7b/e7bb409314321d2b50c5ad2fe0e62668.jpg"
+      "https://media.rawg.io/media/screenshots/532/5322290df05b487cc3e89c8334b582a3.jpg",
+      "https://media.rawg.io/media/screenshots/f20/f202558a60873ed60454a9d031a74cc0.jpg",
+      "https://media.rawg.io/media/screenshots/c4b/c4b0820b95ca8cc47b510ecd77314f72.jpg",
+      "https://media.rawg.io/media/screenshots/11f/11f41bccad3822a8fef215abcc94eee8.jpg",
+      "https://media.rawg.io/media/screenshots/6da/6dab3499ab1da5b4a96911e388e39753.jpg",
+      "https://media.rawg.io/media/screenshots/cd9/cd9ce5164acccaba4fd4aefe4dea23e8.jpg"
     ],
-    "desc": "space grunts chrono shard",
+    "desc": "treasure beach",
     "source": "rawg_auto"
   },
   {
@@ -10656,44 +10694,6 @@
       "https://media.rawg.io/media/screenshots/a73/a73455c6cd80aa3c430a78c4d4e6ad60.jpg"
     ],
     "desc": "price for freedom gold and sand demo",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1018273",
-    "name": "Treasure Beach",
-    "type": "release",
-    "genres": [
-      "MMO",
-      "策略",
-      "模拟经营"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-06-20"
-      },
-      {
-        "region": "CN",
-        "date": "2026-06-20"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/3a4/3a42f69a7400810607528727269a9820.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/532/5322290df05b487cc3e89c8334b582a3.jpg",
-      "https://media.rawg.io/media/screenshots/f20/f202558a60873ed60454a9d031a74cc0.jpg",
-      "https://media.rawg.io/media/screenshots/c4b/c4b0820b95ca8cc47b510ecd77314f72.jpg",
-      "https://media.rawg.io/media/screenshots/11f/11f41bccad3822a8fef215abcc94eee8.jpg",
-      "https://media.rawg.io/media/screenshots/6da/6dab3499ab1da5b4a96911e388e39753.jpg",
-      "https://media.rawg.io/media/screenshots/cd9/cd9ce5164acccaba4fd4aefe4dea23e8.jpg"
-    ],
-    "desc": "treasure beach",
     "source": "rawg_auto"
   },
   {
