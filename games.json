@@ -245,7 +245,7 @@
     ],
     "expectScore": 5,
     "scoreSource": "RAWG用户",
-    "popularity": 36,
+    "popularity": 37,
     "rating": "teen",
     "cover": "https://media.rawg.io/media/games/86f/86f2dc1b9671f25a13ff92e069b51786.jpg",
     "screenshots": [
@@ -586,7 +586,7 @@
     ],
     "expectScore": 4,
     "scoreSource": "RAWG用户",
-    "popularity": 18,
+    "popularity": 19,
     "rating": "teen",
     "cover": "https://media.rawg.io/media/games/10d/10dd957940dbaedc77a08730995194c7.jpg",
     "screenshots": [
@@ -3189,39 +3189,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1018102",
-    "name": "Castlevania: Belmont's Curse",
-    "type": "release",
-    "genres": [
-      "动作冒险",
-      "RPG"
-    ],
-    "platforms": [
-      "PC",
-      "PS5",
-      "Xbox",
-      "Switch"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-10-15"
-      },
-      {
-        "region": "CN",
-        "date": "2026-10-15"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 2,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/429/42928697eb80feb13e6087170a10565a.jpeg",
-    "screenshots": [],
-    "desc": "castlevania belmonts curse",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1015727",
     "name": "Tides of Tomorrow",
     "type": "release",
@@ -3255,6 +3222,39 @@
       "https://media.rawg.io/media/screenshots/de6/de65dde05667371ded2d101f002fc0d8.jpg"
     ],
     "desc": "tides of tomorrow",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1018102",
+    "name": "Castlevania: Belmont's Curse",
+    "type": "release",
+    "genres": [
+      "动作冒险",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox",
+      "Switch"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-10-15"
+      },
+      {
+        "region": "CN",
+        "date": "2026-10-15"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 2,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/429/42928697eb80feb13e6087170a10565a.jpeg",
+    "screenshots": [],
+    "desc": "castlevania belmonts curse",
     "source": "rawg_auto"
   },
   {
@@ -3720,39 +3720,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1015905",
-    "name": "Highguard",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-01-27"
-      },
-      {
-        "region": "CN",
-        "date": "2026-01-27"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 1,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/8f7/8f79c4155008bc457383ccc6516e4bd4.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/f74/f74bebffc9d2c03fee46486c57fb8829.jpg",
-      "https://media.rawg.io/media/screenshots/b2c/b2cd70052e4b7b504ca65841bc1bf7f9.jpg",
-      "https://media.rawg.io/media/screenshots/8f7/8f79c4155008bc457383ccc6516e4bd4.jpg"
-    ],
-    "desc": "highguard",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1017826",
     "name": "Dead as Disco",
     "type": "release",
@@ -3955,6 +3922,41 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1018134",
+    "name": "Final Fantasy Resonance",
+    "type": "release",
+    "genres": [
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox",
+      "Switch"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-10-22"
+      },
+      {
+        "region": "CN",
+        "date": "2026-10-22"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 1,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/e79/e79f71ca3e876b54f4ca02c0a5d03aa2.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/0af/0af9b43d63490859db8a6ca012b03b53.jpg",
+      "https://media.rawg.io/media/screenshots/e79/e79f71ca3e876b54f4ca02c0a5d03aa2.jpg"
+    ],
+    "desc": "final fantasy resonance",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1018106",
     "name": "Trine 6: Together in Time",
     "type": "release",
@@ -3991,41 +3993,6 @@
       "https://media.rawg.io/media/screenshots/a1f/a1f4f1730429302fa1a4c674737b1644.jpg"
     ],
     "desc": "trine 6 together in time",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1018134",
-    "name": "Final Fantasy Resonance",
-    "type": "release",
-    "genres": [
-      "RPG"
-    ],
-    "platforms": [
-      "PC",
-      "PS5",
-      "Xbox",
-      "Switch"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-10-22"
-      },
-      {
-        "region": "CN",
-        "date": "2026-10-22"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 1,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/e79/e79f71ca3e876b54f4ca02c0a5d03aa2.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/0af/0af9b43d63490859db8a6ca012b03b53.jpg",
-      "https://media.rawg.io/media/screenshots/e79/e79f71ca3e876b54f4ca02c0a5d03aa2.jpg"
-    ],
-    "desc": "final fantasy resonance",
     "source": "rawg_auto"
   },
   {
@@ -4092,6 +4059,39 @@
     "cover": "https://media.rawg.io/media/games/dfa/dfaff35ff0018dae78189fef51d9935d.jpg",
     "screenshots": [],
     "desc": "opus prism peak",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1015905",
+    "name": "Highguard",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-01-27"
+      },
+      {
+        "region": "CN",
+        "date": "2026-01-27"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 1,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/8f7/8f79c4155008bc457383ccc6516e4bd4.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/f74/f74bebffc9d2c03fee46486c57fb8829.jpg",
+      "https://media.rawg.io/media/screenshots/b2c/b2cd70052e4b7b504ca65841bc1bf7f9.jpg",
+      "https://media.rawg.io/media/screenshots/8f7/8f79c4155008bc457383ccc6516e4bd4.jpg"
+    ],
+    "desc": "highguard",
     "source": "rawg_auto"
   },
   {
@@ -4265,6 +4265,43 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1016279",
+    "name": "Creature Kitchen",
+    "type": "release",
+    "genres": [
+      "独立游戏",
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-02-05"
+      },
+      {
+        "region": "CN",
+        "date": "2026-02-05"
+      }
+    ],
+    "expectScore": 4,
+    "scoreSource": "RAWG用户",
+    "popularity": 1,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/a4c/a4cc0df875690fd675f87f8b6221c20b.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/b32/b3271140ce52fb7a7189946b308bb20b.jpg",
+      "https://media.rawg.io/media/screenshots/a4f/a4ff3d17ae004c139e5b7a1597e82e6a.jpg",
+      "https://media.rawg.io/media/screenshots/b0a/b0a18f9e2369a280a8857b0ebe2e50b6.jpg",
+      "https://media.rawg.io/media/screenshots/9cc/9cc51d3a3d666b89ca345cd16c9e1f9c.jpg",
+      "https://media.rawg.io/media/screenshots/0c2/0c28d10992949475b4558466dd6b86a0.jpg",
+      "https://media.rawg.io/media/screenshots/5a8/5a84a397f2868e7b861059b1c801649d.jpg"
+    ],
+    "desc": "creature kitchen",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1018248",
     "name": "Space Grunts: Chrono Shard",
     "type": "release",
@@ -4301,6 +4338,35 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1017825",
+    "name": "Crushed In Time",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-06-10"
+      },
+      {
+        "region": "CN",
+        "date": "2026-06-10"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 1,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/67b/67b8ca361688922a71e441445fe892d4.jpg",
+    "screenshots": [],
+    "desc": "crushed in time",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1018272",
     "name": "Cozy Cleaner",
     "type": "release",
@@ -4334,35 +4400,6 @@
       "https://media.rawg.io/media/screenshots/bea/beaf8629b23f92889e4c393e4d65a1eb.jpg"
     ],
     "desc": "cozy cleaner",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1017825",
-    "name": "Crushed In Time",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-06-10"
-      },
-      {
-        "region": "CN",
-        "date": "2026-06-10"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 1,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/67b/67b8ca361688922a71e441445fe892d4.jpg",
-    "screenshots": [],
-    "desc": "crushed in time",
     "source": "rawg_auto"
   },
   {
@@ -4463,43 +4500,6 @@
       "https://media.rawg.io/media/screenshots/3c5/3c511506ba31902bbdcbf963219ef77c.jpg"
     ],
     "desc": "beautiful light",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1016279",
-    "name": "Creature Kitchen",
-    "type": "release",
-    "genres": [
-      "独立游戏",
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-02-05"
-      },
-      {
-        "region": "CN",
-        "date": "2026-02-05"
-      }
-    ],
-    "expectScore": 4,
-    "scoreSource": "RAWG用户",
-    "popularity": 1,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/a4c/a4cc0df875690fd675f87f8b6221c20b.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/b32/b3271140ce52fb7a7189946b308bb20b.jpg",
-      "https://media.rawg.io/media/screenshots/a4f/a4ff3d17ae004c139e5b7a1597e82e6a.jpg",
-      "https://media.rawg.io/media/screenshots/b0a/b0a18f9e2369a280a8857b0ebe2e50b6.jpg",
-      "https://media.rawg.io/media/screenshots/9cc/9cc51d3a3d666b89ca345cd16c9e1f9c.jpg",
-      "https://media.rawg.io/media/screenshots/0c2/0c28d10992949475b4558466dd6b86a0.jpg",
-      "https://media.rawg.io/media/screenshots/5a8/5a84a397f2868e7b861059b1c801649d.jpg"
-    ],
-    "desc": "creature kitchen",
     "source": "rawg_auto"
   },
   {
@@ -4918,6 +4918,43 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1016373",
+    "name": "Retro Rewind - Video Store Simulator",
+    "type": "release",
+    "genres": [
+      "独立游戏",
+      "模拟经营"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-03-17"
+      },
+      {
+        "region": "CN",
+        "date": "2026-03-17"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 1,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/7c2/7c224da3b4b9bf37a3d84d4296507b04.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/1ea/1ea630f78d5d79f4fc7c4a3b66ba38ce.jpg",
+      "https://media.rawg.io/media/screenshots/26f/26f4a03fb35bb5b1315399c26134d13a.jpg",
+      "https://media.rawg.io/media/screenshots/709/7092aeaad384899f38f2e70c34f72023.jpg",
+      "https://media.rawg.io/media/screenshots/852/852baaa365ac0112b270734e5c0048e6.jpg",
+      "https://media.rawg.io/media/screenshots/941/94193b455315252e0e14846a17c563b8.jpg",
+      "https://media.rawg.io/media/screenshots/7c2/7c224da3b4b9bf37a3d84d4296507b04.jpg"
+    ],
+    "desc": "retro rewind video store simulator",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1017142",
     "name": "Skull horde",
     "type": "release",
@@ -5263,6 +5300,35 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1018209",
+    "name": "Mole",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-06-15"
+      },
+      {
+        "region": "CN",
+        "date": "2026-06-15"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/a3a/a3a411cdef2cf40574ba824588273ab2.jpg",
+    "screenshots": [],
+    "desc": "mole 3",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1018109",
     "name": "Mafia: The Old Country - Man of Honor",
     "type": "release",
@@ -5294,35 +5360,6 @@
       "https://media.rawg.io/media/screenshots/747/7471aaa7e49ed46fa3d4f69594bb9380.jpg"
     ],
     "desc": "mafia the old country man of honor",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1018209",
-    "name": "Mole",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-06-15"
-      },
-      {
-        "region": "CN",
-        "date": "2026-06-15"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/a3a/a3a411cdef2cf40574ba824588273ab2.jpg",
-    "screenshots": [],
-    "desc": "mole 3",
     "source": "rawg_auto"
   },
   {
@@ -5571,43 +5608,6 @@
       "https://media.rawg.io/media/screenshots/ac0/ac0157a39c43d49bf2662e441f9a1322.jpg"
     ],
     "desc": "corsairs battle of the caribbean",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1016373",
-    "name": "Retro Rewind - Video Store Simulator",
-    "type": "release",
-    "genres": [
-      "独立游戏",
-      "模拟经营"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-03-17"
-      },
-      {
-        "region": "CN",
-        "date": "2026-03-17"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/7c2/7c224da3b4b9bf37a3d84d4296507b04.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/1ea/1ea630f78d5d79f4fc7c4a3b66ba38ce.jpg",
-      "https://media.rawg.io/media/screenshots/26f/26f4a03fb35bb5b1315399c26134d13a.jpg",
-      "https://media.rawg.io/media/screenshots/709/7092aeaad384899f38f2e70c34f72023.jpg",
-      "https://media.rawg.io/media/screenshots/852/852baaa365ac0112b270734e5c0048e6.jpg",
-      "https://media.rawg.io/media/screenshots/941/94193b455315252e0e14846a17c563b8.jpg",
-      "https://media.rawg.io/media/screenshots/7c2/7c224da3b4b9bf37a3d84d4296507b04.jpg"
-    ],
-    "desc": "retro rewind video store simulator",
     "source": "rawg_auto"
   },
   {
@@ -7649,6 +7649,40 @@
       "https://media.rawg.io/media/screenshots/1b4/1b462d21368b0d59c5b53757a93d3034.jpg"
     ],
     "desc": "forbidden solitaire",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1018441",
+    "name": "EA SPORTS College Football 27",
+    "type": "release",
+    "genres": [
+      "模拟经营",
+      "体育竞速"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-07-09"
+      },
+      {
+        "region": "CN",
+        "date": "2026-07-09"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/c3c/c3c42e640ae58a4c31bcdc6ee81500c8.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/c3c/c3c42e640ae58a4c31bcdc6ee81500c8.jpg"
+    ],
+    "desc": "ea sports college football 27",
     "source": "rawg_auto"
   },
   {
@@ -10570,40 +10604,6 @@
       "https://media.rawg.io/media/screenshots/26e/26e5c0e63974d3c65b5c0cbd4753b737.jpg"
     ],
     "desc": "moldwasher",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1018441",
-    "name": "EA SPORTS College Football 27",
-    "type": "release",
-    "genres": [
-      "模拟经营",
-      "体育竞速"
-    ],
-    "platforms": [
-      "PC",
-      "PS5",
-      "Xbox"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-07-09"
-      },
-      {
-        "region": "CN",
-        "date": "2026-07-09"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/c3c/c3c42e640ae58a4c31bcdc6ee81500c8.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/c3c/c3c42e640ae58a4c31bcdc6ee81500c8.jpg"
-    ],
-    "desc": "ea sports college football 27",
     "source": "rawg_auto"
   },
   {
