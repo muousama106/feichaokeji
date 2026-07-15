@@ -319,7 +319,7 @@
     ],
     "expectScore": 4,
     "scoreSource": "RAWG用户",
-    "popularity": 32,
+    "popularity": 33,
     "rating": "teen",
     "cover": "https://media.rawg.io/media/games/23a/23a1c71366aea4341aec483c9dd08a59.jpg",
     "screenshots": [
@@ -660,7 +660,7 @@
     ],
     "expectScore": 3,
     "scoreSource": "RAWG用户",
-    "popularity": 13,
+    "popularity": 14,
     "rating": "teen",
     "cover": "https://media.rawg.io/media/games/319/319d18680fd0233e0ff724f234c97d17.jpg",
     "screenshots": [
@@ -1322,7 +1322,7 @@
     ],
     "expectScore": 4,
     "scoreSource": "RAWG用户",
-    "popularity": 6,
+    "popularity": 7,
     "rating": "teen",
     "cover": "https://media.rawg.io/media/games/599/599396b361afbee649f03f4e32594ae0.jpg",
     "screenshots": [
@@ -1359,7 +1359,7 @@
     ],
     "expectScore": null,
     "scoreSource": "暂无",
-    "popularity": 6,
+    "popularity": 7,
     "rating": "teen",
     "cover": "https://media.rawg.io/media/screenshots/cb8/cb88356feb27fba1102659e7a09c222a.jpg",
     "screenshots": [
@@ -1754,42 +1754,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1017366",
-    "name": "Zero Parades: For Dead Spies",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-05-21"
-      },
-      {
-        "region": "CN",
-        "date": "2026-05-21"
-      }
-    ],
-    "expectScore": 5,
-    "scoreSource": "RAWG用户",
-    "popularity": 4,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/52b/52bc4034309ecefe64b25e4c75a6b525.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/db3/db35576dfaf5f94f3a3e934d274f019a.jpg",
-      "https://media.rawg.io/media/screenshots/8f5/8f5eb4864d1452f1f86b097f148b514c.jpg",
-      "https://media.rawg.io/media/screenshots/f4a/f4a8f6ba3fa2e69e19e46073b6b765cd.jpg",
-      "https://media.rawg.io/media/screenshots/68e/68e2cb81e98f7c554d51884694e3ae32.jpg",
-      "https://media.rawg.io/media/screenshots/d26/d262c718996defa60ffb21f3db65854c.jpg",
-      "https://media.rawg.io/media/screenshots/420/4204e511f70ca09df01759f07b3264b7.jpg"
-    ],
-    "desc": "zero parades for dead spies",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1006936",
     "name": "Styx: Blades of Greed",
     "type": "release",
@@ -1866,6 +1830,42 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1017366",
+    "name": "Zero Parades: For Dead Spies",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-05-21"
+      },
+      {
+        "region": "CN",
+        "date": "2026-05-21"
+      }
+    ],
+    "expectScore": 5,
+    "scoreSource": "RAWG用户",
+    "popularity": 4,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/52b/52bc4034309ecefe64b25e4c75a6b525.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/db3/db35576dfaf5f94f3a3e934d274f019a.jpg",
+      "https://media.rawg.io/media/screenshots/8f5/8f5eb4864d1452f1f86b097f148b514c.jpg",
+      "https://media.rawg.io/media/screenshots/f4a/f4a8f6ba3fa2e69e19e46073b6b765cd.jpg",
+      "https://media.rawg.io/media/screenshots/68e/68e2cb81e98f7c554d51884694e3ae32.jpg",
+      "https://media.rawg.io/media/screenshots/d26/d262c718996defa60ffb21f3db65854c.jpg",
+      "https://media.rawg.io/media/screenshots/420/4204e511f70ca09df01759f07b3264b7.jpg"
+    ],
+    "desc": "zero parades for dead spies",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1010939",
     "name": "Yakuza Kiwami 3 & Dark Ties",
     "type": "release",
@@ -1929,36 +1929,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1010947",
-    "name": "Code Vein II",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC",
-      "PS5"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-01-30"
-      },
-      {
-        "region": "CN",
-        "date": "2026-01-30"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 3,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/189/1895eab697131b69161c388807115888.jpg",
-    "screenshots": [],
-    "desc": "code vein 2",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_275607",
     "name": "Phonopolis",
     "type": "release",
@@ -1989,6 +1959,71 @@
       "https://media.rawg.io/media/screenshots/089/0894347e351aa509077c67e2e54dab0c.jpg"
     ],
     "desc": "phonopolis",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1015978",
+    "name": "Legacy of Kain: Defiance Remastered",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-03-03"
+      },
+      {
+        "region": "CN",
+        "date": "2026-03-03"
+      }
+    ],
+    "expectScore": 4,
+    "scoreSource": "RAWG用户",
+    "popularity": 3,
+    "rating": "mature",
+    "cover": "https://media.rawg.io/media/screenshots/b63/b634ca0687f73b55e355b12fe825ef96.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/045/0457a18bbbd89ca4361da4ab5714807f.jpg",
+      "https://media.rawg.io/media/screenshots/f72/f726c34aa7ebd64a7dd019af35905668.jpg",
+      "https://media.rawg.io/media/screenshots/b14/b14a287077f3a5f4133521aee2981e96.jpg",
+      "https://media.rawg.io/media/screenshots/8f9/8f95a4d9ce369e3cfa203ee604b843a4.jpg",
+      "https://media.rawg.io/media/screenshots/b63/b634ca0687f73b55e355b12fe825ef96.jpg"
+    ],
+    "desc": "legacy of kain defiance remastered",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1010947",
+    "name": "Code Vein II",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC",
+      "PS5"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-01-30"
+      },
+      {
+        "region": "CN",
+        "date": "2026-01-30"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 3,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/189/1895eab697131b69161c388807115888.jpg",
+    "screenshots": [],
+    "desc": "code vein 2",
     "source": "rawg_auto"
   },
   {
@@ -2061,41 +2096,6 @@
       "https://media.rawg.io/media/screenshots/20e/20e62ea7ec2a498bf56e31058f0bd4b1.jpg"
     ],
     "desc": "valor mortis",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1015978",
-    "name": "Legacy of Kain: Defiance Remastered",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-03-03"
-      },
-      {
-        "region": "CN",
-        "date": "2026-03-03"
-      }
-    ],
-    "expectScore": 4,
-    "scoreSource": "RAWG用户",
-    "popularity": 3,
-    "rating": "mature",
-    "cover": "https://media.rawg.io/media/screenshots/b63/b634ca0687f73b55e355b12fe825ef96.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/045/0457a18bbbd89ca4361da4ab5714807f.jpg",
-      "https://media.rawg.io/media/screenshots/f72/f726c34aa7ebd64a7dd019af35905668.jpg",
-      "https://media.rawg.io/media/screenshots/b14/b14a287077f3a5f4133521aee2981e96.jpg",
-      "https://media.rawg.io/media/screenshots/8f9/8f95a4d9ce369e3cfa203ee604b843a4.jpg",
-      "https://media.rawg.io/media/screenshots/b63/b634ca0687f73b55e355b12fe825ef96.jpg"
-    ],
-    "desc": "legacy of kain defiance remastered",
     "source": "rawg_auto"
   },
   {
@@ -2558,6 +2558,43 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1004515",
+    "name": "Mortal Shell II",
+    "type": "release",
+    "genres": [
+      "动作冒险",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-08-20"
+      },
+      {
+        "region": "CN",
+        "date": "2026-08-20"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 2,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/c86/c8696c763ec825c6e4d49efbf2635a26.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/16d/16dd6b1e86184ce6dccc66a49515b467.jpg",
+      "https://media.rawg.io/media/screenshots/325/32598f84be020b0fcbaeb642889fda1b.jpg",
+      "https://media.rawg.io/media/screenshots/bc5/bc55bb6d44be198d66b790c350443be3.jpg",
+      "https://media.rawg.io/media/screenshots/5e6/5e6747b8b38690cb4a26ec924d084dcb.jpg"
+    ],
+    "desc": "mortal shell 2",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_965928",
     "name": "Grime II",
     "type": "release",
@@ -2593,43 +2630,6 @@
       "https://media.rawg.io/media/screenshots/149/149e3188e64b957d2cd5b8d483f451c7.jpg"
     ],
     "desc": "grime ii",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1004515",
-    "name": "Mortal Shell II",
-    "type": "release",
-    "genres": [
-      "动作冒险",
-      "RPG"
-    ],
-    "platforms": [
-      "PC",
-      "PS5",
-      "Xbox"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-08-20"
-      },
-      {
-        "region": "CN",
-        "date": "2026-08-20"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 2,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/c86/c8696c763ec825c6e4d49efbf2635a26.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/16d/16dd6b1e86184ce6dccc66a49515b467.jpg",
-      "https://media.rawg.io/media/screenshots/325/32598f84be020b0fcbaeb642889fda1b.jpg",
-      "https://media.rawg.io/media/screenshots/bc5/bc55bb6d44be198d66b790c350443be3.jpg",
-      "https://media.rawg.io/media/screenshots/5e6/5e6747b8b38690cb4a26ec924d084dcb.jpg"
-    ],
-    "desc": "mortal shell 2",
     "source": "rawg_auto"
   },
   {
@@ -4302,6 +4302,42 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1017638",
+    "name": "Citadel Remonstered",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-04-29"
+      },
+      {
+        "region": "CN",
+        "date": "2026-04-29"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 1,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/693/693da95f7043afb40416ec23d7ba1662.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/66a/66a77155149c35f8338c44cd0ce9be81.jpg",
+      "https://media.rawg.io/media/screenshots/b57/b57aacaac6fdb090ca424ed057e21bad.jpg",
+      "https://media.rawg.io/media/screenshots/45c/45c4aea92862b79f0a7c35e6d7100b6b.jpg",
+      "https://media.rawg.io/media/screenshots/ace/ace2ffa1c30b87486ce41a0aa5f1677f.jpg",
+      "https://media.rawg.io/media/screenshots/ee3/ee3ed41c9dcd7a2b39e9c48b7c481c0c.jpg",
+      "https://media.rawg.io/media/screenshots/a40/a40a9fddcc87d77900545e73efc4c272.jpg"
+    ],
+    "desc": "citadel remonstered",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1018248",
     "name": "Space Grunts: Chrono Shard",
     "type": "release",
@@ -4400,37 +4436,6 @@
       "https://media.rawg.io/media/screenshots/bea/beaf8629b23f92889e4c393e4d65a1eb.jpg"
     ],
     "desc": "cozy cleaner",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_994605",
-    "name": "Project Century",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-01-15"
-      },
-      {
-        "region": "CN",
-        "date": "2026-01-15"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 1,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/2c7/2c76339c491d0572f246f6748238a2da.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/2c7/2c76339c491d0572f246f6748238a2da.jpg"
-    ],
-    "desc": "project century",
     "source": "rawg_auto"
   },
   {
@@ -4537,42 +4542,6 @@
       "https://media.rawg.io/media/screenshots/3ad/3adb5141495d5b3e0d047978bf4ae552.jpg"
     ],
     "desc": "meltopia",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1017638",
-    "name": "Citadel Remonstered",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-04-29"
-      },
-      {
-        "region": "CN",
-        "date": "2026-04-29"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 1,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/693/693da95f7043afb40416ec23d7ba1662.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/66a/66a77155149c35f8338c44cd0ce9be81.jpg",
-      "https://media.rawg.io/media/screenshots/b57/b57aacaac6fdb090ca424ed057e21bad.jpg",
-      "https://media.rawg.io/media/screenshots/45c/45c4aea92862b79f0a7c35e6d7100b6b.jpg",
-      "https://media.rawg.io/media/screenshots/ace/ace2ffa1c30b87486ce41a0aa5f1677f.jpg",
-      "https://media.rawg.io/media/screenshots/ee3/ee3ed41c9dcd7a2b39e9c48b7c481c0c.jpg",
-      "https://media.rawg.io/media/screenshots/a40/a40a9fddcc87d77900545e73efc4c272.jpg"
-    ],
-    "desc": "citadel remonstered",
     "source": "rawg_auto"
   },
   {
@@ -4743,42 +4712,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1015880",
-    "name": "Under The Island",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-02-16"
-      },
-      {
-        "region": "CN",
-        "date": "2026-02-16"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 1,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/8e5/8e5f8438cc6b0060c0db79081f3dc2f8.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/160/160d04026eb2dd46efbd654e087dbb63.jpg",
-      "https://media.rawg.io/media/screenshots/17e/17e53ae9ddea354527993b1b50cfe42d.jpg",
-      "https://media.rawg.io/media/screenshots/89d/89d2bde1a3c3759e84ea9eecffed5d0d.jpg",
-      "https://media.rawg.io/media/screenshots/c5c/c5c8a6338c26a55f134d12c56209181c.jpg",
-      "https://media.rawg.io/media/screenshots/f38/f383c494a2bd3c2da31f16f15a7718a0.jpg",
-      "https://media.rawg.io/media/screenshots/007/0076b5b42fabed7eae46237628d1744e.jpg"
-    ],
-    "desc": "under the island",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1018386",
     "name": "Deer and Boy",
     "type": "release",
@@ -4812,6 +4745,42 @@
       "https://media.rawg.io/media/screenshots/dd4/dd41c41d3531f2c4f843d774f67f161c.jpg"
     ],
     "desc": "deer and boy",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1015880",
+    "name": "Under The Island",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-02-16"
+      },
+      {
+        "region": "CN",
+        "date": "2026-02-16"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 1,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/8e5/8e5f8438cc6b0060c0db79081f3dc2f8.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/160/160d04026eb2dd46efbd654e087dbb63.jpg",
+      "https://media.rawg.io/media/screenshots/17e/17e53ae9ddea354527993b1b50cfe42d.jpg",
+      "https://media.rawg.io/media/screenshots/89d/89d2bde1a3c3759e84ea9eecffed5d0d.jpg",
+      "https://media.rawg.io/media/screenshots/c5c/c5c8a6338c26a55f134d12c56209181c.jpg",
+      "https://media.rawg.io/media/screenshots/f38/f383c494a2bd3c2da31f16f15a7718a0.jpg",
+      "https://media.rawg.io/media/screenshots/007/0076b5b42fabed7eae46237628d1744e.jpg"
+    ],
+    "desc": "under the island",
     "source": "rawg_auto"
   },
   {
@@ -5161,35 +5130,6 @@
       "https://media.rawg.io/media/screenshots/fb4/fb4548a73bb405cccdbd00e30ae1535b.jpg"
     ],
     "desc": "humanity echo cyberpunk tactical rpg",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1015725",
-    "name": "SUPER WODEN RALLY EDGE",
-    "type": "release",
-    "genres": [
-      "体育竞速"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-01-15"
-      },
-      {
-        "region": "CN",
-        "date": "2026-01-15"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "",
-    "screenshots": [],
-    "desc": "super woden rally edge",
     "source": "rawg_auto"
   },
   {
@@ -7686,35 +7626,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1015726",
-    "name": "WINDSTOP STRATEGY",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-01-15"
-      },
-      {
-        "region": "CN",
-        "date": "2026-01-15"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "",
-    "screenshots": [],
-    "desc": "windstop strategy",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1015853",
     "name": "Heavy Hearts",
     "type": "release",
@@ -9465,6 +9376,43 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1017028",
+    "name": "Mr. Sleepy Man",
+    "type": "release",
+    "genres": [
+      "独立游戏",
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-03-11"
+      },
+      {
+        "region": "CN",
+        "date": "2026-03-11"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/6ce/6ce12b837b770c61d383b67702bf9a4d.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/f86/f86ee8f2496d2c1f8b3e5cd58ae35954.jpg",
+      "https://media.rawg.io/media/screenshots/837/8370f206ad8422f12a830e796923fb13.jpg",
+      "https://media.rawg.io/media/screenshots/685/685a20af0d900497813fd00204fd97eb.jpg",
+      "https://media.rawg.io/media/screenshots/fe3/fe316ecfe4ee45012dc39856a5248b76.jpg",
+      "https://media.rawg.io/media/screenshots/af4/af4c75bd0919dcfb26ea77af4e1a6dcb.jpg",
+      "https://media.rawg.io/media/screenshots/6ce/6ce12b837b770c61d383b67702bf9a4d.jpg"
+    ],
+    "desc": "mr sleepy man",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1018008",
     "name": "Yerba Buena",
     "type": "release",
@@ -9595,43 +9543,6 @@
     "cover": "",
     "screenshots": [],
     "desc": "pokemon champions",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1017028",
-    "name": "Mr. Sleepy Man",
-    "type": "release",
-    "genres": [
-      "独立游戏",
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-03-11"
-      },
-      {
-        "region": "CN",
-        "date": "2026-03-11"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/6ce/6ce12b837b770c61d383b67702bf9a4d.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/f86/f86ee8f2496d2c1f8b3e5cd58ae35954.jpg",
-      "https://media.rawg.io/media/screenshots/837/8370f206ad8422f12a830e796923fb13.jpg",
-      "https://media.rawg.io/media/screenshots/685/685a20af0d900497813fd00204fd97eb.jpg",
-      "https://media.rawg.io/media/screenshots/fe3/fe316ecfe4ee45012dc39856a5248b76.jpg",
-      "https://media.rawg.io/media/screenshots/af4/af4c75bd0919dcfb26ea77af4e1a6dcb.jpg",
-      "https://media.rawg.io/media/screenshots/6ce/6ce12b837b770c61d383b67702bf9a4d.jpg"
-    ],
-    "desc": "mr sleepy man",
     "source": "rawg_auto"
   },
   {
@@ -13549,42 +13460,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1015702",
-    "name": "Bail Force: Cyberpunk Bounty Hunters",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-01-15"
-      },
-      {
-        "region": "CN",
-        "date": "2026-01-15"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/550/5500e59810fceb61ae735282d07c6db6.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/ed5/ed56b0e78a9217f5f24d1aa489facee5.jpg",
-      "https://media.rawg.io/media/screenshots/f39/f39a8c8da29122fd8dba41bc4998614c.jpg",
-      "https://media.rawg.io/media/screenshots/751/751ab3a36521bbf4b298dccccab2bbd0.jpg",
-      "https://media.rawg.io/media/screenshots/36f/36ff9579670e1bdce7d19b04b489a9fb.jpg",
-      "https://media.rawg.io/media/screenshots/b9d/b9d23100c8ec306b85bc58a289ba1390.jpg",
-      "https://media.rawg.io/media/screenshots/4fe/4fe17ced4949412221d717526ef0b5e6.jpg"
-    ],
-    "desc": "bail force cyberpunk bounty hunters",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1016085",
     "name": "Bunny’s Rent-a-Mom Agency",
     "type": "release",
@@ -14046,6 +13921,154 @@
       "https://media.rawg.io/media/screenshots/ef0/ef039e772371614884c165ea707e5c14.jpg"
     ],
     "desc": "dread trials",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1018171",
+    "name": "Unbound Drift",
+    "type": "release",
+    "genres": [
+      "独立游戏",
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-05-26"
+      },
+      {
+        "region": "CN",
+        "date": "2026-05-26"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/77b/77b275b6e6ad51aa798b88153b7bacf4.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/4f9/4f93c9594a1060547d86b003ff443306.jpg",
+      "https://media.rawg.io/media/screenshots/5d7/5d71ff9605b7aac0cbff0c315066aeca.jpg",
+      "https://media.rawg.io/media/screenshots/76c/76c3faf904229a11a07bbd88fc395118.jpg",
+      "https://media.rawg.io/media/screenshots/f1a/f1acda159d6f0aa7db4942e952035eaa.jpg",
+      "https://media.rawg.io/media/screenshots/2cf/2cfed2d53168c14ee11412522dbfeb53.jpg",
+      "https://media.rawg.io/media/screenshots/77b/77b275b6e6ad51aa798b88153b7bacf4.jpg"
+    ],
+    "desc": "unbound drift",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1018174",
+    "name": "Modulus: Factory Automation",
+    "type": "release",
+    "genres": [
+      "策略",
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-04-02"
+      },
+      {
+        "region": "CN",
+        "date": "2026-04-02"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/63f/63f8b645cd446e8dd1266e021785759f.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/54a/54ab10d5b55fd82e9022c4be45a5381b.jpg",
+      "https://media.rawg.io/media/screenshots/8ba/8ba1b40b283962659a54adbf769d2d6f.jpg",
+      "https://media.rawg.io/media/screenshots/8c1/8c103d0202305f34e15c3a4c2737cc91.jpg",
+      "https://media.rawg.io/media/screenshots/657/6573add2e20da1bc518e4557e5bf09e2.jpg",
+      "https://media.rawg.io/media/screenshots/a2f/a2fd5afcf3d2dc3463712393e7170039.jpg",
+      "https://media.rawg.io/media/screenshots/63f/63f8b645cd446e8dd1266e021785759f.jpg"
+    ],
+    "desc": "modulus factory automation",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1018200",
+    "name": "The Wilds of Dacrima: Field Notes from a Poorly Supervised Alchemist and his Unruly Clockwork Companion LiveNow Broadcasting: Watch the developer play  Now Broadcasting    0 Share Broadcast",
+    "type": "release",
+    "genres": [
+      "动作冒险",
+      "独立游戏"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-05-12"
+      },
+      {
+        "region": "CN",
+        "date": "2026-05-12"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/c76/c7642cd2be90543b48956fd6966a5f18.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/8c2/8c20acad27d2834e7ac655c5f927f9ba.jpg",
+      "https://media.rawg.io/media/screenshots/0fe/0fef935f2af6ca39467107855bdbabcf.jpg",
+      "https://media.rawg.io/media/screenshots/910/910f00e6e53e47f265b2796e8c6afb25.jpg",
+      "https://media.rawg.io/media/screenshots/e09/e093e4d7b71d65721faf163dec028e66.jpg",
+      "https://media.rawg.io/media/screenshots/e73/e734a225bfba2511cffc966a208554b4.jpg",
+      "https://media.rawg.io/media/screenshots/c76/c7642cd2be90543b48956fd6966a5f18.jpg"
+    ],
+    "desc": "the wilds of dacrima field notes from a poorly sup",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1018138",
+    "name": "FORENSIC - M.E. Protocol",
+    "type": "release",
+    "genres": [
+      "独立游戏",
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-05-28"
+      },
+      {
+        "region": "CN",
+        "date": "2026-05-28"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/898/89858a84d1679366d5ac1ea2e825fbe4.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/970/970a8f308dd147146376d0d327359247.jpg",
+      "https://media.rawg.io/media/screenshots/a3f/a3f5096357ff646ffac30117f4a6a15d.jpg",
+      "https://media.rawg.io/media/screenshots/4e9/4e9e6b9abe4c8944b0f3e5bb7c3a2eff.jpg",
+      "https://media.rawg.io/media/screenshots/ecf/ecf9ed4ab1af915122fbe62f80273d69.jpg",
+      "https://media.rawg.io/media/screenshots/076/076a7ed88f1d85b00198dbc3b44e872c.jpg",
+      "https://media.rawg.io/media/screenshots/898/89858a84d1679366d5ac1ea2e825fbe4.jpg"
+    ],
+    "desc": "forensic me protocol",
     "source": "rawg_auto"
   }
 ]
