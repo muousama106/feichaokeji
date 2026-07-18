@@ -548,7 +548,7 @@
     ],
     "expectScore": 5,
     "scoreSource": "RAWG用户",
-    "popularity": 19,
+    "popularity": 20,
     "rating": "teen",
     "cover": "https://media.rawg.io/media/games/25f/25f536a977488f12ef8a6d013e50fda1.jpg",
     "screenshots": [
@@ -1052,6 +1052,38 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1008982",
+    "name": "High On Life 2",
+    "type": "release",
+    "genres": [
+      "FPS/射击"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox",
+      "Switch"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-02-13"
+      },
+      {
+        "region": "CN",
+        "date": "2026-02-13"
+      }
+    ],
+    "expectScore": 4,
+    "scoreSource": "RAWG用户",
+    "popularity": 8,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/d50/d5090542cf920bd922d079899f95ec05.jpg",
+    "screenshots": [],
+    "desc": "high on life 2",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1015736",
     "name": "Life is Strange: Reunion",
     "type": "release",
@@ -1088,38 +1120,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1008982",
-    "name": "High On Life 2",
-    "type": "release",
-    "genres": [
-      "FPS/射击"
-    ],
-    "platforms": [
-      "PC",
-      "PS5",
-      "Xbox",
-      "Switch"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-02-13"
-      },
-      {
-        "region": "CN",
-        "date": "2026-02-13"
-      }
-    ],
-    "expectScore": 4,
-    "scoreSource": "RAWG用户",
-    "popularity": 8,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/d50/d5090542cf920bd922d079899f95ec05.jpg",
-    "screenshots": [],
-    "desc": "high on life 2",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1017360",
     "name": "Assassin's Creed Back Flag Resynced",
     "type": "release",
@@ -1141,9 +1141,9 @@
         "date": "2026-07-09"
       }
     ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 7,
+    "expectScore": 4,
+    "scoreSource": "RAWG用户",
+    "popularity": 8,
     "rating": "teen",
     "cover": "https://media.rawg.io/media/screenshots/990/99088f6f170459244defd7afd9fce096.jpg",
     "screenshots": [
@@ -1153,6 +1153,72 @@
       "https://media.rawg.io/media/screenshots/ce0/ce0ebb7f1d0a8234e5a0248cdc6fd4e9.jpg"
     ],
     "desc": "assassins creed back flag resynced",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1010940",
+    "name": "Nioh 3",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC",
+      "PS5"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-02-06"
+      },
+      {
+        "region": "CN",
+        "date": "2026-02-06"
+      }
+    ],
+    "expectScore": 5,
+    "scoreSource": "RAWG用户",
+    "popularity": 7,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/18f/18f1e09f98c9a0e822b616d68d73c956.jpg",
+    "screenshots": [],
+    "desc": "nioh 3",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_734612",
+    "name": "Mina the Hollower",
+    "type": "release",
+    "genres": [
+      "动作冒险",
+      "RPG"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-05-28"
+      },
+      {
+        "region": "CN",
+        "date": "2026-05-28"
+      }
+    ],
+    "expectScore": 5,
+    "scoreSource": "RAWG用户",
+    "popularity": 7,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/9e5/9e5914a9b6537391752af07412cd8ce3.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/df9/df99c82b99e526feff6423273faece09.jpg",
+      "https://media.rawg.io/media/screenshots/ccc/ccca7d6fe05bd03a318cc95f253177c0.jpg",
+      "https://media.rawg.io/media/screenshots/63b/63b57500c2e5848c16d01f167f7090e1.jpg",
+      "https://media.rawg.io/media/screenshots/569/5692157b2b55fc7631a695eb23c3c715.jpg",
+      "https://media.rawg.io/media/screenshots/934/93417d1bfc55a8f1e5d987440871512b.jpg"
+    ],
+    "desc": "mina the hollower",
     "source": "rawg_auto"
   },
   {
@@ -1229,72 +1295,6 @@
       "https://media.rawg.io/media/screenshots/c56/c56d0cfc9b16d8d4d575700d6c422f88.jpg"
     ],
     "desc": "marathon 2",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_734612",
-    "name": "Mina the Hollower",
-    "type": "release",
-    "genres": [
-      "动作冒险",
-      "RPG"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-05-28"
-      },
-      {
-        "region": "CN",
-        "date": "2026-05-28"
-      }
-    ],
-    "expectScore": 5,
-    "scoreSource": "RAWG用户",
-    "popularity": 7,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/9e5/9e5914a9b6537391752af07412cd8ce3.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/df9/df99c82b99e526feff6423273faece09.jpg",
-      "https://media.rawg.io/media/screenshots/ccc/ccca7d6fe05bd03a318cc95f253177c0.jpg",
-      "https://media.rawg.io/media/screenshots/63b/63b57500c2e5848c16d01f167f7090e1.jpg",
-      "https://media.rawg.io/media/screenshots/569/5692157b2b55fc7631a695eb23c3c715.jpg",
-      "https://media.rawg.io/media/screenshots/934/93417d1bfc55a8f1e5d987440871512b.jpg"
-    ],
-    "desc": "mina the hollower",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1010940",
-    "name": "Nioh 3",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC",
-      "PS5"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-02-06"
-      },
-      {
-        "region": "CN",
-        "date": "2026-02-06"
-      }
-    ],
-    "expectScore": 5,
-    "scoreSource": "RAWG用户",
-    "popularity": 7,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/18f/18f1e09f98c9a0e822b616d68d73c956.jpg",
-    "screenshots": [],
-    "desc": "nioh 3",
     "source": "rawg_auto"
   },
   {
@@ -2979,6 +2979,35 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1017771",
+    "name": "Star Fox",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "Switch"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-06-25"
+      },
+      {
+        "region": "CN",
+        "date": "2026-06-25"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 2,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/bac/bacf2182d40d3785051a2161f7a3aa84.jpg",
+    "screenshots": [],
+    "desc": "star fox 2",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1013132",
     "name": "Halo Campaign Evolved",
     "type": "release",
@@ -3084,35 +3113,6 @@
       "https://media.rawg.io/media/screenshots/0b8/0b8aacb52d69df6964fe9d0fe1a19672.jpg"
     ],
     "desc": "industria 2",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1017771",
-    "name": "Star Fox",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "Switch"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-06-25"
-      },
-      {
-        "region": "CN",
-        "date": "2026-06-25"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 2,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/bac/bacf2182d40d3785051a2161f7a3aa84.jpg",
-    "screenshots": [],
-    "desc": "star fox 2",
     "source": "rawg_auto"
   },
   {
@@ -3258,6 +3258,35 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1017981",
+    "name": "Call of Duty: Modern Warfare 4",
+    "type": "release",
+    "genres": [
+      "FPS/射击"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-10-23"
+      },
+      {
+        "region": "CN",
+        "date": "2026-10-23"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 2,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/a93/a9304d97c8f264da59566a0f5e0a2181.jpeg",
+    "screenshots": [],
+    "desc": "call of duty modern warfare 4",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1016867",
     "name": "Prop Sumo",
     "type": "release",
@@ -3324,11 +3353,12 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1017981",
-    "name": "Call of Duty: Modern Warfare 4",
+    "id": "rawg_983205",
+    "name": "The Relic: First Guardian",
     "type": "release",
     "genres": [
-      "FPS/射击"
+      "动作冒险",
+      "RPG"
     ],
     "platforms": [
       "PC"
@@ -3336,20 +3366,25 @@
     "releases": [
       {
         "region": "GLOBAL",
-        "date": "2026-10-23"
+        "date": "2026-07-31"
       },
       {
         "region": "CN",
-        "date": "2026-10-23"
+        "date": "2026-07-31"
       }
     ],
     "expectScore": null,
     "scoreSource": "暂无",
     "popularity": 1,
     "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/a93/a9304d97c8f264da59566a0f5e0a2181.jpeg",
-    "screenshots": [],
-    "desc": "call of duty modern warfare 4",
+    "cover": "https://media.rawg.io/media/screenshots/e9d/e9dbd4487f5f699101a683e398321e12.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/62d/62dacd74cfd6c310ab04148a509e5984.jpg",
+      "https://media.rawg.io/media/screenshots/9cf/9cfd6fb20146de14c18acbcc2a0eca8c.jpg",
+      "https://media.rawg.io/media/screenshots/e36/e3601300011be4f7169afe9de4ce5d39.jpg",
+      "https://media.rawg.io/media/screenshots/e9d/e9dbd4487f5f699101a683e398321e12.jpg"
+    ],
+    "desc": "the relic first guardian",
     "source": "rawg_auto"
   },
   {
@@ -3408,41 +3443,6 @@
     "cover": "https://media.rawg.io/media/games/851/851cf64d1e55bc8f98e617bc38d7f5f2.jpg",
     "screenshots": [],
     "desc": "outbound",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_983205",
-    "name": "The Relic: First Guardian",
-    "type": "release",
-    "genres": [
-      "动作冒险",
-      "RPG"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-07-31"
-      },
-      {
-        "region": "CN",
-        "date": "2026-07-31"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 1,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/e9d/e9dbd4487f5f699101a683e398321e12.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/62d/62dacd74cfd6c310ab04148a509e5984.jpg",
-      "https://media.rawg.io/media/screenshots/9cf/9cfd6fb20146de14c18acbcc2a0eca8c.jpg",
-      "https://media.rawg.io/media/screenshots/e36/e3601300011be4f7169afe9de4ce5d39.jpg",
-      "https://media.rawg.io/media/screenshots/e9d/e9dbd4487f5f699101a683e398321e12.jpg"
-    ],
-    "desc": "the relic first guardian",
     "source": "rawg_auto"
   },
   {
@@ -4472,6 +4472,78 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1018386",
+    "name": "Deer and Boy",
+    "type": "release",
+    "genres": [
+      "独立游戏",
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox",
+      "Switch"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-06-23"
+      },
+      {
+        "region": "CN",
+        "date": "2026-06-23"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 1,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/dd4/dd41c41d3531f2c4f843d774f67f161c.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/3af/3af21032fcc4eddc4977326e8b7f5239.jpg",
+      "https://media.rawg.io/media/screenshots/dd4/dd41c41d3531f2c4f843d774f67f161c.jpg"
+    ],
+    "desc": "deer and boy",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1017986",
+    "name": "Scale the Depths",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-05-27"
+      },
+      {
+        "region": "CN",
+        "date": "2026-05-27"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 1,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/cbd/cbde5730e7e6808617d9909ad41345b9.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/88f/88fdf1a998bc2989ce12d03ad351f367.jpg",
+      "https://media.rawg.io/media/screenshots/4d6/4d604a4d61529546a00c75b287cb928d.jpg",
+      "https://media.rawg.io/media/screenshots/8c8/8c892d5a733a3bc803f562450c2bcbd4.jpg",
+      "https://media.rawg.io/media/screenshots/fb4/fb4799f3d13c1d0eb53eff353390169c.jpg",
+      "https://media.rawg.io/media/screenshots/5db/5dbd0676341e0778f7ace8643e25b9b0.jpg",
+      "https://media.rawg.io/media/screenshots/408/40829503f930f2686fc50188da32dd9e.jpg"
+    ],
+    "desc": "scale the depths",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1016706",
     "name": "The Artisan of Glimmith",
     "type": "release",
@@ -4712,39 +4784,39 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1018386",
-    "name": "Deer and Boy",
+    "id": "rawg_1018209",
+    "name": "Mole",
     "type": "release",
     "genres": [
-      "独立游戏",
       "动作冒险"
     ],
     "platforms": [
-      "PC",
-      "PS5",
-      "Xbox",
-      "Switch"
+      "PC"
     ],
     "releases": [
       {
         "region": "GLOBAL",
-        "date": "2026-06-23"
+        "date": "2026-06-15"
       },
       {
         "region": "CN",
-        "date": "2026-06-23"
+        "date": "2026-06-15"
       }
     ],
     "expectScore": null,
     "scoreSource": "暂无",
     "popularity": 1,
     "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/dd4/dd41c41d3531f2c4f843d774f67f161c.jpg",
+    "cover": "https://media.rawg.io/media/games/a3a/a3a411cdef2cf40574ba824588273ab2.jpg",
     "screenshots": [
-      "https://media.rawg.io/media/screenshots/3af/3af21032fcc4eddc4977326e8b7f5239.jpg",
-      "https://media.rawg.io/media/screenshots/dd4/dd41c41d3531f2c4f843d774f67f161c.jpg"
+      "https://media.rawg.io/media/screenshots/adf/adf38066497dc105261603d61360f415.jpg",
+      "https://media.rawg.io/media/screenshots/a62/a62dab54ff826cf4d510c75fb0534cd8.jpg",
+      "https://media.rawg.io/media/screenshots/8bf/8bfde7c3b65735f845c7946e311638cb.jpg",
+      "https://media.rawg.io/media/screenshots/307/3074df0e27685746a53ff0137fe8fc62.jpg",
+      "https://media.rawg.io/media/screenshots/f3a/f3af43302628802bb7d4314e4a104d14.jpg",
+      "https://media.rawg.io/media/screenshots/945/94536b2c8c28e4c4a1a5f0ffb53ac774.jpg"
     ],
-    "desc": "deer and boy",
+    "desc": "mole 3",
     "source": "rawg_auto"
   },
   {
@@ -4819,42 +4891,6 @@
       "https://media.rawg.io/media/screenshots/e31/e31a0d6baa0d17626c88b630934b6598.jpg"
     ],
     "desc": "reigns the witcher",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1017986",
-    "name": "Scale the Depths",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-05-27"
-      },
-      {
-        "region": "CN",
-        "date": "2026-05-27"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 1,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/cbd/cbde5730e7e6808617d9909ad41345b9.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/88f/88fdf1a998bc2989ce12d03ad351f367.jpg",
-      "https://media.rawg.io/media/screenshots/4d6/4d604a4d61529546a00c75b287cb928d.jpg",
-      "https://media.rawg.io/media/screenshots/8c8/8c892d5a733a3bc803f562450c2bcbd4.jpg",
-      "https://media.rawg.io/media/screenshots/fb4/fb4799f3d13c1d0eb53eff353390169c.jpg",
-      "https://media.rawg.io/media/screenshots/5db/5dbd0676341e0778f7ace8643e25b9b0.jpg",
-      "https://media.rawg.io/media/screenshots/408/40829503f930f2686fc50188da32dd9e.jpg"
-    ],
-    "desc": "scale the depths",
     "source": "rawg_auto"
   },
   {
@@ -5269,35 +5305,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1018209",
-    "name": "Mole",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-06-15"
-      },
-      {
-        "region": "CN",
-        "date": "2026-06-15"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/a3a/a3a411cdef2cf40574ba824588273ab2.jpg",
-    "screenshots": [],
-    "desc": "mole 3",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1018109",
     "name": "Mafia: The Old Country - Man of Honor",
     "type": "release",
@@ -5579,6 +5586,41 @@
     "cover": "",
     "screenshots": [],
     "desc": "cult of the lamb the fate of the lambs",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1018111",
+    "name": "The Alters: Last Variable",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-07-13"
+      },
+      {
+        "region": "CN",
+        "date": "2026-07-13"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/c2c/c2c15aa0e7534185fa36c3210ee18541.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/4f2/4f25573827e6358c157e2d0614beae71.jpg",
+      "https://media.rawg.io/media/screenshots/306/306716848e35ed8cb63dab5eab763d92.jpg",
+      "https://media.rawg.io/media/screenshots/c2c/c2c15aa0e7534185fa36c3210ee18541.jpg"
+    ],
+    "desc": "the alters last variable",
     "source": "rawg_auto"
   },
   {
@@ -5996,8 +6038,8 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1018111",
-    "name": "The Alters: Last Variable",
+    "id": "rawg_1008991",
+    "name": "Denshattack!",
     "type": "release",
     "genres": [
       "动作冒险"
@@ -6010,24 +6052,49 @@
     "releases": [
       {
         "region": "GLOBAL",
-        "date": "2026-07-13"
+        "date": "2026-07-15"
       },
       {
         "region": "CN",
-        "date": "2026-07-13"
+        "date": "2026-07-15"
       }
     ],
     "expectScore": null,
     "scoreSource": "暂无",
     "popularity": 0,
     "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/c2c/c2c15aa0e7534185fa36c3210ee18541.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/4f2/4f25573827e6358c157e2d0614beae71.jpg",
-      "https://media.rawg.io/media/screenshots/306/306716848e35ed8cb63dab5eab763d92.jpg",
-      "https://media.rawg.io/media/screenshots/c2c/c2c15aa0e7534185fa36c3210ee18541.jpg"
+    "cover": "https://media.rawg.io/media/games/4c8/4c87922955d0494dda7ce812a8ee4c6d.jpg",
+    "screenshots": [],
+    "desc": "denshattack",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1016397",
+    "name": "Lost Wiki: Kozlovka",
+    "type": "release",
+    "genres": [
+      "模拟经营"
     ],
-    "desc": "the alters last variable",
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-03-20"
+      },
+      {
+        "region": "CN",
+        "date": "2026-03-20"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/b27/b27cb83cad9148d175e344f74da9ddf8.jpg",
+    "screenshots": [],
+    "desc": "lost wiki kozlovka",
     "source": "rawg_auto"
   },
   {
@@ -6572,35 +6639,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1018094",
-    "name": "Stranger Than Heaven",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2027-01-15"
-      },
-      {
-        "region": "CN",
-        "date": "2027-01-15"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/38e/38e3465bec8035d4824741ca8edb0d81.jpg",
-    "screenshots": [],
-    "desc": "stranger than heaven",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1016143",
     "name": "Never Grave: The Witch and The Curse",
     "type": "release",
@@ -6631,6 +6669,35 @@
     "cover": "",
     "screenshots": [],
     "desc": "never grave the witch and the curse",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1018094",
+    "name": "Stranger Than Heaven",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2027-01-15"
+      },
+      {
+        "region": "CN",
+        "date": "2027-01-15"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/38e/38e3465bec8035d4824741ca8edb0d81.jpg",
+    "screenshots": [],
+    "desc": "stranger than heaven",
     "source": "rawg_auto"
   },
   {
@@ -7723,37 +7790,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1008991",
-    "name": "Denshattack!",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC",
-      "PS5",
-      "Xbox"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-07-15"
-      },
-      {
-        "region": "CN",
-        "date": "2026-07-15"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/4c8/4c87922955d0494dda7ce812a8ee4c6d.jpg",
-    "screenshots": [],
-    "desc": "denshattack",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1015853",
     "name": "Heavy Hearts",
     "type": "release",
@@ -8213,35 +8249,6 @@
       "https://media.rawg.io/media/screenshots/91a/91ae7facdfbb89f80d97b22b85cd94cf.jpg"
     ],
     "desc": "homura hime",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1016397",
-    "name": "Lost Wiki: Kozlovka",
-    "type": "release",
-    "genres": [
-      "模拟经营"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-03-20"
-      },
-      {
-        "region": "CN",
-        "date": "2026-03-20"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/b27/b27cb83cad9148d175e344f74da9ddf8.jpg",
-    "screenshots": [],
-    "desc": "lost wiki kozlovka",
     "source": "rawg_auto"
   },
   {
