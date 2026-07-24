@@ -764,7 +764,7 @@
     ],
     "expectScore": 4,
     "scoreSource": "RAWG用户",
-    "popularity": 11,
+    "popularity": 12,
     "rating": "teen",
     "cover": "https://media.rawg.io/media/games/69a/69a6a1097f82210dbf8583f8e0d09123.jpg",
     "screenshots": [
@@ -914,39 +914,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1015421",
-    "name": "Tomb Raider: Legacy of Atlantis",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC",
-      "PS5",
-      "Xbox"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2027-02-12"
-      },
-      {
-        "region": "CN",
-        "date": "2027-02-12"
-      }
-    ],
-    "expectScore": 4,
-    "scoreSource": "RAWG用户",
-    "popularity": 9,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/800/80071c998f39d56db9e18d27fd558b97.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/800/80071c998f39d56db9e18d27fd558b97.jpg"
-    ],
-    "desc": "tomb raider legacy of atlantis",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1017360",
     "name": "Assassin's Creed Back Flag Resynced",
     "type": "release",
@@ -980,6 +947,39 @@
       "https://media.rawg.io/media/screenshots/ce0/ce0ebb7f1d0a8234e5a0248cdc6fd4e9.jpg"
     ],
     "desc": "assassins creed back flag resynced",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1015421",
+    "name": "Tomb Raider: Legacy of Atlantis",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2027-02-12"
+      },
+      {
+        "region": "CN",
+        "date": "2027-02-12"
+      }
+    ],
+    "expectScore": 4,
+    "scoreSource": "RAWG用户",
+    "popularity": 9,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/800/80071c998f39d56db9e18d27fd558b97.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/800/80071c998f39d56db9e18d27fd558b97.jpg"
+    ],
+    "desc": "tomb raider legacy of atlantis",
     "source": "rawg_auto"
   },
   {
@@ -1924,6 +1924,39 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1016714",
+    "name": "Darwin's Paradox!",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-04-02"
+      },
+      {
+        "region": "CN",
+        "date": "2026-04-02"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 3,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/031/031e8772e923401b26fa25d73d7cde78.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/031/031e8772e923401b26fa25d73d7cde78.jpg"
+    ],
+    "desc": "darwins paradox 2",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1008986",
     "name": "Valor Mortis",
     "type": "release",
@@ -1955,6 +1988,41 @@
       "https://media.rawg.io/media/screenshots/20e/20e62ea7ec2a498bf56e31058f0bd4b1.jpg"
     ],
     "desc": "valor mortis",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1015978",
+    "name": "Legacy of Kain: Defiance Remastered",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-03-03"
+      },
+      {
+        "region": "CN",
+        "date": "2026-03-03"
+      }
+    ],
+    "expectScore": 4,
+    "scoreSource": "RAWG用户",
+    "popularity": 3,
+    "rating": "mature",
+    "cover": "https://media.rawg.io/media/screenshots/b63/b634ca0687f73b55e355b12fe825ef96.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/045/0457a18bbbd89ca4361da4ab5714807f.jpg",
+      "https://media.rawg.io/media/screenshots/f72/f726c34aa7ebd64a7dd019af35905668.jpg",
+      "https://media.rawg.io/media/screenshots/b14/b14a287077f3a5f4133521aee2981e96.jpg",
+      "https://media.rawg.io/media/screenshots/8f9/8f95a4d9ce369e3cfa203ee604b843a4.jpg",
+      "https://media.rawg.io/media/screenshots/b63/b634ca0687f73b55e355b12fe825ef96.jpg"
+    ],
+    "desc": "legacy of kain defiance remastered",
     "source": "rawg_auto"
   },
   {
@@ -1995,39 +2063,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1016714",
-    "name": "Darwin's Paradox!",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC",
-      "PS5",
-      "Xbox"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-04-02"
-      },
-      {
-        "region": "CN",
-        "date": "2026-04-02"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 3,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/031/031e8772e923401b26fa25d73d7cde78.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/031/031e8772e923401b26fa25d73d7cde78.jpg"
-    ],
-    "desc": "darwins paradox 2",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1010947",
     "name": "Code Vein II",
     "type": "release",
@@ -2055,41 +2090,6 @@
     "cover": "https://media.rawg.io/media/games/189/1895eab697131b69161c388807115888.jpg",
     "screenshots": [],
     "desc": "code vein 2",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1015978",
-    "name": "Legacy of Kain: Defiance Remastered",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-03-03"
-      },
-      {
-        "region": "CN",
-        "date": "2026-03-03"
-      }
-    ],
-    "expectScore": 4,
-    "scoreSource": "RAWG用户",
-    "popularity": 3,
-    "rating": "mature",
-    "cover": "https://media.rawg.io/media/screenshots/b63/b634ca0687f73b55e355b12fe825ef96.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/045/0457a18bbbd89ca4361da4ab5714807f.jpg",
-      "https://media.rawg.io/media/screenshots/f72/f726c34aa7ebd64a7dd019af35905668.jpg",
-      "https://media.rawg.io/media/screenshots/b14/b14a287077f3a5f4133521aee2981e96.jpg",
-      "https://media.rawg.io/media/screenshots/8f9/8f95a4d9ce369e3cfa203ee604b843a4.jpg",
-      "https://media.rawg.io/media/screenshots/b63/b634ca0687f73b55e355b12fe825ef96.jpg"
-    ],
-    "desc": "legacy of kain defiance remastered",
     "source": "rawg_auto"
   },
   {
@@ -2444,6 +2444,44 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1004513",
+    "name": "End of Abyss",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-10-01"
+      },
+      {
+        "region": "CN",
+        "date": "2026-10-01"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 3,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/7ba/7baacc4780d3199810acffba636c0f9f.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/c3f/c3fa8823abcab5102fc3ab0fd6f41eba.jpg",
+      "https://media.rawg.io/media/screenshots/647/647a9f513b5a8a7d39927493fde03dac.jpg",
+      "https://media.rawg.io/media/screenshots/b94/b94328802fcc9da89f39f60fc15cd58b.jpg",
+      "https://media.rawg.io/media/screenshots/a7e/a7e4c12bf1cb17660c5a2bc46236c7ca.jpg",
+      "https://media.rawg.io/media/screenshots/bfb/bfb12538a14ea0f5f14c8f347a0ed1e6.jpg",
+      "https://media.rawg.io/media/screenshots/7ba/7baacc4780d3199810acffba636c0f9f.jpg"
+    ],
+    "desc": "end of abyss",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1015845",
     "name": "Fatekeeper",
     "type": "release",
@@ -2478,44 +2516,6 @@
       "https://media.rawg.io/media/screenshots/b33/b33241faea6d5d0182a27e15450e6002.jpg"
     ],
     "desc": "fatekeeper",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1004513",
-    "name": "End of Abyss",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC",
-      "PS5",
-      "Xbox"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-10-01"
-      },
-      {
-        "region": "CN",
-        "date": "2026-10-01"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 2,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/7ba/7baacc4780d3199810acffba636c0f9f.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/c3f/c3fa8823abcab5102fc3ab0fd6f41eba.jpg",
-      "https://media.rawg.io/media/screenshots/647/647a9f513b5a8a7d39927493fde03dac.jpg",
-      "https://media.rawg.io/media/screenshots/b94/b94328802fcc9da89f39f60fc15cd58b.jpg",
-      "https://media.rawg.io/media/screenshots/a7e/a7e4c12bf1cb17660c5a2bc46236c7ca.jpg",
-      "https://media.rawg.io/media/screenshots/bfb/bfb12538a14ea0f5f14c8f347a0ed1e6.jpg",
-      "https://media.rawg.io/media/screenshots/7ba/7baacc4780d3199810acffba636c0f9f.jpg"
-    ],
-    "desc": "end of abyss",
     "source": "rawg_auto"
   },
   {
@@ -2904,35 +2904,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1017771",
-    "name": "Star Fox",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "Switch"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-06-25"
-      },
-      {
-        "region": "CN",
-        "date": "2026-06-25"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 2,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/bac/bacf2182d40d3785051a2161f7a3aa84.jpg",
-    "screenshots": [],
-    "desc": "star fox 2",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1013132",
     "name": "Halo Campaign Evolved",
     "type": "release",
@@ -2969,6 +2940,35 @@
       "https://media.rawg.io/media/screenshots/501/5014da12dae913611e69a1d7011a9ec8.jpeg"
     ],
     "desc": "halo campaign evolved",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1017771",
+    "name": "Star Fox",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "Switch"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-06-25"
+      },
+      {
+        "region": "CN",
+        "date": "2026-06-25"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 2,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/bac/bacf2182d40d3785051a2161f7a3aa84.jpg",
+    "screenshots": [],
+    "desc": "star fox 2",
     "source": "rawg_auto"
   },
   {
@@ -3078,36 +3078,39 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1018102",
-    "name": "Castlevania: Belmont's Curse",
+    "id": "rawg_1017507",
+    "name": "inKonbini: One Store. Many Stories",
     "type": "release",
     "genres": [
-      "动作冒险",
-      "RPG"
+      "独立游戏"
     ],
     "platforms": [
-      "PC",
-      "PS5",
-      "Xbox",
-      "Switch"
+      "PC"
     ],
     "releases": [
       {
         "region": "GLOBAL",
-        "date": "2026-10-15"
+        "date": "2026-04-29"
       },
       {
         "region": "CN",
-        "date": "2026-10-15"
+        "date": "2026-04-29"
       }
     ],
     "expectScore": null,
     "scoreSource": "暂无",
     "popularity": 2,
     "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/429/42928697eb80feb13e6087170a10565a.jpeg",
-    "screenshots": [],
-    "desc": "castlevania belmonts curse",
+    "cover": "https://media.rawg.io/media/games/a24/a24a8acc39da3c992cbe9fb33a36dfd5.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/d04/d0470ecda63aa60ca7d6213671e713a1.jpg",
+      "https://media.rawg.io/media/screenshots/2ee/2eea0874ff713638fc91606efb12d4c4.jpg",
+      "https://media.rawg.io/media/screenshots/08d/08d6c484b28633746b0197e059237610.jpg",
+      "https://media.rawg.io/media/screenshots/a8d/a8d45825bd6615d86aeb5dab7afe39bf.jpg",
+      "https://media.rawg.io/media/screenshots/185/1856a0fd0b4b4a9ec6187717d7c5fb1a.jpg",
+      "https://media.rawg.io/media/screenshots/025/025c722307f1d7e156ae6caebe28d44e.jpg"
+    ],
+    "desc": "inkonbini one store many stories",
     "source": "rawg_auto"
   },
   {
@@ -3147,42 +3150,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1017507",
-    "name": "inKonbini: One Store. Many Stories",
-    "type": "release",
-    "genres": [
-      "独立游戏"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-04-29"
-      },
-      {
-        "region": "CN",
-        "date": "2026-04-29"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 2,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/a24/a24a8acc39da3c992cbe9fb33a36dfd5.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/d04/d0470ecda63aa60ca7d6213671e713a1.jpg",
-      "https://media.rawg.io/media/screenshots/2ee/2eea0874ff713638fc91606efb12d4c4.jpg",
-      "https://media.rawg.io/media/screenshots/08d/08d6c484b28633746b0197e059237610.jpg",
-      "https://media.rawg.io/media/screenshots/a8d/a8d45825bd6615d86aeb5dab7afe39bf.jpg",
-      "https://media.rawg.io/media/screenshots/185/1856a0fd0b4b4a9ec6187717d7c5fb1a.jpg",
-      "https://media.rawg.io/media/screenshots/025/025c722307f1d7e156ae6caebe28d44e.jpg"
-    ],
-    "desc": "inkonbini one store many stories",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1017981",
     "name": "Call of Duty: Modern Warfare 4",
     "type": "release",
@@ -3209,6 +3176,39 @@
     "cover": "https://media.rawg.io/media/games/a93/a9304d97c8f264da59566a0f5e0a2181.jpeg",
     "screenshots": [],
     "desc": "call of duty modern warfare 4",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1018102",
+    "name": "Castlevania: Belmont's Curse",
+    "type": "release",
+    "genres": [
+      "动作冒险",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox",
+      "Switch"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-10-15"
+      },
+      {
+        "region": "CN",
+        "date": "2026-10-15"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 2,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/429/42928697eb80feb13e6087170a10565a.jpeg",
+    "screenshots": [],
+    "desc": "castlevania belmonts curse",
     "source": "rawg_auto"
   },
   {
@@ -4086,6 +4086,39 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1018100",
+    "name": "Sinking City 2",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-08-18"
+      },
+      {
+        "region": "CN",
+        "date": "2026-08-18"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 1,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/8f5/8f55c6c590a4eb8d97facbadfd8f605e.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/8f5/8f55c6c590a4eb8d97facbadfd8f605e.jpg"
+    ],
+    "desc": "sinking city 2 2",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1018408",
     "name": "Subnautica 2",
     "type": "release",
@@ -4120,39 +4153,6 @@
       "https://media.rawg.io/media/screenshots/b91/b9131d5b6c456a3417ebd5abb83a1eed.jpg"
     ],
     "desc": "subnautica 2",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1018100",
-    "name": "Sinking City 2",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC",
-      "PS5",
-      "Xbox"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-08-18"
-      },
-      {
-        "region": "CN",
-        "date": "2026-08-18"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 1,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/8f5/8f55c6c590a4eb8d97facbadfd8f605e.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/8f5/8f55c6c590a4eb8d97facbadfd8f605e.jpg"
-    ],
-    "desc": "sinking city 2 2",
     "source": "rawg_auto"
   },
   {
@@ -4607,6 +4607,41 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1018111",
+    "name": "The Alters: Last Variable",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-07-13"
+      },
+      {
+        "region": "CN",
+        "date": "2026-07-13"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 1,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/c2c/c2c15aa0e7534185fa36c3210ee18541.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/4f2/4f25573827e6358c157e2d0614beae71.jpg",
+      "https://media.rawg.io/media/screenshots/306/306716848e35ed8cb63dab5eab763d92.jpg",
+      "https://media.rawg.io/media/screenshots/c2c/c2c15aa0e7534185fa36c3210ee18541.jpg"
+    ],
+    "desc": "the alters last variable",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1017986",
     "name": "Scale the Depths",
     "type": "release",
@@ -4640,6 +4675,43 @@
       "https://media.rawg.io/media/screenshots/408/40829503f930f2686fc50188da32dd9e.jpg"
     ],
     "desc": "scale the depths",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1016373",
+    "name": "Retro Rewind - Video Store Simulator",
+    "type": "release",
+    "genres": [
+      "独立游戏",
+      "模拟经营"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-03-17"
+      },
+      {
+        "region": "CN",
+        "date": "2026-03-17"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 1,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/7c2/7c224da3b4b9bf37a3d84d4296507b04.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/1ea/1ea630f78d5d79f4fc7c4a3b66ba38ce.jpg",
+      "https://media.rawg.io/media/screenshots/26f/26f4a03fb35bb5b1315399c26134d13a.jpg",
+      "https://media.rawg.io/media/screenshots/709/7092aeaad384899f38f2e70c34f72023.jpg",
+      "https://media.rawg.io/media/screenshots/852/852baaa365ac0112b270734e5c0048e6.jpg",
+      "https://media.rawg.io/media/screenshots/941/94193b455315252e0e14846a17c563b8.jpg",
+      "https://media.rawg.io/media/screenshots/7c2/7c224da3b4b9bf37a3d84d4296507b04.jpg"
+    ],
+    "desc": "retro rewind video store simulator",
     "source": "rawg_auto"
   },
   {
@@ -4817,6 +4889,74 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1008991",
+    "name": "Denshattack!",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-07-15"
+      },
+      {
+        "region": "CN",
+        "date": "2026-07-15"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 1,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/4c8/4c87922955d0494dda7ce812a8ee4c6d.jpg",
+    "screenshots": [],
+    "desc": "denshattack",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1018141",
+    "name": "Cheap Car Repair",
+    "type": "release",
+    "genres": [
+      "独立游戏",
+      "模拟经营"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-05-28"
+      },
+      {
+        "region": "CN",
+        "date": "2026-05-28"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 1,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/43f/43fe0c6ffb8e53755592876c64151e9a.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/7fb/7fb8c96f9a6d4e378d2b1ea5b199da78.jpg",
+      "https://media.rawg.io/media/screenshots/a32/a3232123d1de24ae1db5a4101fdc87f4.jpg",
+      "https://media.rawg.io/media/screenshots/c87/c87e43a2fc9891cc1d02315fd1c6fcc8.jpg",
+      "https://media.rawg.io/media/screenshots/025/0259905659af1f71b9ec76e12ecedba9.jpg",
+      "https://media.rawg.io/media/screenshots/da7/da765531b3443245e2f387dc11abdf4b.jpg",
+      "https://media.rawg.io/media/screenshots/43f/43fe0c6ffb8e53755592876c64151e9a.jpg"
+    ],
+    "desc": "cheap car repair",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1015880",
     "name": "Under The Island",
     "type": "release",
@@ -4850,41 +4990,6 @@
       "https://media.rawg.io/media/screenshots/007/0076b5b42fabed7eae46237628d1744e.jpg"
     ],
     "desc": "under the island",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1018111",
-    "name": "The Alters: Last Variable",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC",
-      "PS5",
-      "Xbox"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-07-13"
-      },
-      {
-        "region": "CN",
-        "date": "2026-07-13"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 1,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/c2c/c2c15aa0e7534185fa36c3210ee18541.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/4f2/4f25573827e6358c157e2d0614beae71.jpg",
-      "https://media.rawg.io/media/screenshots/306/306716848e35ed8cb63dab5eab763d92.jpg",
-      "https://media.rawg.io/media/screenshots/c2c/c2c15aa0e7534185fa36c3210ee18541.jpg"
-    ],
-    "desc": "the alters last variable",
     "source": "rawg_auto"
   },
   {
@@ -4952,43 +5057,6 @@
     "cover": "https://media.rawg.io/media/games/a09/a095493defc44ec3ea6484d9c33209af.jpg",
     "screenshots": [],
     "desc": "silver pines",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1016373",
-    "name": "Retro Rewind - Video Store Simulator",
-    "type": "release",
-    "genres": [
-      "独立游戏",
-      "模拟经营"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-03-17"
-      },
-      {
-        "region": "CN",
-        "date": "2026-03-17"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 1,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/7c2/7c224da3b4b9bf37a3d84d4296507b04.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/1ea/1ea630f78d5d79f4fc7c4a3b66ba38ce.jpg",
-      "https://media.rawg.io/media/screenshots/26f/26f4a03fb35bb5b1315399c26134d13a.jpg",
-      "https://media.rawg.io/media/screenshots/709/7092aeaad384899f38f2e70c34f72023.jpg",
-      "https://media.rawg.io/media/screenshots/852/852baaa365ac0112b270734e5c0048e6.jpg",
-      "https://media.rawg.io/media/screenshots/941/94193b455315252e0e14846a17c563b8.jpg",
-      "https://media.rawg.io/media/screenshots/7c2/7c224da3b4b9bf37a3d84d4296507b04.jpg"
-    ],
-    "desc": "retro rewind video store simulator",
     "source": "rawg_auto"
   },
   {
@@ -5363,74 +5431,6 @@
       "https://media.rawg.io/media/screenshots/427/4277f20725ddbb43a84e0260f9739cda.jpg"
     ],
     "desc": "dice a million",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1018141",
-    "name": "Cheap Car Repair",
-    "type": "release",
-    "genres": [
-      "独立游戏",
-      "模拟经营"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-05-28"
-      },
-      {
-        "region": "CN",
-        "date": "2026-05-28"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/43f/43fe0c6ffb8e53755592876c64151e9a.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/7fb/7fb8c96f9a6d4e378d2b1ea5b199da78.jpg",
-      "https://media.rawg.io/media/screenshots/a32/a3232123d1de24ae1db5a4101fdc87f4.jpg",
-      "https://media.rawg.io/media/screenshots/c87/c87e43a2fc9891cc1d02315fd1c6fcc8.jpg",
-      "https://media.rawg.io/media/screenshots/025/0259905659af1f71b9ec76e12ecedba9.jpg",
-      "https://media.rawg.io/media/screenshots/da7/da765531b3443245e2f387dc11abdf4b.jpg",
-      "https://media.rawg.io/media/screenshots/43f/43fe0c6ffb8e53755592876c64151e9a.jpg"
-    ],
-    "desc": "cheap car repair",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1008991",
-    "name": "Denshattack!",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC",
-      "PS5",
-      "Xbox"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-07-15"
-      },
-      {
-        "region": "CN",
-        "date": "2026-07-15"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/4c8/4c87922955d0494dda7ce812a8ee4c6d.jpg",
-    "screenshots": [],
-    "desc": "denshattack",
     "source": "rawg_auto"
   },
   {
@@ -13265,6 +13265,35 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1018096",
+    "name": "Ariana and the Elder Codex",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-04-30"
+      },
+      {
+        "region": "CN",
+        "date": "2026-04-30"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "",
+    "screenshots": [],
+    "desc": "ariana and the elder codex",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1013637",
     "name": "Pirates: Rogue's Fortune",
     "type": "release",
@@ -14019,42 +14048,6 @@
       "https://media.rawg.io/media/screenshots/470/47096c11cdc168a677e912d45ef0a6f7.jpg"
     ],
     "desc": "blok demo",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1018218",
-    "name": "Blades of Fire Demo",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-05-13"
-      },
-      {
-        "region": "CN",
-        "date": "2026-05-13"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/790/790081572a31eeb1f6fd03136d98571f.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/422/42200b65eac74ffd280d0f217841b455.jpg",
-      "https://media.rawg.io/media/screenshots/967/9679d500508c858fd0c80594adb6d227.jpg",
-      "https://media.rawg.io/media/screenshots/4c1/4c1ba71bb9cbdd2119aafc97af88ee69.jpg",
-      "https://media.rawg.io/media/screenshots/42f/42f59920ae2c7c42188e544a867163a8.jpg",
-      "https://media.rawg.io/media/screenshots/cca/cca226681e4ffee06a5423d042727651.jpg",
-      "https://media.rawg.io/media/screenshots/b34/b34694753a54a1c74e01ddee807c8259.jpg"
-    ],
-    "desc": "blades of fire demo",
     "source": "rawg_auto"
   }
 ]
