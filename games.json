@@ -247,7 +247,7 @@
     ],
     "expectScore": 4,
     "scoreSource": "RAWG用户",
-    "popularity": 39,
+    "popularity": 40,
     "rating": "teen",
     "cover": "https://media.rawg.io/media/games/dac/dacfcdeaef957a36416f4e6d5ec76229.jpg",
     "screenshots": [
@@ -1891,6 +1891,41 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1015978",
+    "name": "Legacy of Kain: Defiance Remastered",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-03-03"
+      },
+      {
+        "region": "CN",
+        "date": "2026-03-03"
+      }
+    ],
+    "expectScore": 4,
+    "scoreSource": "RAWG用户",
+    "popularity": 3,
+    "rating": "mature",
+    "cover": "https://media.rawg.io/media/screenshots/b63/b634ca0687f73b55e355b12fe825ef96.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/045/0457a18bbbd89ca4361da4ab5714807f.jpg",
+      "https://media.rawg.io/media/screenshots/f72/f726c34aa7ebd64a7dd019af35905668.jpg",
+      "https://media.rawg.io/media/screenshots/b14/b14a287077f3a5f4133521aee2981e96.jpg",
+      "https://media.rawg.io/media/screenshots/8f9/8f95a4d9ce369e3cfa203ee604b843a4.jpg",
+      "https://media.rawg.io/media/screenshots/b63/b634ca0687f73b55e355b12fe825ef96.jpg"
+    ],
+    "desc": "legacy of kain defiance remastered",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_275607",
     "name": "Phonopolis",
     "type": "release",
@@ -1988,41 +2023,6 @@
       "https://media.rawg.io/media/screenshots/20e/20e62ea7ec2a498bf56e31058f0bd4b1.jpg"
     ],
     "desc": "valor mortis",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1015978",
-    "name": "Legacy of Kain: Defiance Remastered",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-03-03"
-      },
-      {
-        "region": "CN",
-        "date": "2026-03-03"
-      }
-    ],
-    "expectScore": 4,
-    "scoreSource": "RAWG用户",
-    "popularity": 3,
-    "rating": "mature",
-    "cover": "https://media.rawg.io/media/screenshots/b63/b634ca0687f73b55e355b12fe825ef96.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/045/0457a18bbbd89ca4361da4ab5714807f.jpg",
-      "https://media.rawg.io/media/screenshots/f72/f726c34aa7ebd64a7dd019af35905668.jpg",
-      "https://media.rawg.io/media/screenshots/b14/b14a287077f3a5f4133521aee2981e96.jpg",
-      "https://media.rawg.io/media/screenshots/8f9/8f95a4d9ce369e3cfa203ee604b843a4.jpg",
-      "https://media.rawg.io/media/screenshots/b63/b634ca0687f73b55e355b12fe825ef96.jpg"
-    ],
-    "desc": "legacy of kain defiance remastered",
     "source": "rawg_auto"
   },
   {
@@ -2273,39 +2273,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1016124",
-    "name": "1348 Ex Voto",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC",
-      "PS5"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-03-12"
-      },
-      {
-        "region": "CN",
-        "date": "2026-03-12"
-      }
-    ],
-    "expectScore": 1,
-    "scoreSource": "RAWG用户",
-    "popularity": 3,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/833/833488c6f10948679049811744287277.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/8d5/8d53a6e7da051f88fa97f5dd1c49d038.jpg",
-      "https://media.rawg.io/media/screenshots/9cd/9cdfe1b6370098b43c58535b009cad35.jpg"
-    ],
-    "desc": "1348 ex voto",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1016111",
     "name": "Pokémon Pokopia",
     "type": "release",
@@ -2339,6 +2306,39 @@
       "https://media.rawg.io/media/screenshots/2a0/2a0b29c32b97025bc0c892c083cceb07.jpg"
     ],
     "desc": "pokemon pokopia",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1016124",
+    "name": "1348 Ex Voto",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC",
+      "PS5"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-03-12"
+      },
+      {
+        "region": "CN",
+        "date": "2026-03-12"
+      }
+    ],
+    "expectScore": 1,
+    "scoreSource": "RAWG用户",
+    "popularity": 3,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/833/833488c6f10948679049811744287277.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/8d5/8d53a6e7da051f88fa97f5dd1c49d038.jpg",
+      "https://media.rawg.io/media/screenshots/9cd/9cdfe1b6370098b43c58535b009cad35.jpg"
+    ],
+    "desc": "1348 ex voto",
     "source": "rawg_auto"
   },
   {
@@ -2550,44 +2550,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_965928",
-    "name": "Grime II",
-    "type": "release",
-    "genres": [
-      "独立游戏",
-      "动作冒险",
-      "RPG"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-03-31"
-      },
-      {
-        "region": "CN",
-        "date": "2026-03-31"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 2,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/013/0133292c4433d93255a1ad497946f8a1.jpeg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/eed/eedd97e1b45a28fb7801be3bd2ba7055.jpg",
-      "https://media.rawg.io/media/screenshots/c2e/c2eb7493f3a85edfebfddeaadf9fb27c.jpg",
-      "https://media.rawg.io/media/screenshots/c76/c76b5d556642f7c9d542eed9951c7a25.jpg",
-      "https://media.rawg.io/media/screenshots/032/032f60278d943c721a86ead2a297e0b5_MU5evip.jpg",
-      "https://media.rawg.io/media/screenshots/36a/36a8fbc5f05a44741ae4342520ffc218.jpg",
-      "https://media.rawg.io/media/screenshots/149/149e3188e64b957d2cd5b8d483f451c7.jpg"
-    ],
-    "desc": "grime ii",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1017255",
     "name": "Atomic Heart: Blood on Crystal",
     "type": "release",
@@ -2660,6 +2622,44 @@
       "https://media.rawg.io/media/screenshots/501/5014da12dae913611e69a1d7011a9ec8.jpeg"
     ],
     "desc": "halo campaign evolved",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_965928",
+    "name": "Grime II",
+    "type": "release",
+    "genres": [
+      "独立游戏",
+      "动作冒险",
+      "RPG"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-03-31"
+      },
+      {
+        "region": "CN",
+        "date": "2026-03-31"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 2,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/013/0133292c4433d93255a1ad497946f8a1.jpeg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/eed/eedd97e1b45a28fb7801be3bd2ba7055.jpg",
+      "https://media.rawg.io/media/screenshots/c2e/c2eb7493f3a85edfebfddeaadf9fb27c.jpg",
+      "https://media.rawg.io/media/screenshots/c76/c76b5d556642f7c9d542eed9951c7a25.jpg",
+      "https://media.rawg.io/media/screenshots/032/032f60278d943c721a86ead2a297e0b5_MU5evip.jpg",
+      "https://media.rawg.io/media/screenshots/36a/36a8fbc5f05a44741ae4342520ffc218.jpg",
+      "https://media.rawg.io/media/screenshots/149/149e3188e64b957d2cd5b8d483f451c7.jpg"
+    ],
+    "desc": "grime ii",
     "source": "rawg_auto"
   },
   {
@@ -3371,6 +3371,37 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1018045",
+    "name": "God of War Laufey",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PS5"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2027-02-16"
+      },
+      {
+        "region": "CN",
+        "date": "2027-02-16"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 1,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/6dc/6dc941f6e619f59ec849d7f681e72c46.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/6dc/6dc941f6e619f59ec849d7f681e72c46.jpg"
+    ],
+    "desc": "god of war laufey",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1017859",
     "name": "Call of the Elder Gods",
     "type": "release",
@@ -3669,6 +3700,35 @@
     "cover": "https://media.rawg.io/media/games/553/5536c25da9711a39a5c4d752361de551.jpg",
     "screenshots": [],
     "desc": "star wars galactic racer",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1017361",
+    "name": "Opus: Prism Peak",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-03-26"
+      },
+      {
+        "region": "CN",
+        "date": "2026-03-26"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 1,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/dfa/dfaff35ff0018dae78189fef51d9935d.jpg",
+    "screenshots": [],
+    "desc": "opus prism peak",
     "source": "rawg_auto"
   },
   {
@@ -4018,35 +4078,6 @@
       "https://media.rawg.io/media/screenshots/8f7/8f79c4155008bc457383ccc6516e4bd4.jpg"
     ],
     "desc": "highguard",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1017361",
-    "name": "Opus: Prism Peak",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-03-26"
-      },
-      {
-        "region": "CN",
-        "date": "2026-03-26"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 1,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/dfa/dfaff35ff0018dae78189fef51d9935d.jpg",
-    "screenshots": [],
-    "desc": "opus prism peak",
     "source": "rawg_auto"
   },
   {
@@ -4857,6 +4888,43 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1010532",
+    "name": "Marvel Tokon: Fighting Souls",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC",
+      "PS5"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-08-06"
+      },
+      {
+        "region": "CN",
+        "date": "2026-08-06"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 1,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/4ba/4ba7897954c31431c9b38cf18b9e9fdf.jpeg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/321/321b964e2cd39dea5b56c95039efcd73.jpg",
+      "https://media.rawg.io/media/screenshots/64f/64f3c3749df19d032dacc2cd07a47aab.jpg",
+      "https://media.rawg.io/media/screenshots/c72/c72cfbddcd3aa659fd13f9efae3caccb.jpg",
+      "https://media.rawg.io/media/screenshots/f85/f851ab9abb5970625c7dfa17418ae68b.jpg",
+      "https://media.rawg.io/media/screenshots/a8f/a8fecb30088245b124ddeffcd0788a79.jpg",
+      "https://media.rawg.io/media/screenshots/fac/fac2d4c65c3d6f4c774d28524d35f1ee.jpg"
+    ],
+    "desc": "marvel tokon fighting souls",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1017365",
     "name": "The 7th Guest Remake",
     "type": "release",
@@ -4886,37 +4954,6 @@
       "https://media.rawg.io/media/screenshots/ef6/ef64a3aed53dccd10019ea72c3fcfd92.jpg"
     ],
     "desc": "the 7th guest remake",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1008991",
-    "name": "Denshattack!",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC",
-      "PS5",
-      "Xbox"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-07-15"
-      },
-      {
-        "region": "CN",
-        "date": "2026-07-15"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 1,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/4c8/4c87922955d0494dda7ce812a8ee4c6d.jpg",
-    "screenshots": [],
-    "desc": "denshattack",
     "source": "rawg_auto"
   },
   {
@@ -4954,6 +4991,37 @@
       "https://media.rawg.io/media/screenshots/43f/43fe0c6ffb8e53755592876c64151e9a.jpg"
     ],
     "desc": "cheap car repair",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1008991",
+    "name": "Denshattack!",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-07-15"
+      },
+      {
+        "region": "CN",
+        "date": "2026-07-15"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 1,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/4c8/4c87922955d0494dda7ce812a8ee4c6d.jpg",
+    "screenshots": [],
+    "desc": "denshattack",
     "source": "rawg_auto"
   },
   {
@@ -5122,43 +5190,6 @@
       "https://media.rawg.io/media/screenshots/ff6/ff68bea855a49f88120a33fef70a3059.jpg"
     ],
     "desc": "skull horde",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1010532",
-    "name": "Marvel Tokon: Fighting Souls",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC",
-      "PS5"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-08-06"
-      },
-      {
-        "region": "CN",
-        "date": "2026-08-06"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 1,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/4ba/4ba7897954c31431c9b38cf18b9e9fdf.jpeg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/321/321b964e2cd39dea5b56c95039efcd73.jpg",
-      "https://media.rawg.io/media/screenshots/64f/64f3c3749df19d032dacc2cd07a47aab.jpg",
-      "https://media.rawg.io/media/screenshots/c72/c72cfbddcd3aa659fd13f9efae3caccb.jpg",
-      "https://media.rawg.io/media/screenshots/f85/f851ab9abb5970625c7dfa17418ae68b.jpg",
-      "https://media.rawg.io/media/screenshots/a8f/a8fecb30088245b124ddeffcd0788a79.jpg",
-      "https://media.rawg.io/media/screenshots/fac/fac2d4c65c3d6f4c774d28524d35f1ee.jpg"
-    ],
-    "desc": "marvel tokon fighting souls",
     "source": "rawg_auto"
   },
   {
@@ -8197,36 +8228,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1015843",
-    "name": "R.I.P. - Reincarnation Insurance Program",
-    "type": "release",
-    "genres": [
-      "MMO",
-      "FPS/射击"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-01-26"
-      },
-      {
-        "region": "CN",
-        "date": "2026-01-26"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "",
-    "screenshots": [],
-    "desc": "rip reincarnation insurance program",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1008990",
     "name": "Battlestar Galactica: Scattered Hopes",
     "type": "release",
@@ -8939,43 +8940,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1016153",
-    "name": "UMIGARI | ウミガリ",
-    "type": "release",
-    "genres": [
-      "独立游戏",
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-02-05"
-      },
-      {
-        "region": "CN",
-        "date": "2026-02-05"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/f02/f02857d5b96ae5e2a6a1292f7b85e215.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/6e6/6e6d5215404e1527f8b15be582c08612.jpg",
-      "https://media.rawg.io/media/screenshots/bf0/bf0007c49a9dd2dced87a9f596dac26b.jpg",
-      "https://media.rawg.io/media/screenshots/298/298ed25035a91140785b16be4cf0b422.jpg",
-      "https://media.rawg.io/media/screenshots/e5f/e5f8ee36659416c7e2d500164ad680dd.jpg",
-      "https://media.rawg.io/media/screenshots/b06/b06a0c6f9090f661827ae99d8e3fa3ba.jpg",
-      "https://media.rawg.io/media/screenshots/b91/b918fce998d7e50b228132f04a081606.jpg"
-    ],
-    "desc": "umigari umigari",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1018056",
     "name": "Rose & Locket",
     "type": "release",
@@ -9324,6 +9288,43 @@
       "https://media.rawg.io/media/screenshots/007/00725f5b675581e0bf134ad899bdfe52.jpg"
     ],
     "desc": "the ember guardian",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1016153",
+    "name": "UMIGARI | ウミガリ",
+    "type": "release",
+    "genres": [
+      "独立游戏",
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-02-05"
+      },
+      {
+        "region": "CN",
+        "date": "2026-02-05"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/f02/f02857d5b96ae5e2a6a1292f7b85e215.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/6e6/6e6d5215404e1527f8b15be582c08612.jpg",
+      "https://media.rawg.io/media/screenshots/bf0/bf0007c49a9dd2dced87a9f596dac26b.jpg",
+      "https://media.rawg.io/media/screenshots/298/298ed25035a91140785b16be4cf0b422.jpg",
+      "https://media.rawg.io/media/screenshots/e5f/e5f8ee36659416c7e2d500164ad680dd.jpg",
+      "https://media.rawg.io/media/screenshots/b06/b06a0c6f9090f661827ae99d8e3fa3ba.jpg",
+      "https://media.rawg.io/media/screenshots/b91/b918fce998d7e50b228132f04a081606.jpg"
+    ],
+    "desc": "umigari umigari",
     "source": "rawg_auto"
   },
   {
@@ -11679,6 +11680,36 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1019271",
+    "name": "Punishment NyanNyan R",
+    "type": "release",
+    "genres": [
+      "RPG",
+      "模拟经营"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-04-29"
+      },
+      {
+        "region": "CN",
+        "date": "2026-04-29"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "",
+    "screenshots": [],
+    "desc": "punishment nyannyan r",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1019047",
     "name": "Armor of God",
     "type": "release",
@@ -11713,36 +11744,6 @@
       "https://media.rawg.io/media/screenshots/176/176d8e8a9bdfad8f7984fe8110ec89de.jpg"
     ],
     "desc": "armor of god 2",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1019271",
-    "name": "Punishment NyanNyan R",
-    "type": "release",
-    "genres": [
-      "RPG",
-      "模拟经营"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-04-29"
-      },
-      {
-        "region": "CN",
-        "date": "2026-04-29"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "",
-    "screenshots": [],
-    "desc": "punishment nyannyan r",
     "source": "rawg_auto"
   },
   {
