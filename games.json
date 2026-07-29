@@ -1326,7 +1326,7 @@
     ],
     "expectScore": null,
     "scoreSource": "暂无",
-    "popularity": 6,
+    "popularity": 7,
     "rating": "teen",
     "cover": "https://media.rawg.io/media/games/bf4/bf449e2f579f618cc43ffebf0ac3a472.jpg",
     "screenshots": [
@@ -1497,7 +1497,7 @@
     ],
     "expectScore": 3,
     "scoreSource": "RAWG用户",
-    "popularity": 5,
+    "popularity": 6,
     "rating": "teen",
     "cover": "https://media.rawg.io/media/games/868/868149477e4463324c23ed9b4481034c.jpg",
     "screenshots": [
@@ -1760,37 +1760,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1010939",
-    "name": "Yakuza Kiwami 3 & Dark Ties",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC",
-      "PS5",
-      "Switch"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-02-12"
-      },
-      {
-        "region": "CN",
-        "date": "2026-02-12"
-      }
-    ],
-    "expectScore": 1,
-    "scoreSource": "RAWG用户",
-    "popularity": 4,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/910/9101d577869a5c24675b80f58d4be72c.jpg",
-    "screenshots": [],
-    "desc": "yakuza kiwami 3",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1017801",
     "name": "Librarian: Tidy Up the Arcane Library!",
     "type": "release",
@@ -1826,6 +1795,37 @@
       "https://media.rawg.io/media/screenshots/9f2/9f2be7240283d577ba046015966fea27.jpg"
     ],
     "desc": "librarian tidy up the arcane library",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1010939",
+    "name": "Yakuza Kiwami 3 & Dark Ties",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Switch"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-02-12"
+      },
+      {
+        "region": "CN",
+        "date": "2026-02-12"
+      }
+    ],
+    "expectScore": 1,
+    "scoreSource": "RAWG用户",
+    "popularity": 4,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/910/9101d577869a5c24675b80f58d4be72c.jpg",
+    "screenshots": [],
+    "desc": "yakuza kiwami 3",
     "source": "rawg_auto"
   },
   {
@@ -2243,6 +2243,45 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1013132",
+    "name": "Halo Campaign Evolved",
+    "type": "release",
+    "genres": [
+      "FPS/射击",
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-07-28"
+      },
+      {
+        "region": "CN",
+        "date": "2026-07-28"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 3,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/c44/c445c015eb08b156eed3f047f9718508.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/7f0/7f074d2e43a973552128d487ed551b2c.jpg",
+      "https://media.rawg.io/media/screenshots/21a/21aed35c2a98931b24b0d396328353a3.jpg",
+      "https://media.rawg.io/media/screenshots/e91/e919553ac3bc562c78a1b76ec5f274d1.jpg",
+      "https://media.rawg.io/media/screenshots/c7a/c7ab62bd626033433e7449599b5996f8.jpeg",
+      "https://media.rawg.io/media/screenshots/183/18317603999ef601d3addcb99d452bfc.jpg",
+      "https://media.rawg.io/media/screenshots/501/5014da12dae913611e69a1d7011a9ec8.jpeg"
+    ],
+    "desc": "halo campaign evolved",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1016111",
     "name": "Pokémon Pokopia",
     "type": "release",
@@ -2309,45 +2348,6 @@
       "https://media.rawg.io/media/screenshots/9cd/9cdfe1b6370098b43c58535b009cad35.jpg"
     ],
     "desc": "1348 ex voto",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1013132",
-    "name": "Halo Campaign Evolved",
-    "type": "release",
-    "genres": [
-      "FPS/射击",
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC",
-      "PS5",
-      "Xbox"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-07-28"
-      },
-      {
-        "region": "CN",
-        "date": "2026-07-28"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 3,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/c44/c445c015eb08b156eed3f047f9718508.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/7f0/7f074d2e43a973552128d487ed551b2c.jpg",
-      "https://media.rawg.io/media/screenshots/21a/21aed35c2a98931b24b0d396328353a3.jpg",
-      "https://media.rawg.io/media/screenshots/e91/e919553ac3bc562c78a1b76ec5f274d1.jpg",
-      "https://media.rawg.io/media/screenshots/c7a/c7ab62bd626033433e7449599b5996f8.jpeg",
-      "https://media.rawg.io/media/screenshots/183/18317603999ef601d3addcb99d452bfc.jpg",
-      "https://media.rawg.io/media/screenshots/501/5014da12dae913611e69a1d7011a9ec8.jpeg"
-    ],
-    "desc": "halo campaign evolved",
     "source": "rawg_auto"
   },
   {
@@ -3343,6 +3343,44 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_973389",
+    "name": "Exodus (Archetype Entertainment)",
+    "type": "release",
+    "genres": [
+      "动作冒险",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2027-03-31"
+      },
+      {
+        "region": "CN",
+        "date": "2027-03-31"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 1,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/c78/c786d190185de97aa21a0ed1ababd3d3.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/6f2/6f2bfe326cb87a8c03c97697f46c6119.jpg",
+      "https://media.rawg.io/media/screenshots/397/397b34fb0d810100fe14d657bbf55e6e.jpg",
+      "https://media.rawg.io/media/screenshots/935/935ffcb9b85427c1599122da6ac6362f.jpg",
+      "https://media.rawg.io/media/screenshots/d2b/d2b52c2e0ea7f03c769fce61359d9f83.jpg",
+      "https://media.rawg.io/media/screenshots/c78/c786d190185de97aa21a0ed1ababd3d3.jpg"
+    ],
+    "desc": "exodus archetype entertainment",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1016046",
     "name": "Horripilant",
     "type": "release",
@@ -3445,44 +3483,6 @@
       "https://media.rawg.io/media/screenshots/faa/faa8c8ddde9c4ce33e5d6df5311378d3.jpg"
     ],
     "desc": "star wars zero company",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_973389",
-    "name": "Exodus (Archetype Entertainment)",
-    "type": "release",
-    "genres": [
-      "动作冒险",
-      "RPG"
-    ],
-    "platforms": [
-      "PC",
-      "PS5",
-      "Xbox"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2027-03-31"
-      },
-      {
-        "region": "CN",
-        "date": "2027-03-31"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 1,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/c78/c786d190185de97aa21a0ed1ababd3d3.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/6f2/6f2bfe326cb87a8c03c97697f46c6119.jpg",
-      "https://media.rawg.io/media/screenshots/397/397b34fb0d810100fe14d657bbf55e6e.jpg",
-      "https://media.rawg.io/media/screenshots/935/935ffcb9b85427c1599122da6ac6362f.jpg",
-      "https://media.rawg.io/media/screenshots/d2b/d2b52c2e0ea7f03c769fce61359d9f83.jpg",
-      "https://media.rawg.io/media/screenshots/c78/c786d190185de97aa21a0ed1ababd3d3.jpg"
-    ],
-    "desc": "exodus archetype entertainment",
     "source": "rawg_auto"
   },
   {
@@ -4191,6 +4191,40 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1018109",
+    "name": "Mafia: The Old Country - Man of Honor",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-08-14"
+      },
+      {
+        "region": "CN",
+        "date": "2026-08-14"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 1,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/747/7471aaa7e49ed46fa3d4f69594bb9380.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/10d/10d8e46a1007fdc86a6748866d2717a0.jpg",
+      "https://media.rawg.io/media/screenshots/747/7471aaa7e49ed46fa3d4f69594bb9380.jpg"
+    ],
+    "desc": "mafia the old country man of honor",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1018386",
     "name": "Deer and Boy",
     "type": "release",
@@ -4607,40 +4641,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1018109",
-    "name": "Mafia: The Old Country - Man of Honor",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC",
-      "PS5",
-      "Xbox"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-08-14"
-      },
-      {
-        "region": "CN",
-        "date": "2026-08-14"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 1,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/747/7471aaa7e49ed46fa3d4f69594bb9380.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/10d/10d8e46a1007fdc86a6748866d2717a0.jpg",
-      "https://media.rawg.io/media/screenshots/747/7471aaa7e49ed46fa3d4f69594bb9380.jpg"
-    ],
-    "desc": "mafia the old country man of honor",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1018108",
     "name": "S.T.A.L.K.E.R. 2: Cost of Hope",
     "type": "release",
@@ -4853,6 +4853,36 @@
       "https://media.rawg.io/media/screenshots/3c5/3c511506ba31902bbdcbf963219ef77c.jpg"
     ],
     "desc": "beautiful light",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1016113",
+    "name": "Screamer",
+    "type": "release",
+    "genres": [
+      "体育竞速"
+    ],
+    "platforms": [
+      "PC",
+      "PS5"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-03-26"
+      },
+      {
+        "region": "CN",
+        "date": "2026-03-26"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 1,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/f27/f2729c6ee0b4ad133d83d400e241e4ce.jpg",
+    "screenshots": [],
+    "desc": "screamer 2026",
     "source": "rawg_auto"
   },
   {
@@ -5127,36 +5157,6 @@
       "https://media.rawg.io/media/screenshots/fac/fac2d4c65c3d6f4c774d28524d35f1ee.jpg"
     ],
     "desc": "marvel tokon fighting souls",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1016113",
-    "name": "Screamer",
-    "type": "release",
-    "genres": [
-      "体育竞速"
-    ],
-    "platforms": [
-      "PC",
-      "PS5"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-03-26"
-      },
-      {
-        "region": "CN",
-        "date": "2026-03-26"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 1,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/f27/f2729c6ee0b4ad133d83d400e241e4ce.jpg",
-    "screenshots": [],
-    "desc": "screamer 2026",
     "source": "rawg_auto"
   },
   {
@@ -6026,6 +6026,40 @@
       "https://media.rawg.io/media/screenshots/356/356e80ba1e460f3aa51d66b696754050.jpg"
     ],
     "desc": "insomnia chapter one",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1018441",
+    "name": "EA SPORTS College Football 27",
+    "type": "release",
+    "genres": [
+      "模拟经营",
+      "体育竞速"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-07-09"
+      },
+      {
+        "region": "CN",
+        "date": "2026-07-09"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/c3c/c3c42e640ae58a4c31bcdc6ee81500c8.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/c3c/c3c42e640ae58a4c31bcdc6ee81500c8.jpg"
+    ],
+    "desc": "ea sports college football 27",
     "source": "rawg_auto"
   },
   {
@@ -7543,40 +7577,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1018441",
-    "name": "EA SPORTS College Football 27",
-    "type": "release",
-    "genres": [
-      "模拟经营",
-      "体育竞速"
-    ],
-    "platforms": [
-      "PC",
-      "PS5",
-      "Xbox"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-07-09"
-      },
-      {
-        "region": "CN",
-        "date": "2026-07-09"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/c3c/c3c42e640ae58a4c31bcdc6ee81500c8.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/c3c/c3c42e640ae58a4c31bcdc6ee81500c8.jpg"
-    ],
-    "desc": "ea sports college football 27",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1015853",
     "name": "Heavy Hearts",
     "type": "release",
@@ -8450,43 +8450,6 @@
       "https://media.rawg.io/media/screenshots/973/973fdbcc94f402f52049e17b53ae3895.jpg"
     ],
     "desc": "blossom the seed of life",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1015503",
-    "name": "FRONT MISSION 3: Remake",
-    "type": "release",
-    "genres": [
-      "策略"
-    ],
-    "platforms": [
-      "PC",
-      "PS5"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-01-29"
-      },
-      {
-        "region": "CN",
-        "date": "2026-01-29"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/805/8054c6a279110ca35b819761665a711b.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/d26/d26976dbdd507882221f34215928ce80.jpg",
-      "https://media.rawg.io/media/screenshots/b39/b39ba9fd40ee62a1063f32700ebd0b99.jpg",
-      "https://media.rawg.io/media/screenshots/637/637b82a9c9431cd8b392c22c551ce880.jpg",
-      "https://media.rawg.io/media/screenshots/a8c/a8c23160db4585e8183e7756549e0ec1.jpg",
-      "https://media.rawg.io/media/screenshots/1d9/1d9412a765c6d7e18db131af1cbbdc2b.jpg",
-      "https://media.rawg.io/media/screenshots/4b2/4b2c5f9789de2779f3bef5dc509cfe62.jpg"
-    ],
-    "desc": "front mission 3 remake",
     "source": "rawg_auto"
   },
   {
@@ -11821,6 +11784,79 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1019311",
+    "name": "FootBall Card Battle",
+    "type": "release",
+    "genres": [
+      "策略",
+      "独立游戏",
+      "模拟经营"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-07-19"
+      },
+      {
+        "region": "CN",
+        "date": "2026-07-19"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/222/222ff19d281e241d2b5e7925cf7575b0.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/b2e/b2e4f7e9cad30aa289aac86bf2e5112f.jpg",
+      "https://media.rawg.io/media/screenshots/0b9/0b93354c665462dfaf15422c71d90ae4.jpg",
+      "https://media.rawg.io/media/screenshots/c7d/c7d32a4045fde63e2e2028d021880f02.jpg",
+      "https://media.rawg.io/media/screenshots/0fe/0fe35a0188dbfdca562971cfe2a1c23e.jpg",
+      "https://media.rawg.io/media/screenshots/b3f/b3f682067ba310284cd08aa434159193.jpg",
+      "https://media.rawg.io/media/screenshots/4bf/4bf294864e30261101861569734641f3.jpg"
+    ],
+    "desc": "football card battle",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1019331",
+    "name": "Rubinite",
+    "type": "release",
+    "genres": [
+      "独立游戏",
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-07-23"
+      },
+      {
+        "region": "CN",
+        "date": "2026-07-23"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/cb9/cb9abb4076fe41ff934e4319ad015c62.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/000/0003909f399bdca1972d36c2ee9c25b3.jpg",
+      "https://media.rawg.io/media/screenshots/0e6/0e6f5393cd79c30e83208d1c626cec67.jpg",
+      "https://media.rawg.io/media/screenshots/dc4/dc4f45789e0e6ff2c639f24a8f121dc2.jpg",
+      "https://media.rawg.io/media/screenshots/77d/77dbf48ded080e5a31478c17c97b1626.jpg"
+    ],
+    "desc": "rubinite",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1016000",
     "name": "Legends of Amberland III: The Crimson Tower",
     "type": "release",
@@ -12601,36 +12637,6 @@
       "https://media.rawg.io/media/screenshots/768/768394b82d811cea45eb652e1b5ff434.jpg"
     ],
     "desc": "simultree",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1018208",
-    "name": "Space Warlord Baby Trading Simulator",
-    "type": "release",
-    "genres": [
-      "模拟经营"
-    ],
-    "platforms": [
-      "PC",
-      "Xbox"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-01-29"
-      },
-      {
-        "region": "CN",
-        "date": "2026-01-29"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "",
-    "screenshots": [],
-    "desc": "space warlord baby trading simulator",
     "source": "rawg_auto"
   },
   {
