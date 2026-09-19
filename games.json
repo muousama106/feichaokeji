@@ -559,43 +559,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_881141",
-    "name": "Directive 8020",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC",
-      "PS5",
-      "Xbox"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-05-12"
-      },
-      {
-        "region": "CN",
-        "date": "2026-05-12"
-      }
-    ],
-    "expectScore": 4,
-    "scoreSource": "RAWG用户",
-    "popularity": 20,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/10d/10dd957940dbaedc77a08730995194c7.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/5a4/5a4f2fd68784a50a2f474f9e4c57f680.jpg",
-      "https://media.rawg.io/media/screenshots/802/802d04b6880ab531008e1ad80ef4e4ec.jpg",
-      "https://media.rawg.io/media/screenshots/91a/91ae3a4ed650a666c33e137f1d7fac3d.jpg",
-      "https://media.rawg.io/media/screenshots/ac8/ac809d41fa6b70332f25c1494108e61c.jpg",
-      "https://media.rawg.io/media/screenshots/3ec/3ec5930aa01a46844a7da1bfec6b9799.jpg"
-    ],
-    "desc": "the dark pictures directive 8020",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_996046",
     "name": "The Blood Of Dawnwalker",
     "type": "release",
@@ -630,6 +593,43 @@
       "https://media.rawg.io/media/screenshots/3b4/3b4e3c777bb8d0f431742bb6528968b6.jpg"
     ],
     "desc": "the blood of dawnwalker",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_881141",
+    "name": "Directive 8020",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-05-12"
+      },
+      {
+        "region": "CN",
+        "date": "2026-05-12"
+      }
+    ],
+    "expectScore": 4,
+    "scoreSource": "RAWG用户",
+    "popularity": 20,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/10d/10dd957940dbaedc77a08730995194c7.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/5a4/5a4f2fd68784a50a2f474f9e4c57f680.jpg",
+      "https://media.rawg.io/media/screenshots/802/802d04b6880ab531008e1ad80ef4e4ec.jpg",
+      "https://media.rawg.io/media/screenshots/91a/91ae3a4ed650a666c33e137f1d7fac3d.jpg",
+      "https://media.rawg.io/media/screenshots/ac8/ac809d41fa6b70332f25c1494108e61c.jpg",
+      "https://media.rawg.io/media/screenshots/3ec/3ec5930aa01a46844a7da1bfec6b9799.jpg"
+    ],
+    "desc": "the dark pictures directive 8020",
     "source": "rawg_auto"
   },
   {
@@ -1983,43 +1983,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1015845",
-    "name": "Fatekeeper",
-    "type": "release",
-    "genres": [
-      "动作冒险",
-      "RPG"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-06-02"
-      },
-      {
-        "region": "CN",
-        "date": "2026-06-02"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 3,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/39a/39a42ccd08d437e56a9e5d152c75b425.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/150/1508fd16aca834753e2325fb3a4aeea1.jpg",
-      "https://media.rawg.io/media/screenshots/5a0/5a0518e40b3566d73781df580a06651d.jpg",
-      "https://media.rawg.io/media/screenshots/8d3/8d3eacfec3c49225c34fa5feec4a5e44.jpg",
-      "https://media.rawg.io/media/screenshots/4c5/4c587243df01041a9f14599d74a81c28.jpg",
-      "https://media.rawg.io/media/screenshots/b7d/b7d55cac1b0c96d22067e8fe470ab824.jpg",
-      "https://media.rawg.io/media/screenshots/b33/b33241faea6d5d0182a27e15450e6002.jpg"
-    ],
-    "desc": "fatekeeper",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_994083",
     "name": "ananta",
     "type": "release",
@@ -2054,6 +2017,43 @@
       "https://media.rawg.io/media/screenshots/21f/21ffdb58671720697c5e7382b021755b.jpg"
     ],
     "desc": "ananta",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1015845",
+    "name": "Fatekeeper",
+    "type": "release",
+    "genres": [
+      "动作冒险",
+      "RPG"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-06-02"
+      },
+      {
+        "region": "CN",
+        "date": "2026-06-02"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 3,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/39a/39a42ccd08d437e56a9e5d152c75b425.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/150/1508fd16aca834753e2325fb3a4aeea1.jpg",
+      "https://media.rawg.io/media/screenshots/5a0/5a0518e40b3566d73781df580a06651d.jpg",
+      "https://media.rawg.io/media/screenshots/8d3/8d3eacfec3c49225c34fa5feec4a5e44.jpg",
+      "https://media.rawg.io/media/screenshots/4c5/4c587243df01041a9f14599d74a81c28.jpg",
+      "https://media.rawg.io/media/screenshots/b7d/b7d55cac1b0c96d22067e8fe470ab824.jpg",
+      "https://media.rawg.io/media/screenshots/b33/b33241faea6d5d0182a27e15450e6002.jpg"
+    ],
+    "desc": "fatekeeper",
     "source": "rawg_auto"
   },
   {
@@ -4016,35 +4016,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1017362",
-    "name": "Splatoon Raiders",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-07-23"
-      },
-      {
-        "region": "CN",
-        "date": "2026-07-23"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 1,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/818/8186b959ba7c061024ec3f4ad23e4496.jpg",
-    "screenshots": [],
-    "desc": "splatoon raiders",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1019281",
     "name": "Security 51",
     "type": "release",
@@ -4118,6 +4089,35 @@
       "https://media.rawg.io/media/screenshots/21b/21b53e57144d6fc9b7c07d51b56e5da7.jpg"
     ],
     "desc": "aniimo",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1017362",
+    "name": "Splatoon Raiders",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-07-23"
+      },
+      {
+        "region": "CN",
+        "date": "2026-07-23"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 1,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/818/8186b959ba7c061024ec3f4ad23e4496.jpg",
+    "screenshots": [],
+    "desc": "splatoon raiders",
     "source": "rawg_auto"
   },
   {
@@ -5141,6 +5141,44 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1019806",
+    "name": "KOTAMON: My Sis Found A Super-Rare Card In Her Cereal Box, So I Became A Garbage Man To Find The Entire Collection And Earn $1,000,000",
+    "type": "release",
+    "genres": [
+      "MMO",
+      "独立游戏",
+      "模拟经营"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-08-20"
+      },
+      {
+        "region": "CN",
+        "date": "2026-08-20"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 1,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/fe9/fe976abffadefe092e6e40dbde862893.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/06f/06fdee8ac720ba53373ab43331326c1b.jpg",
+      "https://media.rawg.io/media/screenshots/861/8616c1be34fe8fc15aa7860eed78dd0f.jpg",
+      "https://media.rawg.io/media/screenshots/bea/bea630f3bc79af4b21de12709dd595df.jpg",
+      "https://media.rawg.io/media/screenshots/257/257181797bd8474e339f49c5252b6b3c.jpg",
+      "https://media.rawg.io/media/screenshots/357/357ef9a2b9683ba763fd45c85f318d30.jpg",
+      "https://media.rawg.io/media/screenshots/929/929b1031c15e032603e42038fd766504.jpg"
+    ],
+    "desc": "kotamon my sis found a super rare card in her cere",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1017352",
     "name": "Clockwork Ambrosia",
     "type": "release",
@@ -5434,44 +5472,6 @@
       "https://media.rawg.io/media/screenshots/ab8/ab88922d7f7ed691a0216a0605fd5fe1.jpg"
     ],
     "desc": "serious sam shatterverse",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1019806",
-    "name": "KOTAMON: My Sis Found A Super-Rare Card In Her Cereal Box, So I Became A Garbage Man To Find The Entire Collection And Earn $1,000,000",
-    "type": "release",
-    "genres": [
-      "MMO",
-      "独立游戏",
-      "模拟经营"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-08-20"
-      },
-      {
-        "region": "CN",
-        "date": "2026-08-20"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/fe9/fe976abffadefe092e6e40dbde862893.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/06f/06fdee8ac720ba53373ab43331326c1b.jpg",
-      "https://media.rawg.io/media/screenshots/861/8616c1be34fe8fc15aa7860eed78dd0f.jpg",
-      "https://media.rawg.io/media/screenshots/bea/bea630f3bc79af4b21de12709dd595df.jpg",
-      "https://media.rawg.io/media/screenshots/257/257181797bd8474e339f49c5252b6b3c.jpg",
-      "https://media.rawg.io/media/screenshots/357/357ef9a2b9683ba763fd45c85f318d30.jpg",
-      "https://media.rawg.io/media/screenshots/929/929b1031c15e032603e42038fd766504.jpg"
-    ],
-    "desc": "kotamon my sis found a super rare card in her cere",
     "source": "rawg_auto"
   },
   {
@@ -8097,6 +8097,44 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1016708",
+    "name": "EmberVille",
+    "type": "release",
+    "genres": [
+      "独立游戏",
+      "动作冒险",
+      "RPG"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-10-26"
+      },
+      {
+        "region": "CN",
+        "date": "2026-10-26"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/a65/a65915e30efd086919dafcb7f79a6b79.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/11a/11a7c5ca09eeffbb736ef36f3f7fc129.jpg",
+      "https://media.rawg.io/media/screenshots/793/793de4d8b18f507b065008721150233a.jpg",
+      "https://media.rawg.io/media/screenshots/c4d/c4d94740a6aae915eaf056fe547b7094.jpg",
+      "https://media.rawg.io/media/screenshots/84d/84debd8e9ef47a6d65a455df961a0ed5.jpg",
+      "https://media.rawg.io/media/screenshots/fcb/fcbf735dc141f5f11f67b57851d780e2.jpg",
+      "https://media.rawg.io/media/screenshots/c34/c34ca9440884ad735764fd3884e90bf2.jpg"
+    ],
+    "desc": "emberville",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1017962",
     "name": "Atre: Dominance Wars",
     "type": "release",
@@ -8326,6 +8364,42 @@
     "cover": "https://media.rawg.io/media/games/2c9/2c9d62c28cb65fe7807ef06aeb21616a.jpg",
     "screenshots": [],
     "desc": "gundam rogue orbit",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1018268",
+    "name": "Junkster",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-06-16"
+      },
+      {
+        "region": "CN",
+        "date": "2026-06-16"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/1c8/1c8151e70c5ed8b376a72143dc3f8cc1.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/d98/d988382ed7939b132a28c3b1913e68f6.jpg",
+      "https://media.rawg.io/media/screenshots/9b8/9b8d442c217c9929509ea49d50bd1cc1.jpg",
+      "https://media.rawg.io/media/screenshots/885/885c691cc41f5c449f5d40679c07d139.jpg",
+      "https://media.rawg.io/media/screenshots/1ad/1ad248fe46b7f94f12b7fca5705aea77.jpg",
+      "https://media.rawg.io/media/screenshots/fd4/fd4203753488a517338a75495f684d31.jpg",
+      "https://media.rawg.io/media/screenshots/1c8/1c8151e70c5ed8b376a72143dc3f8cc1.jpg"
+    ],
+    "desc": "junkster",
     "source": "rawg_auto"
   },
   {
@@ -8878,6 +8952,36 @@
       "https://media.rawg.io/media/screenshots/27c/27ce4aa97056a39b90a8dbacd0892ad8.jpg"
     ],
     "desc": "feed the pit",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1020036",
+    "name": "Fears to Fathom - Scratch Creek",
+    "type": "release",
+    "genres": [
+      "独立游戏",
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-06-10"
+      },
+      {
+        "region": "CN",
+        "date": "2026-06-10"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "",
+    "screenshots": [],
+    "desc": "fears to fathom scratch creek",
     "source": "rawg_auto"
   },
   {
@@ -12822,112 +12926,6 @@
       "https://media.rawg.io/media/screenshots/a97/a97ff23e5cea2ac72fc4e247b7aef535.jpg"
     ],
     "desc": "venus in transit",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1016127",
-    "name": "BROK the InvestiGator - First Hat",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-03-22"
-      },
-      {
-        "region": "CN",
-        "date": "2026-03-22"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/b8a/b8a5f44cb70a9dcdbe737f5d29ec2769.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/df3/df3bd40256684f9740a041c7267738b1.jpg",
-      "https://media.rawg.io/media/screenshots/d81/d81e1b6668c3231dc562f4bcd1bd098f.jpg",
-      "https://media.rawg.io/media/screenshots/b8a/b8a5f44cb70a9dcdbe737f5d29ec2769.jpg"
-    ],
-    "desc": "brok the investigator first hat",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1017096",
-    "name": "Hail the Devourer",
-    "type": "release",
-    "genres": [
-      "MMO",
-      "独立游戏"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-03-22"
-      },
-      {
-        "region": "CN",
-        "date": "2026-03-22"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/0ab/0ab58d9b6352302f7ad72ea21365c305.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/3b0/3b08e605fff8a7fb939822e28de91721.jpg",
-      "https://media.rawg.io/media/screenshots/606/606cff064312769042ba697a5986d87c.jpg",
-      "https://media.rawg.io/media/screenshots/d16/d1619229cec83a84264735d26f9f34a9.jpg",
-      "https://media.rawg.io/media/screenshots/35d/35d810093cdd3fc857e283c2e80de7e9.jpg",
-      "https://media.rawg.io/media/screenshots/0ea/0ea39be342c2d86efbdf9d45eaebc26a.jpg",
-      "https://media.rawg.io/media/screenshots/0ab/0ab58d9b6352302f7ad72ea21365c305.jpg"
-    ],
-    "desc": "hail the devourer",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1018268",
-    "name": "Junkster",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-06-16"
-      },
-      {
-        "region": "CN",
-        "date": "2026-06-16"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/1c8/1c8151e70c5ed8b376a72143dc3f8cc1.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/d98/d988382ed7939b132a28c3b1913e68f6.jpg",
-      "https://media.rawg.io/media/screenshots/9b8/9b8d442c217c9929509ea49d50bd1cc1.jpg",
-      "https://media.rawg.io/media/screenshots/885/885c691cc41f5c449f5d40679c07d139.jpg",
-      "https://media.rawg.io/media/screenshots/1ad/1ad248fe46b7f94f12b7fca5705aea77.jpg",
-      "https://media.rawg.io/media/screenshots/fd4/fd4203753488a517338a75495f684d31.jpg",
-      "https://media.rawg.io/media/screenshots/1c8/1c8151e70c5ed8b376a72143dc3f8cc1.jpg"
-    ],
-    "desc": "junkster",
     "source": "rawg_auto"
   },
   {
