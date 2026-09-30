@@ -258,6 +258,44 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_973539",
+    "name": "No Rest for the Wicked",
+    "type": "release",
+    "genres": [
+      "动作冒险",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2027-03-31"
+      },
+      {
+        "region": "CN",
+        "date": "2027-03-31"
+      }
+    ],
+    "expectScore": 4,
+    "scoreSource": "RAWG用户",
+    "popularity": 36,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/209/209e902168fcde856bd22a1bda90013e.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/c21/c21a854e58eed45d7558c6b922b83b9f.jpg",
+      "https://media.rawg.io/media/screenshots/dd0/dd03305884ce85fa36ddf8ca7c61c0d9.jpg",
+      "https://media.rawg.io/media/screenshots/c06/c064f7a551e29637372f1f7627a8b67a.jpg",
+      "https://media.rawg.io/media/screenshots/28f/28f46f113ff942455173ce20e48c96fa.jpg",
+      "https://media.rawg.io/media/screenshots/6b3/6b3439b897b335ec9d7f09dd60f46e5c.jpg"
+    ],
+    "desc": "no rest for the wicked 2024",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_471026",
     "name": "Fable",
     "type": "release",
@@ -294,44 +332,6 @@
       "https://media.rawg.io/media/screenshots/f91/f91b1a2e762b183bf540adddb631bf46.jpg"
     ],
     "desc": "fable2020",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_973539",
-    "name": "No Rest for the Wicked",
-    "type": "release",
-    "genres": [
-      "动作冒险",
-      "RPG"
-    ],
-    "platforms": [
-      "PC",
-      "PS5",
-      "Xbox"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2027-03-31"
-      },
-      {
-        "region": "CN",
-        "date": "2027-03-31"
-      }
-    ],
-    "expectScore": 4,
-    "scoreSource": "RAWG用户",
-    "popularity": 36,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/209/209e902168fcde856bd22a1bda90013e.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/c21/c21a854e58eed45d7558c6b922b83b9f.jpg",
-      "https://media.rawg.io/media/screenshots/dd0/dd03305884ce85fa36ddf8ca7c61c0d9.jpg",
-      "https://media.rawg.io/media/screenshots/c06/c064f7a551e29637372f1f7627a8b67a.jpg",
-      "https://media.rawg.io/media/screenshots/28f/28f46f113ff942455173ce20e48c96fa.jpg",
-      "https://media.rawg.io/media/screenshots/6b3/6b3439b897b335ec9d7f09dd60f46e5c.jpg"
-    ],
-    "desc": "no rest for the wicked 2024",
     "source": "rawg_auto"
   },
   {
@@ -984,7 +984,7 @@
     ],
     "expectScore": 4,
     "scoreSource": "RAWG用户",
-    "popularity": 10,
+    "popularity": 11,
     "rating": "teen",
     "cover": "https://media.rawg.io/media/games/be8/be86ee5cf3a427c784efec1661f9b194.jpg",
     "screenshots": [
@@ -1612,40 +1612,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1016714",
-    "name": "Darwin's Paradox!",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC",
-      "PS5",
-      "Xbox",
-      "Switch"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-04-02"
-      },
-      {
-        "region": "CN",
-        "date": "2026-04-02"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 4,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/031/031e8772e923401b26fa25d73d7cde78.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/031/031e8772e923401b26fa25d73d7cde78.jpg"
-    ],
-    "desc": "darwins paradox 2",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_868088",
     "name": "Silent Hill Townfall",
     "type": "release",
@@ -2169,6 +2135,45 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1015425",
+    "name": "Ace Combat 8: Wings of Theve",
+    "type": "release",
+    "genres": [
+      "动作冒险",
+      "模拟经营"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-10-02"
+      },
+      {
+        "region": "CN",
+        "date": "2026-10-02"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 2,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/541/541d6c97a674635d68ea3d19737f090b.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/f9e/f9ef6161a0fc80e9f588077e3c3206b0.jpg",
+      "https://media.rawg.io/media/screenshots/b04/b04a441f06fb96c42a8ae5744c493249.jpg",
+      "https://media.rawg.io/media/screenshots/046/0463d346c904d38d339282e7d18c9db0.jpg",
+      "https://media.rawg.io/media/screenshots/e73/e730c9d628d079c22dc2f54e3df37f6c.jpg",
+      "https://media.rawg.io/media/screenshots/136/1368adb9b5ae4e7643595fb226e00d5e_xoyRKMA.jpg",
+      "https://media.rawg.io/media/screenshots/f5c/f5cebeba64e4e68a2dd15a1d00b96adb.jpg"
+    ],
+    "desc": "ace combat 8 wings of theve",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1017981",
     "name": "Call of Duty: Modern Warfare 4",
     "type": "release",
@@ -2229,45 +2234,6 @@
       "https://media.rawg.io/media/screenshots/747/7471aaa7e49ed46fa3d4f69594bb9380.jpg"
     ],
     "desc": "mafia the old country man of honor",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1015425",
-    "name": "Ace Combat 8: Wings of Theve",
-    "type": "release",
-    "genres": [
-      "动作冒险",
-      "模拟经营"
-    ],
-    "platforms": [
-      "PC",
-      "PS5",
-      "Xbox"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-10-02"
-      },
-      {
-        "region": "CN",
-        "date": "2026-10-02"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 2,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/541/541d6c97a674635d68ea3d19737f090b.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/f9e/f9ef6161a0fc80e9f588077e3c3206b0.jpg",
-      "https://media.rawg.io/media/screenshots/b04/b04a441f06fb96c42a8ae5744c493249.jpg",
-      "https://media.rawg.io/media/screenshots/046/0463d346c904d38d339282e7d18c9db0.jpg",
-      "https://media.rawg.io/media/screenshots/e73/e730c9d628d079c22dc2f54e3df37f6c.jpg",
-      "https://media.rawg.io/media/screenshots/136/1368adb9b5ae4e7643595fb226e00d5e_xoyRKMA.jpg",
-      "https://media.rawg.io/media/screenshots/f5c/f5cebeba64e4e68a2dd15a1d00b96adb.jpg"
-    ],
-    "desc": "ace combat 8 wings of theve",
     "source": "rawg_auto"
   },
   {
@@ -5692,42 +5658,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1019471",
-    "name": "A Game About Chopping Trees",
-    "type": "release",
-    "genres": [
-      "独立游戏"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-07-15"
-      },
-      {
-        "region": "CN",
-        "date": "2026-07-15"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/596/5968131cadf8a93c1927d30eb88aa0ae.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/f6c/f6c8f491f9c9266bb2bcef55b5dca5a5.jpg",
-      "https://media.rawg.io/media/screenshots/a85/a85b28cc52844b0b31f960afdde1c16a.jpg",
-      "https://media.rawg.io/media/screenshots/49b/49bf56ba9105e4fb85a453ea0187acec.jpg",
-      "https://media.rawg.io/media/screenshots/411/41148af05982d9492733980f129e8dcc.jpg",
-      "https://media.rawg.io/media/screenshots/f23/f2381ce1860158e185a97f28730f0f14.jpg",
-      "https://media.rawg.io/media/screenshots/e9e/e9e1743ced7331c2cbe6774d54e67bd1.jpg"
-    ],
-    "desc": "a game about chopping trees",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1017217",
     "name": "The Occultist",
     "type": "release",
@@ -5869,6 +5799,42 @@
       "https://media.rawg.io/media/screenshots/bb1/bb14d2a16b9427c69c49398365bce1d6.jpg"
     ],
     "desc": "brno transit",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1019471",
+    "name": "A Game About Chopping Trees",
+    "type": "release",
+    "genres": [
+      "独立游戏"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-07-15"
+      },
+      {
+        "region": "CN",
+        "date": "2026-07-15"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/596/5968131cadf8a93c1927d30eb88aa0ae.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/f6c/f6c8f491f9c9266bb2bcef55b5dca5a5.jpg",
+      "https://media.rawg.io/media/screenshots/a85/a85b28cc52844b0b31f960afdde1c16a.jpg",
+      "https://media.rawg.io/media/screenshots/49b/49bf56ba9105e4fb85a453ea0187acec.jpg",
+      "https://media.rawg.io/media/screenshots/411/41148af05982d9492733980f129e8dcc.jpg",
+      "https://media.rawg.io/media/screenshots/f23/f2381ce1860158e185a97f28730f0f14.jpg",
+      "https://media.rawg.io/media/screenshots/e9e/e9e1743ced7331c2cbe6774d54e67bd1.jpg"
+    ],
+    "desc": "a game about chopping trees",
     "source": "rawg_auto"
   },
   {
@@ -8808,42 +8774,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1019280",
-    "name": "Tukoni: Forest Keepers",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-08-16"
-      },
-      {
-        "region": "CN",
-        "date": "2026-08-16"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/5c7/5c777f0131b81956fcfdb70342b8c6a0.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/71a/71aec433765cc73def7fbe35e183e568.jpg",
-      "https://media.rawg.io/media/screenshots/4a4/4a4e1f53ebbd20fd113078861c9aa0c4.jpg",
-      "https://media.rawg.io/media/screenshots/bb6/bb64fc94f8b2c7740fdb3790c11eac2c.jpg",
-      "https://media.rawg.io/media/screenshots/3ab/3abff48614e5593c713467f92e3c7aab.jpg",
-      "https://media.rawg.io/media/screenshots/245/245c0b9f009e0be3d1993fcb2159e930.jpg",
-      "https://media.rawg.io/media/screenshots/6d4/6d412347fff41b0546856727d51f3667.jpg"
-    ],
-    "desc": "tukoni forest keepers",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1017633",
     "name": "Uncle Lee’s Cookbook: Five Recipes for Disaster",
     "type": "release",
@@ -9010,6 +8940,42 @@
       "https://media.rawg.io/media/screenshots/38b/38bd2ab8d68fdbe59512de26cd5751b5.jpg"
     ],
     "desc": "ghost buster village",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1019280",
+    "name": "Tukoni: Forest Keepers",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-08-16"
+      },
+      {
+        "region": "CN",
+        "date": "2026-08-16"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/5c7/5c777f0131b81956fcfdb70342b8c6a0.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/71a/71aec433765cc73def7fbe35e183e568.jpg",
+      "https://media.rawg.io/media/screenshots/4a4/4a4e1f53ebbd20fd113078861c9aa0c4.jpg",
+      "https://media.rawg.io/media/screenshots/bb6/bb64fc94f8b2c7740fdb3790c11eac2c.jpg",
+      "https://media.rawg.io/media/screenshots/3ab/3abff48614e5593c713467f92e3c7aab.jpg",
+      "https://media.rawg.io/media/screenshots/245/245c0b9f009e0be3d1993fcb2159e930.jpg",
+      "https://media.rawg.io/media/screenshots/6d4/6d412347fff41b0546856727d51f3667.jpg"
+    ],
+    "desc": "tukoni forest keepers",
     "source": "rawg_auto"
   },
   {
@@ -9220,42 +9186,6 @@
     "cover": "",
     "screenshots": [],
     "desc": "enter the chronosphere 2",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1017839",
-    "name": "Mini Worlds Dioramas",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-04-02"
-      },
-      {
-        "region": "CN",
-        "date": "2026-04-02"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/d0f/d0f5342ba5daac7334fcbd1151cc2143.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/e37/e3780141b4a14e53a5bdb1976cf3accb.jpg",
-      "https://media.rawg.io/media/screenshots/f04/f04296c216af8a53683122556f82997c.jpg",
-      "https://media.rawg.io/media/screenshots/a3c/a3c4bd20b3439b44d99e1504a8e1f8c8.jpg",
-      "https://media.rawg.io/media/screenshots/55a/55a00ecf52f8e108800d6df374223eba.jpg",
-      "https://media.rawg.io/media/screenshots/964/964bba2dc39ec4c7320df30a0ae0064a.jpg",
-      "https://media.rawg.io/media/screenshots/7d5/7d515b4974634ba946b44c0484de89b7.jpg"
-    ],
-    "desc": "mini worlds dioramas",
     "source": "rawg_auto"
   },
   {
@@ -10103,43 +10033,6 @@
       "https://media.rawg.io/media/screenshots/b5f/b5ff2138ec6effca079915d479f94f42.jpg"
     ],
     "desc": "it never ends 3",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1016746",
-    "name": "Cursed Words: The Word Game That Isn't",
-    "type": "release",
-    "genres": [
-      "独立游戏",
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-04-02"
-      },
-      {
-        "region": "CN",
-        "date": "2026-04-02"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/3d3/3d3548f6671ae5887ba75362477e5077.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/1ba/1bacd29e6053115221e047fd1225544f.jpg",
-      "https://media.rawg.io/media/screenshots/c8d/c8d55c7e1972b1cc4641ad10e80b1660.jpg",
-      "https://media.rawg.io/media/screenshots/6f6/6f614725cd7eb114df6ad01c2550024c.jpg",
-      "https://media.rawg.io/media/screenshots/16c/16c8bc0dbcbf0d2f7e1ba8b5b8e5d342.jpg",
-      "https://media.rawg.io/media/screenshots/e22/e22e871581016bf0b946076a3448ef13.jpg",
-      "https://media.rawg.io/media/screenshots/3d3/3d3548f6671ae5887ba75362477e5077.jpg"
-    ],
-    "desc": "cursed words the word game that isnt",
     "source": "rawg_auto"
   },
   {
@@ -12558,43 +12451,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1018174",
-    "name": "Modulus: Factory Automation",
-    "type": "release",
-    "genres": [
-      "策略",
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-04-02"
-      },
-      {
-        "region": "CN",
-        "date": "2026-04-02"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/63f/63f8b645cd446e8dd1266e021785759f.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/54a/54ab10d5b55fd82e9022c4be45a5381b.jpg",
-      "https://media.rawg.io/media/screenshots/8ba/8ba1b40b283962659a54adbf769d2d6f.jpg",
-      "https://media.rawg.io/media/screenshots/8c1/8c103d0202305f34e15c3a4c2737cc91.jpg",
-      "https://media.rawg.io/media/screenshots/657/6573add2e20da1bc518e4557e5bf09e2.jpg",
-      "https://media.rawg.io/media/screenshots/a2f/a2fd5afcf3d2dc3463712393e7170039.jpg",
-      "https://media.rawg.io/media/screenshots/63f/63f8b645cd446e8dd1266e021785759f.jpg"
-    ],
-    "desc": "modulus factory automation",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1018200",
     "name": "The Wilds of Dacrima: Field Notes from a Poorly Supervised Alchemist and his Unruly Clockwork Companion LiveNow Broadcasting: Watch the developer play  Now Broadcasting    0 Share Broadcast",
     "type": "release",
@@ -13836,6 +13692,43 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1020214",
+    "name": "Frostrain 2",
+    "type": "release",
+    "genres": [
+      "策略",
+      "独立游戏"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-07-16"
+      },
+      {
+        "region": "CN",
+        "date": "2026-07-16"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/8fa/8fab99fc846aa112dedff4dfce72e7ce.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/67a/67af73b941f0d6ef63a22978d30d565d.jpg",
+      "https://media.rawg.io/media/screenshots/01b/01b9cadf635d324d21465e0b99fac451.jpg",
+      "https://media.rawg.io/media/screenshots/535/5354eaeb4d826f479f0e95bdd3625434.jpg",
+      "https://media.rawg.io/media/screenshots/23d/23d0eac6d4a9142afd32996c96554810.jpg",
+      "https://media.rawg.io/media/screenshots/3c5/3c5b44336420b69eb5398a9f816a6f4d.jpg",
+      "https://media.rawg.io/media/screenshots/8fa/8fab99fc846aa112dedff4dfce72e7ce.jpg"
+    ],
+    "desc": "frostrain 2",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_264720",
     "name": "Gerenimot",
     "type": "release",
@@ -14116,6 +14009,118 @@
       "https://media.rawg.io/media/screenshots/3b8/3b80fec3c54b07e467031d0b933473c2.jpg"
     ],
     "desc": "subversive memories",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1018170",
+    "name": "Ultimate Drummer",
+    "type": "release",
+    "genres": [
+      "独立游戏",
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-04-23"
+      },
+      {
+        "region": "CN",
+        "date": "2026-04-23"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/05e/05e187bf6b8352a8df1c009079bc09dc.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/a68/a68104a8294eb99f8e13f02f70a16c37.jpg",
+      "https://media.rawg.io/media/screenshots/0a8/0a882f5edd15d1ac756549eb3a52fada.jpg",
+      "https://media.rawg.io/media/screenshots/cc4/cc4c88ebc2415716122093fbef8a7220.jpg",
+      "https://media.rawg.io/media/screenshots/5a6/5a60c6c268b47ccc28c042a6fe14ede7.jpg",
+      "https://media.rawg.io/media/screenshots/76a/76a417f9b8e73cc467529c25eaa9ce00.jpg",
+      "https://media.rawg.io/media/screenshots/05e/05e187bf6b8352a8df1c009079bc09dc.jpg"
+    ],
+    "desc": "ultimate drummer",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1018202",
+    "name": "Judge SIM",
+    "type": "release",
+    "genres": [
+      "策略",
+      "动作冒险",
+      "模拟经营"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-04-03"
+      },
+      {
+        "region": "CN",
+        "date": "2026-04-03"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/ba1/ba1b1fdc2910d5dcd379641a3ee71b22.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/be0/be0ffd62276ff00c78b0a6897ce2e7e9.jpg",
+      "https://media.rawg.io/media/screenshots/675/675417be1e89570bcf64ec982b3ebc41.jpg",
+      "https://media.rawg.io/media/screenshots/b10/b104f959392606c3327daf489020f6ca.jpg",
+      "https://media.rawg.io/media/screenshots/7e3/7e36ef391aa03f421b914b61a62b395c.jpg",
+      "https://media.rawg.io/media/screenshots/504/504f45eef1673130b027741cda566510.jpg",
+      "https://media.rawg.io/media/screenshots/ba1/ba1b1fdc2910d5dcd379641a3ee71b22.jpg"
+    ],
+    "desc": "judge sim",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1018445",
+    "name": "Puzzle Park 2",
+    "type": "release",
+    "genres": [
+      "独立游戏",
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-05-12"
+      },
+      {
+        "region": "CN",
+        "date": "2026-05-12"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/46b/46bd93640cda1e6db48848a10565cb74.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/a88/a88a2812acd90c047e84f192dbdedc4a.jpg",
+      "https://media.rawg.io/media/screenshots/11a/11ab0e9e7e591c3bb3b7249c9e1204fe.jpg",
+      "https://media.rawg.io/media/screenshots/af3/af35f714076bcad41d219dfacef9dc25.jpg",
+      "https://media.rawg.io/media/screenshots/222/2223f19b39a941252ccfaf0940dd2f14.jpg",
+      "https://media.rawg.io/media/screenshots/c38/c3898343106ea1c5b7f07a3f75eaa1be.jpg",
+      "https://media.rawg.io/media/screenshots/1c6/1c660bad4aca505b8a826f6712595c6a.jpg"
+    ],
+    "desc": "puzzle park 2",
     "source": "rawg_auto"
   }
 ]
