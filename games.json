@@ -357,7 +357,7 @@
     ],
     "expectScore": 4,
     "scoreSource": "RAWG用户",
-    "popularity": 34,
+    "popularity": 35,
     "rating": "teen",
     "cover": "https://media.rawg.io/media/games/23a/23a1c71366aea4341aec483c9dd08a59.jpg",
     "screenshots": [
@@ -745,6 +745,42 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1015409",
+    "name": "Control Resonant",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-09-24"
+      },
+      {
+        "region": "CN",
+        "date": "2026-09-24"
+      }
+    ],
+    "expectScore": 5,
+    "scoreSource": "RAWG用户",
+    "popularity": 15,
+    "rating": "mature",
+    "cover": "https://media.rawg.io/media/games/bfc/bfc7b45c6e9d3e21bb1c613c16c088f2.jpeg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/616/616d40205c7195eb56478ff6d746d3bb.jpg",
+      "https://media.rawg.io/media/screenshots/169/169ace563987496b5510382259a76eab.jpg",
+      "https://media.rawg.io/media/screenshots/e8b/e8bad477f0fa4d7bd28be50dd61b5c79.jpg",
+      "https://media.rawg.io/media/screenshots/5b8/5b812f73e4c5df28630747c52f57170b.jpg"
+    ],
+    "desc": "control resonant",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1004516",
     "name": "MOUSE: P.I. For Hire",
     "type": "release",
@@ -779,42 +815,6 @@
       "https://media.rawg.io/media/screenshots/72a/72a2359e6a59c6cd10783dacb43b6c3f.jpg"
     ],
     "desc": "mouse pi for hire",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1015409",
-    "name": "Control Resonant",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC",
-      "PS5",
-      "Xbox"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-09-24"
-      },
-      {
-        "region": "CN",
-        "date": "2026-09-24"
-      }
-    ],
-    "expectScore": 5,
-    "scoreSource": "RAWG用户",
-    "popularity": 15,
-    "rating": "mature",
-    "cover": "https://media.rawg.io/media/games/bfc/bfc7b45c6e9d3e21bb1c613c16c088f2.jpeg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/616/616d40205c7195eb56478ff6d746d3bb.jpg",
-      "https://media.rawg.io/media/screenshots/169/169ace563987496b5510382259a76eab.jpg",
-      "https://media.rawg.io/media/screenshots/e8b/e8bad477f0fa4d7bd28be50dd61b5c79.jpg",
-      "https://media.rawg.io/media/screenshots/5b8/5b812f73e4c5df28630747c52f57170b.jpg"
-    ],
-    "desc": "control resonant",
     "source": "rawg_auto"
   },
   {
@@ -1067,6 +1067,40 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_983213",
+    "name": "Gears of War: E-Day",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-10-06"
+      },
+      {
+        "region": "CN",
+        "date": "2026-10-06"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 9,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/c85/c85991ad8164824715377e603a2d7693.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/2dd/2ddacaf4a439076f390beaca74707bcb.jpg",
+      "https://media.rawg.io/media/screenshots/9a2/9a2488797ed1b9722e2aa9c16d76f310.jpg",
+      "https://media.rawg.io/media/screenshots/cb8/cb88356feb27fba1102659e7a09c222a.jpg"
+    ],
+    "desc": "gears of war e day",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1004515",
     "name": "Mortal Shell II",
     "type": "release",
@@ -1101,40 +1135,6 @@
       "https://media.rawg.io/media/screenshots/5e6/5e6747b8b38690cb4a26ec924d084dcb.jpg"
     ],
     "desc": "mortal shell 2",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_983213",
-    "name": "Gears of War: E-Day",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC",
-      "Xbox"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-10-06"
-      },
-      {
-        "region": "CN",
-        "date": "2026-10-06"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 9,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/c85/c85991ad8164824715377e603a2d7693.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/2dd/2ddacaf4a439076f390beaca74707bcb.jpg",
-      "https://media.rawg.io/media/screenshots/9a2/9a2488797ed1b9722e2aa9c16d76f310.jpg",
-      "https://media.rawg.io/media/screenshots/cb8/cb88356feb27fba1102659e7a09c222a.jpg"
-    ],
-    "desc": "gears of war e day",
     "source": "rawg_auto"
   },
   {
@@ -1612,36 +1612,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_868088",
-    "name": "Silent Hill Townfall",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC",
-      "PS5"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-09-24"
-      },
-      {
-        "region": "CN",
-        "date": "2026-09-24"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 4,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/d1c/d1c4e52d3084231530fcab5d90033d42.jpg",
-    "screenshots": [],
-    "desc": "silent hill townfall",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_979038",
     "name": "The Sinking City 2",
     "type": "release",
@@ -1673,6 +1643,36 @@
       "https://media.rawg.io/media/screenshots/831/8313c1f961791983c2c74cf8ebc2c285.jpg"
     ],
     "desc": "the sinking city 2 2",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_868088",
+    "name": "Silent Hill Townfall",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC",
+      "PS5"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-09-24"
+      },
+      {
+        "region": "CN",
+        "date": "2026-09-24"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 4,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/d1c/d1c4e52d3084231530fcab5d90033d42.jpg",
+    "screenshots": [],
+    "desc": "silent hill townfall",
     "source": "rawg_auto"
   },
   {
@@ -2159,7 +2159,7 @@
     ],
     "expectScore": null,
     "scoreSource": "暂无",
-    "popularity": 2,
+    "popularity": 3,
     "rating": "teen",
     "cover": "https://media.rawg.io/media/games/541/541d6c97a674635d68ea3d19737f090b.jpg",
     "screenshots": [
@@ -2195,11 +2195,51 @@
     ],
     "expectScore": null,
     "scoreSource": "暂无",
-    "popularity": 2,
+    "popularity": 3,
     "rating": "teen",
     "cover": "https://media.rawg.io/media/games/a93/a9304d97c8f264da59566a0f5e0a2181.jpeg",
     "screenshots": [],
     "desc": "call of duty modern warfare 4",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1018102",
+    "name": "Castlevania: Belmont's Curse",
+    "type": "release",
+    "genres": [
+      "动作冒险",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox",
+      "Switch"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-10-15"
+      },
+      {
+        "region": "CN",
+        "date": "2026-10-15"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 3,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/429/42928697eb80feb13e6087170a10565a.jpeg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/4cc/4cc5771a85434a6cae4035f1962a5e78.jpg",
+      "https://media.rawg.io/media/screenshots/648/6487041a7d8c038be55e242dcb4aeb70.jpg",
+      "https://media.rawg.io/media/screenshots/4ad/4adc9a65918d5a697f4c5448d6215fed.jpg",
+      "https://media.rawg.io/media/screenshots/d61/d61984089423f85a661dcdfe43ed84c7.jpg",
+      "https://media.rawg.io/media/screenshots/e2d/e2db04e455f8bb0b675409af3b23abd0.jpg",
+      "https://media.rawg.io/media/screenshots/b8c/b8c1e4ccb0ae9f584297ad62de093660.jpg"
+    ],
+    "desc": "castlevania belmonts curse",
     "source": "rawg_auto"
   },
   {
@@ -2237,43 +2277,105 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1018102",
-    "name": "Castlevania: Belmont's Curse",
+    "id": "rawg_1018059",
+    "name": "Rayman Legends Retold",
     "type": "release",
     "genres": [
-      "动作冒险",
-      "RPG"
+      "动作冒险"
     ],
     "platforms": [
       "PC",
       "PS5",
-      "Xbox",
-      "Switch"
+      "Xbox"
     ],
     "releases": [
       {
         "region": "GLOBAL",
-        "date": "2026-10-15"
+        "date": "2026-12-03"
       },
       {
         "region": "CN",
-        "date": "2026-10-15"
+        "date": "2026-12-03"
       }
     ],
     "expectScore": null,
     "scoreSource": "暂无",
     "popularity": 2,
     "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/429/42928697eb80feb13e6087170a10565a.jpeg",
+    "cover": "https://media.rawg.io/media/games/ed9/ed92bdc98d563301e94ae3e9663e8107.jpg",
     "screenshots": [
-      "https://media.rawg.io/media/screenshots/4cc/4cc5771a85434a6cae4035f1962a5e78.jpg",
-      "https://media.rawg.io/media/screenshots/648/6487041a7d8c038be55e242dcb4aeb70.jpg",
-      "https://media.rawg.io/media/screenshots/4ad/4adc9a65918d5a697f4c5448d6215fed.jpg",
-      "https://media.rawg.io/media/screenshots/d61/d61984089423f85a661dcdfe43ed84c7.jpg",
-      "https://media.rawg.io/media/screenshots/e2d/e2db04e455f8bb0b675409af3b23abd0.jpg",
-      "https://media.rawg.io/media/screenshots/b8c/b8c1e4ccb0ae9f584297ad62de093660.jpg"
+      "https://media.rawg.io/media/screenshots/3f3/3f3de84c57189243164a050f7271fb01.jpg",
+      "https://media.rawg.io/media/screenshots/621/621936976214d8ee85cdceda70065541.jpg",
+      "https://media.rawg.io/media/screenshots/3c6/3c6655e5fa82e245a9f0be20d8d7ac89.jpg"
     ],
-    "desc": "castlevania belmonts curse",
+    "desc": "rayman legends retold",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1018058",
+    "name": "Until Dawn 2",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PS5"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2027-01-28"
+      },
+      {
+        "region": "CN",
+        "date": "2027-01-28"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 2,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/145/145c294309a243d11c95f176e29e62e0.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/984/9844663f1c966cecc686b9cd2b4df10d.jpg"
+    ],
+    "desc": "until dawn 2 2",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1018108",
+    "name": "S.T.A.L.K.E.R. 2: Cost of Hope",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-08-20"
+      },
+      {
+        "region": "CN",
+        "date": "2026-08-20"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 2,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/dfd/dfd84af21deeef2b53d2781023e484bc.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/a30/a30c42eb54ea6f6444b5e83c6c75420c.jpg",
+      "https://media.rawg.io/media/screenshots/8db/8db95331d227d7773b13bd147e0d74ce.jpg",
+      "https://media.rawg.io/media/screenshots/d7f/d7fa0f5b33eae6c3ede8aa4ae358c7ee.jpg",
+      "https://media.rawg.io/media/screenshots/dfd/dfd84af21deeef2b53d2781023e484bc.jpg"
+    ],
+    "desc": "stalker 2 cost of hope",
     "source": "rawg_auto"
   },
   {
@@ -2315,42 +2417,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1018108",
-    "name": "S.T.A.L.K.E.R. 2: Cost of Hope",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC",
-      "PS5",
-      "Xbox"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-08-20"
-      },
-      {
-        "region": "CN",
-        "date": "2026-08-20"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 2,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/dfd/dfd84af21deeef2b53d2781023e484bc.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/a30/a30c42eb54ea6f6444b5e83c6c75420c.jpg",
-      "https://media.rawg.io/media/screenshots/8db/8db95331d227d7773b13bd147e0d74ce.jpg",
-      "https://media.rawg.io/media/screenshots/d7f/d7fa0f5b33eae6c3ede8aa4ae358c7ee.jpg",
-      "https://media.rawg.io/media/screenshots/dfd/dfd84af21deeef2b53d2781023e484bc.jpg"
-    ],
-    "desc": "stalker 2 cost of hope",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1014269",
     "name": "The Adventures of Elliot: The Millennium Tales",
     "type": "release",
@@ -2383,72 +2449,6 @@
       "https://media.rawg.io/media/screenshots/a7a/a7aed08ad87bacbc7b6b7bec1aba4094.jpg"
     ],
     "desc": "the adventures of elliot the millenium tales",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1018058",
-    "name": "Until Dawn 2",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PS5"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2027-01-28"
-      },
-      {
-        "region": "CN",
-        "date": "2027-01-28"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 2,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/145/145c294309a243d11c95f176e29e62e0.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/984/9844663f1c966cecc686b9cd2b4df10d.jpg"
-    ],
-    "desc": "until dawn 2 2",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1018059",
-    "name": "Rayman Legends Retold",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC",
-      "PS5",
-      "Xbox"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-12-03"
-      },
-      {
-        "region": "CN",
-        "date": "2026-12-03"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 2,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/ed9/ed92bdc98d563301e94ae3e9663e8107.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/3f3/3f3de84c57189243164a050f7271fb01.jpg",
-      "https://media.rawg.io/media/screenshots/621/621936976214d8ee85cdceda70065541.jpg",
-      "https://media.rawg.io/media/screenshots/3c6/3c6655e5fa82e245a9f0be20d8d7ac89.jpg"
-    ],
-    "desc": "rayman legends retold",
     "source": "rawg_auto"
   },
   {
@@ -2550,43 +2550,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1017507",
-    "name": "inKonbini: One Store. Many Stories",
-    "type": "release",
-    "genres": [
-      "独立游戏"
-    ],
-    "platforms": [
-      "PC",
-      "Xbox"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-04-29"
-      },
-      {
-        "region": "CN",
-        "date": "2026-04-29"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 2,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/a24/a24a8acc39da3c992cbe9fb33a36dfd5.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/d04/d0470ecda63aa60ca7d6213671e713a1.jpg",
-      "https://media.rawg.io/media/screenshots/2ee/2eea0874ff713638fc91606efb12d4c4.jpg",
-      "https://media.rawg.io/media/screenshots/08d/08d6c484b28633746b0197e059237610.jpg",
-      "https://media.rawg.io/media/screenshots/a8d/a8d45825bd6615d86aeb5dab7afe39bf.jpg",
-      "https://media.rawg.io/media/screenshots/185/1856a0fd0b4b4a9ec6187717d7c5fb1a.jpg",
-      "https://media.rawg.io/media/screenshots/025/025c722307f1d7e156ae6caebe28d44e.jpg"
-    ],
-    "desc": "inkonbini one store many stories",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1018134",
     "name": "Final Fantasy Resonance",
     "type": "release",
@@ -2623,6 +2586,43 @@
       "https://media.rawg.io/media/screenshots/d4c/d4c7d9bf29b5f294444afebac80f0a67.jpg"
     ],
     "desc": "final fantasy resonance",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1017507",
+    "name": "inKonbini: One Store. Many Stories",
+    "type": "release",
+    "genres": [
+      "独立游戏"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-04-29"
+      },
+      {
+        "region": "CN",
+        "date": "2026-04-29"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 2,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/a24/a24a8acc39da3c992cbe9fb33a36dfd5.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/d04/d0470ecda63aa60ca7d6213671e713a1.jpg",
+      "https://media.rawg.io/media/screenshots/2ee/2eea0874ff713638fc91606efb12d4c4.jpg",
+      "https://media.rawg.io/media/screenshots/08d/08d6c484b28633746b0197e059237610.jpg",
+      "https://media.rawg.io/media/screenshots/a8d/a8d45825bd6615d86aeb5dab7afe39bf.jpg",
+      "https://media.rawg.io/media/screenshots/185/1856a0fd0b4b4a9ec6187717d7c5fb1a.jpg",
+      "https://media.rawg.io/media/screenshots/025/025c722307f1d7e156ae6caebe28d44e.jpg"
+    ],
+    "desc": "inkonbini one store many stories",
     "source": "rawg_auto"
   },
   {
@@ -2974,6 +2974,35 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1019462",
+    "name": "ReStory: Chill Electronics Repairs",
+    "type": "release",
+    "genres": [
+      "模拟经营"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-08-06"
+      },
+      {
+        "region": "CN",
+        "date": "2026-08-06"
+      }
+    ],
+    "expectScore": 5,
+    "scoreSource": "RAWG用户",
+    "popularity": 2,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/2cd/2cd7d6ee3f03cf92dc5db3249f6ab451.jpg",
+    "screenshots": [],
+    "desc": "restory chill electronics repairs",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1018106",
     "name": "Trine 6: Together in Time",
     "type": "release",
@@ -3048,32 +3077,32 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1019462",
-    "name": "ReStory: Chill Electronics Repairs",
+    "id": "rawg_1016114",
+    "name": "Yoshi and the Mysterious Book",
     "type": "release",
     "genres": [
-      "模拟经营"
+      "动作冒险"
     ],
     "platforms": [
-      "PC"
+      "Switch"
     ],
     "releases": [
       {
         "region": "GLOBAL",
-        "date": "2026-08-06"
+        "date": "2026-05-21"
       },
       {
         "region": "CN",
-        "date": "2026-08-06"
+        "date": "2026-05-21"
       }
     ],
-    "expectScore": 5,
-    "scoreSource": "RAWG用户",
+    "expectScore": null,
+    "scoreSource": "暂无",
     "popularity": 1,
     "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/2cd/2cd7d6ee3f03cf92dc5db3249f6ab451.jpg",
+    "cover": "https://media.rawg.io/media/games/25a/25a256ab63823d3ed3eea8207730d074.jpg",
     "screenshots": [],
-    "desc": "restory chill electronics repairs",
+    "desc": "yoshi and the mysterious book",
     "source": "rawg_auto"
   },
   {
@@ -3106,6 +3135,42 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1016117",
+    "name": "Shift At Midnight",
+    "type": "release",
+    "genres": [
+      "模拟经营"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-07-22"
+      },
+      {
+        "region": "CN",
+        "date": "2026-07-22"
+      }
+    ],
+    "expectScore": 4,
+    "scoreSource": "RAWG用户",
+    "popularity": 1,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/d99/d99726b01d5644e6a3100df393f84e11.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/682/682fb13b97acf66b66ca17e8a699fcb1.jpg",
+      "https://media.rawg.io/media/screenshots/871/871951e72a8326e82104c036c448518b.jpg",
+      "https://media.rawg.io/media/screenshots/55e/55e568fde12d8f2c3671879f48f6de8e.jpg",
+      "https://media.rawg.io/media/screenshots/561/5612df8adbf3113ec2b77129d4354880.jpg",
+      "https://media.rawg.io/media/screenshots/72e/72e72e238aee7e9104872d9176bb21ca.jpg",
+      "https://media.rawg.io/media/screenshots/9a8/9a84dd45933d16d262ad447c545948ce.jpg"
+    ],
+    "desc": "shift at midnight",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1016307",
     "name": "Outbound",
     "type": "release",
@@ -3132,35 +3197,6 @@
     "cover": "https://media.rawg.io/media/games/851/851cf64d1e55bc8f98e617bc38d7f5f2.jpg",
     "screenshots": [],
     "desc": "outbound",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1016114",
-    "name": "Yoshi and the Mysterious Book",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "Switch"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-05-21"
-      },
-      {
-        "region": "CN",
-        "date": "2026-05-21"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 1,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/25a/25a256ab63823d3ed3eea8207730d074.jpg",
-    "screenshots": [],
-    "desc": "yoshi and the mysterious book",
     "source": "rawg_auto"
   },
   {
@@ -3200,37 +3236,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1008991",
-    "name": "Denshattack!",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC",
-      "PS5",
-      "Xbox"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-07-15"
-      },
-      {
-        "region": "CN",
-        "date": "2026-07-15"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 1,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/4c8/4c87922955d0494dda7ce812a8ee4c6d.jpg",
-    "screenshots": [],
-    "desc": "denshattack",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1018209",
     "name": "Mole",
     "type": "release",
@@ -3267,6 +3272,37 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1008991",
+    "name": "Denshattack!",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-07-15"
+      },
+      {
+        "region": "CN",
+        "date": "2026-07-15"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 1,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/4c8/4c87922955d0494dda7ce812a8ee4c6d.jpg",
+    "screenshots": [],
+    "desc": "denshattack",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1018111",
     "name": "The Alters: Last Variable",
     "type": "release",
@@ -3299,42 +3335,6 @@
       "https://media.rawg.io/media/screenshots/c2c/c2c15aa0e7534185fa36c3210ee18541.jpg"
     ],
     "desc": "the alters last variable",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1016117",
-    "name": "Shift At Midnight",
-    "type": "release",
-    "genres": [
-      "模拟经营"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-07-22"
-      },
-      {
-        "region": "CN",
-        "date": "2026-07-22"
-      }
-    ],
-    "expectScore": 4,
-    "scoreSource": "RAWG用户",
-    "popularity": 1,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/d99/d99726b01d5644e6a3100df393f84e11.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/682/682fb13b97acf66b66ca17e8a699fcb1.jpg",
-      "https://media.rawg.io/media/screenshots/871/871951e72a8326e82104c036c448518b.jpg",
-      "https://media.rawg.io/media/screenshots/55e/55e568fde12d8f2c3671879f48f6de8e.jpg",
-      "https://media.rawg.io/media/screenshots/561/5612df8adbf3113ec2b77129d4354880.jpg",
-      "https://media.rawg.io/media/screenshots/72e/72e72e238aee7e9104872d9176bb21ca.jpg",
-      "https://media.rawg.io/media/screenshots/9a8/9a84dd45933d16d262ad447c545948ce.jpg"
-    ],
-    "desc": "shift at midnight",
     "source": "rawg_auto"
   },
   {
@@ -3514,6 +3514,44 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1017395",
+    "name": "Star Wars: Galactic Racer",
+    "type": "release",
+    "genres": [
+      "体育竞速"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-10-06"
+      },
+      {
+        "region": "CN",
+        "date": "2026-10-06"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 1,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/553/5536c25da9711a39a5c4d752361de551.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/1af/1afb15dc670cec686e060ce6916ba2d5_3woE0tY.jpg",
+      "https://media.rawg.io/media/screenshots/c16/c168d53905c39756eafaf28ae2b113f5.jpg",
+      "https://media.rawg.io/media/screenshots/3b0/3b08e5073f8de54278c3ec6c3020aed0.jpg",
+      "https://media.rawg.io/media/screenshots/d7d/d7d7e08f9192f4294a1b94a7069f7720.jpg",
+      "https://media.rawg.io/media/screenshots/2f2/2f21fd7b7efea66883443e2ba848dcd4.jpg",
+      "https://media.rawg.io/media/screenshots/1c1/1c147e800bd6964bc8afc3c9f238ac99.jpg"
+    ],
+    "desc": "star wars galactic racer",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1017826",
     "name": "Dead as Disco",
     "type": "release",
@@ -3611,44 +3649,6 @@
       "https://media.rawg.io/media/screenshots/16b/16b3b24cebc56923449cb2396517adfa.jpg"
     ],
     "desc": "black jacket",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1017395",
-    "name": "Star Wars: Galactic Racer",
-    "type": "release",
-    "genres": [
-      "体育竞速"
-    ],
-    "platforms": [
-      "PC",
-      "PS5",
-      "Xbox"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-10-06"
-      },
-      {
-        "region": "CN",
-        "date": "2026-10-06"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 1,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/553/5536c25da9711a39a5c4d752361de551.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/1af/1afb15dc670cec686e060ce6916ba2d5_3woE0tY.jpg",
-      "https://media.rawg.io/media/screenshots/c16/c168d53905c39756eafaf28ae2b113f5.jpg",
-      "https://media.rawg.io/media/screenshots/3b0/3b08e5073f8de54278c3ec6c3020aed0.jpg",
-      "https://media.rawg.io/media/screenshots/d7d/d7d7e08f9192f4294a1b94a7069f7720.jpg",
-      "https://media.rawg.io/media/screenshots/2f2/2f21fd7b7efea66883443e2ba848dcd4.jpg",
-      "https://media.rawg.io/media/screenshots/1c1/1c147e800bd6964bc8afc3c9f238ac99.jpg"
-    ],
-    "desc": "star wars galactic racer",
     "source": "rawg_auto"
   },
   {
@@ -3833,6 +3833,35 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1017362",
+    "name": "Splatoon Raiders",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "Switch"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-07-23"
+      },
+      {
+        "region": "CN",
+        "date": "2026-07-23"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 1,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/818/8186b959ba7c061024ec3f4ad23e4496.jpg",
+    "screenshots": [],
+    "desc": "splatoon raiders",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1018248",
     "name": "Space Grunts: Chrono Shard",
     "type": "release",
@@ -4007,43 +4036,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1016150",
-    "name": "All Will Fall",
-    "type": "release",
-    "genres": [
-      "策略",
-      "模拟经营"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-04-03"
-      },
-      {
-        "region": "CN",
-        "date": "2026-04-03"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 1,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/dc0/dc0bb44f9892dd4d6f68c23bd45d83fa.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/805/8058d7cbb04a2e9469a629ef5eb3dbc6.jpg",
-      "https://media.rawg.io/media/screenshots/1ab/1abebe5e8254c41dec2d630f2484050f.jpg",
-      "https://media.rawg.io/media/screenshots/4d9/4d95880b5af2d80fa65c893a37a5591a.jpg",
-      "https://media.rawg.io/media/screenshots/fe0/fe04e2edd38ae942356eb8816c426156.jpg",
-      "https://media.rawg.io/media/screenshots/e2d/e2db991d38938bb4ee62a301e8eaacff.jpg",
-      "https://media.rawg.io/media/screenshots/dc0/dc0bb44f9892dd4d6f68c23bd45d83fa.jpg"
-    ],
-    "desc": "all will fall",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1016915",
     "name": "Far Far West",
     "type": "release",
@@ -4077,35 +4069,6 @@
       "https://media.rawg.io/media/screenshots/b1c/b1c249429ecaf020027f327c87ecd49c.jpg"
     ],
     "desc": "far far west",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1017362",
-    "name": "Splatoon Raiders",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "Switch"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-07-23"
-      },
-      {
-        "region": "CN",
-        "date": "2026-07-23"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 1,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/818/8186b959ba7c061024ec3f4ad23e4496.jpg",
-    "screenshots": [],
-    "desc": "splatoon raiders",
     "source": "rawg_auto"
   },
   {
@@ -4217,6 +4180,35 @@
       "https://media.rawg.io/media/screenshots/364/364c014c74ac76a30077aaebdb07b328.jpg"
     ],
     "desc": "moss the forgotten relic",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1019941",
+    "name": "Metroid Ravenous",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "Switch"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2027-01-28"
+      },
+      {
+        "region": "CN",
+        "date": "2027-01-28"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 1,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/582/5821d65020c1ac624d985d20e966765f.jpg",
+    "screenshots": [],
+    "desc": "metroid ravenous",
     "source": "rawg_auto"
   },
   {
@@ -4416,6 +4408,35 @@
       "https://media.rawg.io/media/screenshots/dba/dba92edd412199b510578ef7dbb23f20.jpg"
     ],
     "desc": "bills must be paid",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1018094",
+    "name": "Stranger Than Heaven",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2027-01-15"
+      },
+      {
+        "region": "CN",
+        "date": "2027-01-15"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 1,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/d81/d813ab759628d14efa6754e7664ca317.jpg",
+    "screenshots": [],
+    "desc": "stranger than heaven",
     "source": "rawg_auto"
   },
   {
@@ -4689,35 +4710,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1018094",
-    "name": "Stranger Than Heaven",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2027-01-15"
-      },
-      {
-        "region": "CN",
-        "date": "2027-01-15"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 1,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/d81/d813ab759628d14efa6754e7664ca317.jpg",
-    "screenshots": [],
-    "desc": "stranger than heaven",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1018270",
     "name": "Solarpunk",
     "type": "release",
@@ -4862,35 +4854,6 @@
       "https://media.rawg.io/media/screenshots/1ab/1ab07b0cd822b6df3e4c2970a70134ca.jpg"
     ],
     "desc": "idols of ash",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1019941",
-    "name": "Metroid Ravenous",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "Switch"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2027-01-28"
-      },
-      {
-        "region": "CN",
-        "date": "2027-01-28"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 1,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/582/5821d65020c1ac624d985d20e966765f.jpg",
-    "screenshots": [],
-    "desc": "metroid ravenous",
     "source": "rawg_auto"
   },
   {
@@ -5414,6 +5377,72 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1019334",
+    "name": "Stupid Never Dies",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-10-21"
+      },
+      {
+        "region": "CN",
+        "date": "2026-10-21"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/41c/41c5448f15d06825947791da15489f92.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/633/6333ad5e01f5fd0a5f0b590e068175a6.jpg",
+      "https://media.rawg.io/media/screenshots/c52/c52fc6e3736e37c79095f79f0feb6751.jpg",
+      "https://media.rawg.io/media/screenshots/a34/a34b1775a2ad6a297d6d974ce58467e2.jpg",
+      "https://media.rawg.io/media/screenshots/83f/83f60b9c0aeb5299e154c6cbc876ffd9_iHBrA97.jpg",
+      "https://media.rawg.io/media/screenshots/d94/d94b77cf6f48d7775be5f201feea6c3d.jpg",
+      "https://media.rawg.io/media/screenshots/6c6/6c60371651328eeb61913c1df43d2f0b.jpg"
+    ],
+    "desc": "stupid never dies",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1020036",
+    "name": "Fears to Fathom - Scratch Creek",
+    "type": "release",
+    "genres": [
+      "独立游戏",
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-06-10"
+      },
+      {
+        "region": "CN",
+        "date": "2026-06-10"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "",
+    "screenshots": [],
+    "desc": "fears to fathom scratch creek",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_319192",
     "name": "Little One",
     "type": "release",
@@ -5517,44 +5546,6 @@
       "https://media.rawg.io/media/screenshots/217/217b418fae39432e8633311789a928ff.jpg"
     ],
     "desc": "repterra",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1017093",
-    "name": "Wasteland Bites",
-    "type": "release",
-    "genres": [
-      "独立游戏",
-      "动作冒险",
-      "模拟经营"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-04-03"
-      },
-      {
-        "region": "CN",
-        "date": "2026-04-03"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/ae9/ae9cc0503c6499291fe099b33244c8d2.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/696/69633f6637afb17451304c1bd4a994ea.jpg",
-      "https://media.rawg.io/media/screenshots/9b6/9b66cd2c2e3c79f48f664af28e2201fa.jpg",
-      "https://media.rawg.io/media/screenshots/85f/85f6597869090c75bb76685dfb7bd113.jpg",
-      "https://media.rawg.io/media/screenshots/652/652944f3fccb080dbbb2702550c8052a.jpg",
-      "https://media.rawg.io/media/screenshots/167/1672f78806306884f797d0e63cfffcc5.jpg",
-      "https://media.rawg.io/media/screenshots/ae9/ae9cc0503c6499291fe099b33244c8d2.jpg"
-    ],
-    "desc": "wasteland bites",
     "source": "rawg_auto"
   },
   {
@@ -5694,41 +5685,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1019476",
-    "name": "Below, Rusted Gods",
-    "type": "release",
-    "genres": [
-      "独立游戏"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-07-29"
-      },
-      {
-        "region": "CN",
-        "date": "2026-07-29"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/795/795cf2db559bd06375bf465524da94b3.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/87b/87b47f42d62bc4cd16c2fc0d192ec6ca.jpg",
-      "https://media.rawg.io/media/screenshots/094/094963ebfc544708981ccf63c2182ca9.jpg",
-      "https://media.rawg.io/media/screenshots/b2d/b2de45313b47d982a327ed9591b223d7.jpg",
-      "https://media.rawg.io/media/screenshots/e4b/e4b386e2281aeb303af2a7b46d03cf67.jpg",
-      "https://media.rawg.io/media/screenshots/795/795cf2db559bd06375bf465524da94b3.jpg"
-    ],
-    "desc": "below rusted gods",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1020034",
     "name": "Machine Party",
     "type": "release",
@@ -5835,6 +5791,41 @@
       "https://media.rawg.io/media/screenshots/e9e/e9e1743ced7331c2cbe6774d54e67bd1.jpg"
     ],
     "desc": "a game about chopping trees",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1019476",
+    "name": "Below, Rusted Gods",
+    "type": "release",
+    "genres": [
+      "独立游戏"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-07-29"
+      },
+      {
+        "region": "CN",
+        "date": "2026-07-29"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/795/795cf2db559bd06375bf465524da94b3.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/87b/87b47f42d62bc4cd16c2fc0d192ec6ca.jpg",
+      "https://media.rawg.io/media/screenshots/094/094963ebfc544708981ccf63c2182ca9.jpg",
+      "https://media.rawg.io/media/screenshots/b2d/b2de45313b47d982a327ed9591b223d7.jpg",
+      "https://media.rawg.io/media/screenshots/e4b/e4b386e2281aeb303af2a7b46d03cf67.jpg",
+      "https://media.rawg.io/media/screenshots/795/795cf2db559bd06375bf465524da94b3.jpg"
+    ],
+    "desc": "below rusted gods",
     "source": "rawg_auto"
   },
   {
@@ -6304,42 +6295,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1019334",
-    "name": "Stupid Never Dies",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-10-21"
-      },
-      {
-        "region": "CN",
-        "date": "2026-10-21"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/41c/41c5448f15d06825947791da15489f92.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/633/6333ad5e01f5fd0a5f0b590e068175a6.jpg",
-      "https://media.rawg.io/media/screenshots/c52/c52fc6e3736e37c79095f79f0feb6751.jpg",
-      "https://media.rawg.io/media/screenshots/a34/a34b1775a2ad6a297d6d974ce58467e2.jpg",
-      "https://media.rawg.io/media/screenshots/83f/83f60b9c0aeb5299e154c6cbc876ffd9_iHBrA97.jpg",
-      "https://media.rawg.io/media/screenshots/d94/d94b77cf6f48d7775be5f201feea6c3d.jpg",
-      "https://media.rawg.io/media/screenshots/6c6/6c60371651328eeb61913c1df43d2f0b.jpg"
-    ],
-    "desc": "stupid never dies",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1019470",
     "name": "How Many Dudes?",
     "type": "release",
@@ -6550,36 +6505,6 @@
       "https://media.rawg.io/media/screenshots/530/53093ebe96a64077564e60ec5e6ca99e.jpg"
     ],
     "desc": "origament a paper adventure",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1020036",
-    "name": "Fears to Fathom - Scratch Creek",
-    "type": "release",
-    "genres": [
-      "独立游戏",
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-06-10"
-      },
-      {
-        "region": "CN",
-        "date": "2026-06-10"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "",
-    "screenshots": [],
-    "desc": "fears to fathom scratch creek",
     "source": "rawg_auto"
   },
   {
@@ -9644,41 +9569,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1019805",
-    "name": "Crimson Desert: Charting the Unknown",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC",
-      "PS5",
-      "Xbox"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-10-16"
-      },
-      {
-        "region": "CN",
-        "date": "2026-10-16"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/83c/83ca2a4e4e94eecad38064f34304af49.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/3cb/3cb21f82d16a4a59b71fbc0cdbd617ad.jpg",
-      "https://media.rawg.io/media/screenshots/4b9/4b915738133ceac1fe4ff23b1bf95f64.jpg",
-      "https://media.rawg.io/media/screenshots/83c/83ca2a4e4e94eecad38064f34304af49.jpg"
-    ],
-    "desc": "crimson desert charting the unknown",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1016605",
     "name": "Truxton Extreme",
     "type": "release",
@@ -10033,6 +9923,404 @@
       "https://media.rawg.io/media/screenshots/b5f/b5ff2138ec6effca079915d479f94f42.jpg"
     ],
     "desc": "it never ends 3",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1019805",
+    "name": "Crimson Desert: Charting the Unknown",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-10-29"
+      },
+      {
+        "region": "CN",
+        "date": "2026-10-29"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/83c/83ca2a4e4e94eecad38064f34304af49.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/3cb/3cb21f82d16a4a59b71fbc0cdbd617ad.jpg",
+      "https://media.rawg.io/media/screenshots/4b9/4b915738133ceac1fe4ff23b1bf95f64.jpg",
+      "https://media.rawg.io/media/screenshots/83c/83ca2a4e4e94eecad38064f34304af49.jpg"
+    ],
+    "desc": "crimson desert charting the unknown",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1020215",
+    "name": "Doomsday Diner (2026)",
+    "type": "release",
+    "genres": [
+      "独立游戏",
+      "模拟经营"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-07-24"
+      },
+      {
+        "region": "CN",
+        "date": "2026-07-24"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/315/31573361eadcaf3bdd24fd8e5fbcaff9.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/729/729330ef5f62280b603b5b4f8bd68e67.jpg",
+      "https://media.rawg.io/media/screenshots/f08/f08e12d31d4332692fa11cd16a539dd5.jpg",
+      "https://media.rawg.io/media/screenshots/5de/5de232d9104f0cba39ddf0ad32b8e28f.jpg",
+      "https://media.rawg.io/media/screenshots/eca/eca3c67458df9aaef2a6ffa14c3c5a83.jpg",
+      "https://media.rawg.io/media/screenshots/406/406d2607280fefedbbeecf5667a4dead.jpg",
+      "https://media.rawg.io/media/screenshots/315/31573361eadcaf3bdd24fd8e5fbcaff9.jpg"
+    ],
+    "desc": "doomsday diner 2026",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1020216",
+    "name": "Cheat Death",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-07-17"
+      },
+      {
+        "region": "CN",
+        "date": "2026-07-17"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/82d/82d93e2d369a8add8785fb4fbe4d1c85.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/05e/05ebdb31d03a60bc37467ecd00a63993.jpg",
+      "https://media.rawg.io/media/screenshots/d77/d771f7d50c02041ead4cf737c20fd7b4.jpg",
+      "https://media.rawg.io/media/screenshots/a71/a7148a8f75aa0bb01feb469c7ffa1931.jpg",
+      "https://media.rawg.io/media/screenshots/fae/fae53e8f7771a16225261f6ddd085518.jpg",
+      "https://media.rawg.io/media/screenshots/617/6176a09632c3e35e7911d08a96aad66d.jpg",
+      "https://media.rawg.io/media/screenshots/82d/82d93e2d369a8add8785fb4fbe4d1c85.jpg"
+    ],
+    "desc": "cheat death",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1020217",
+    "name": "Deadliest Pigeon",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-08-07"
+      },
+      {
+        "region": "CN",
+        "date": "2026-08-07"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/f29/f290ca88177b98d60b463278b32b0aa0.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/0ac/0accf4a0e01e89a334677090a5bc3fba.jpg",
+      "https://media.rawg.io/media/screenshots/633/6331ba08aa16ec3b28afd67392eabe68.jpg",
+      "https://media.rawg.io/media/screenshots/52a/52a7527e8026b8f885f0faa2eeb6199d.jpg",
+      "https://media.rawg.io/media/screenshots/65d/65d592a91c47fcb40b83c505e8abc988.jpg",
+      "https://media.rawg.io/media/screenshots/6e7/6e744327b65edae001ccbf602813b96b.jpg",
+      "https://media.rawg.io/media/screenshots/f29/f290ca88177b98d60b463278b32b0aa0.jpg"
+    ],
+    "desc": "deadliest pigeon",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1020221",
+    "name": "Scarlet Skips",
+    "type": "release",
+    "genres": [
+      "独立游戏"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-09-03"
+      },
+      {
+        "region": "CN",
+        "date": "2026-09-03"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/5ab/5abed71ad81ba5b4b19cdf62f3954d77.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/f36/f36aa9e9a4a77d61cc393040cf3a8056.jpg",
+      "https://media.rawg.io/media/screenshots/f0a/f0a7762bfbf854e2fa496a3f8accfcf6.jpg",
+      "https://media.rawg.io/media/screenshots/528/528aa6e404beca2237629009a5fa85dd.jpg",
+      "https://media.rawg.io/media/screenshots/606/606f63bbe031e55cf47725c227e5f89d.jpg",
+      "https://media.rawg.io/media/screenshots/540/5409ee4fa3c07cbd2ab4755c45975c9a.jpg",
+      "https://media.rawg.io/media/screenshots/5ab/5abed71ad81ba5b4b19cdf62f3954d77.jpg"
+    ],
+    "desc": "scarlet skips",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1020225",
+    "name": "Block Block Block",
+    "type": "release",
+    "genres": [
+      "MMO",
+      "独立游戏"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-08-05"
+      },
+      {
+        "region": "CN",
+        "date": "2026-08-05"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/64c/64ccef9a11273fa3845ff3a706400b37.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/a11/a1152c6dec334a3eb776e0def3941713.jpg",
+      "https://media.rawg.io/media/screenshots/d00/d00f1d754f9f0f8dc91ef95ab0e7237f.jpg",
+      "https://media.rawg.io/media/screenshots/4ef/4ef6a6771ce002db5700460dae457b72.jpg",
+      "https://media.rawg.io/media/screenshots/ba0/ba02179e801e73773d45933c4f9e543a.jpg",
+      "https://media.rawg.io/media/screenshots/ace/ace4fc927e90822e5b028f6ce24f32b1.jpg",
+      "https://media.rawg.io/media/screenshots/64c/64ccef9a11273fa3845ff3a706400b37.jpg"
+    ],
+    "desc": "block block block",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1020229",
+    "name": "Panthalassa (2026)",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-05-18"
+      },
+      {
+        "region": "CN",
+        "date": "2026-05-18"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/4a4/4a427bed969997186a6a9eda7f459ea8.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/260/26055c54395d9d5c64483a9033a55309.jpg",
+      "https://media.rawg.io/media/screenshots/15b/15bd1a61c33633fc7a6afcd82d4c48d0.jpg",
+      "https://media.rawg.io/media/screenshots/720/720501d464552a681a92bfb26e0636cf.jpg",
+      "https://media.rawg.io/media/screenshots/d14/d1450d29a63ef881ae5b41054c3fbefa.jpg",
+      "https://media.rawg.io/media/screenshots/89d/89d177a05e6f2d3cab1c38907717fb28.jpg",
+      "https://media.rawg.io/media/screenshots/4a4/4a427bed969997186a6a9eda7f459ea8.jpg"
+    ],
+    "desc": "panthalassa 2026",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1020246",
+    "name": "Click Build Repeat",
+    "type": "release",
+    "genres": [
+      "MMO",
+      "独立游戏"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-07-30"
+      },
+      {
+        "region": "CN",
+        "date": "2026-07-30"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/646/646d96baa7c814f76fef8e52bb97177b.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/713/713ae070a0583f65037c8ac6298dcbc9.jpg",
+      "https://media.rawg.io/media/screenshots/ec6/ec63408164b039acdd3defedbffae069.jpg",
+      "https://media.rawg.io/media/screenshots/cf8/cf8f46e9ee5e8b81a8664a09568daa2f.jpg",
+      "https://media.rawg.io/media/screenshots/b12/b1274aed7a04d539f24fabdfa5a08164.jpg",
+      "https://media.rawg.io/media/screenshots/d97/d978531c23980485ca00e420a21bd331.jpg",
+      "https://media.rawg.io/media/screenshots/646/646d96baa7c814f76fef8e52bb97177b.jpg"
+    ],
+    "desc": "click build repeat",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1020234",
+    "name": "Foreign Sun",
+    "type": "release",
+    "genres": [
+      "独立游戏",
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-04-22"
+      },
+      {
+        "region": "CN",
+        "date": "2026-04-22"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/94b/94b9b163d24dfab869d0ec58931eea39.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/976/9765c54630bb12ce628fb434ac46b2db.jpg",
+      "https://media.rawg.io/media/screenshots/9b7/9b7597c5b16e4dd01428092815d90e71.jpg",
+      "https://media.rawg.io/media/screenshots/874/87487638b4f86e5ff96858eb2f183c16.jpg",
+      "https://media.rawg.io/media/screenshots/c3e/c3ee1b178dc221550c5de0fdd42f0c03.jpg",
+      "https://media.rawg.io/media/screenshots/94b/94b9b163d24dfab869d0ec58931eea39.jpg"
+    ],
+    "desc": "foreign sun",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1020241",
+    "name": "Doctor Pigeon Simulator",
+    "type": "release",
+    "genres": [
+      "模拟经营"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-06-30"
+      },
+      {
+        "region": "CN",
+        "date": "2026-06-30"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/20b/20bf79e25a36efd883618dc22a0b34ae.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/fcb/fcbe57a6771037eca90d577696082393.jpg",
+      "https://media.rawg.io/media/screenshots/79d/79dda53c7e0bbe9cdda8bd3f8ff5a9e0.jpg",
+      "https://media.rawg.io/media/screenshots/bff/bffde81e7dbb99d2e79bb8eae54cc3a4.jpg",
+      "https://media.rawg.io/media/screenshots/238/2381d720bd843826afedcee0650327e4.jpg",
+      "https://media.rawg.io/media/screenshots/c5d/c5d2a324db3e5ab124118a0569b5a163.jpg",
+      "https://media.rawg.io/media/screenshots/20b/20bf79e25a36efd883618dc22a0b34ae.jpg"
+    ],
+    "desc": "doctor pigeon simulator",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1020236",
+    "name": "D-topia",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-07-14"
+      },
+      {
+        "region": "CN",
+        "date": "2026-07-14"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/610/610cc5c48caa0ec3dc8f8ea9cdcb436c.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/01b/01b04890b45faa91c2ebc3ae19f9383a.jpg",
+      "https://media.rawg.io/media/screenshots/6ab/6abeaf46844c074da75bd65a3a2dc381.jpg",
+      "https://media.rawg.io/media/screenshots/cbd/cbd80e7cc25902c85e9d6d64a2252c79.jpg",
+      "https://media.rawg.io/media/screenshots/4a6/4a6f0de2a59dc884198220a40fec0299.jpg",
+      "https://media.rawg.io/media/screenshots/9e8/9e88f5a13becc806876fc9aa08242b52.jpg",
+      "https://media.rawg.io/media/screenshots/610/610cc5c48caa0ec3dc8f8ea9cdcb436c.jpg"
+    ],
+    "desc": "d topia",
     "source": "rawg_auto"
   },
   {
@@ -11116,6 +11404,218 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1020224",
+    "name": "Blood Dungeon",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-08-26"
+      },
+      {
+        "region": "CN",
+        "date": "2026-08-26"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/0bb/0bbdaa51d93432d4ab7e358ab4dce138.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/811/811c0c60b4d56e3ee2fff865cde3a83a.jpg",
+      "https://media.rawg.io/media/screenshots/6e8/6e84c3efcc3bb537f3fcaef1f2359dfd.jpg",
+      "https://media.rawg.io/media/screenshots/5b4/5b424daf2c709156b6acadb54d9c6389.jpg",
+      "https://media.rawg.io/media/screenshots/4e9/4e9553fea4c19f465a6c59af063cc49f.jpg",
+      "https://media.rawg.io/media/screenshots/206/2066f7bf18e3965a1cea08118e31d885.jpg",
+      "https://media.rawg.io/media/screenshots/0bb/0bbdaa51d93432d4ab7e358ab4dce138.jpg"
+    ],
+    "desc": "blood dungeon",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1020219",
+    "name": "The Incident at Galley House",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-07-14"
+      },
+      {
+        "region": "CN",
+        "date": "2026-07-14"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/616/616c2906dc5691efa1a44a6e3b1897a1.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/5f1/5f1dfecc5b30c459ed81c85f344a25fa.jpg",
+      "https://media.rawg.io/media/screenshots/f62/f62650518a235675a5377094159e435b.jpg",
+      "https://media.rawg.io/media/screenshots/f47/f47d0e3e934d4db9d3d6560f9d94ebd5.jpg",
+      "https://media.rawg.io/media/screenshots/4e8/4e8fbac18b5cfcf4b7fddfbe85276d3c.jpg",
+      "https://media.rawg.io/media/screenshots/0f4/0f4b91766247dda62cf10587ee779f63.jpg",
+      "https://media.rawg.io/media/screenshots/616/616c2906dc5691efa1a44a6e3b1897a1.jpg"
+    ],
+    "desc": "the incident at galley house",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1020239",
+    "name": "Too Many Toys!",
+    "type": "release",
+    "genres": [
+      "MMO",
+      "独立游戏"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-08-29"
+      },
+      {
+        "region": "CN",
+        "date": "2026-08-29"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/081/081dfb18671178c0edf6a33c3357be94.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/29b/29b52b1e2a9092976f2de360f398b9ff.jpg",
+      "https://media.rawg.io/media/screenshots/535/53572b360ab611b0be473efe646d3038.jpg",
+      "https://media.rawg.io/media/screenshots/c0b/c0b754e99d49e3840189dca0708441aa.jpg",
+      "https://media.rawg.io/media/screenshots/bc3/bc3ebb0f64832c6c5634a9af76180185.jpg",
+      "https://media.rawg.io/media/screenshots/dd5/dd55ef42bcedfb0a460ce27b5fa4fd16.jpg",
+      "https://media.rawg.io/media/screenshots/081/081dfb18671178c0edf6a33c3357be94.jpg"
+    ],
+    "desc": "too many toys",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1020235",
+    "name": "Horn of the Warlord",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-06-29"
+      },
+      {
+        "region": "CN",
+        "date": "2026-06-29"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/003/0037c0fc3e313076c83077d0fcaa94cb.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/971/9710265d5603eda5a7f5043595d8f15e.jpg",
+      "https://media.rawg.io/media/screenshots/fc9/fc991c312d1855b3c5fdea86e5439c7e.jpg",
+      "https://media.rawg.io/media/screenshots/dba/dba40c40387e7f82b323735d9739f44a.jpg",
+      "https://media.rawg.io/media/screenshots/5d1/5d1e297f304b58cc7eaa2f84430485cf.jpg",
+      "https://media.rawg.io/media/screenshots/b29/b298ac1ea0c88dcc8751c6f12c484c47.jpg",
+      "https://media.rawg.io/media/screenshots/003/0037c0fc3e313076c83077d0fcaa94cb.jpg"
+    ],
+    "desc": "horn of the warlord",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1020245",
+    "name": "Farming Incremental But With Guns",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-08-11"
+      },
+      {
+        "region": "CN",
+        "date": "2026-08-11"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/423/423f99e0fab815c800d9595705ebb9b8.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/78c/78cb8bdd18c92a02c10f6ee67fa0fff3.jpg",
+      "https://media.rawg.io/media/screenshots/547/547082f80639c1b2a107ef1e24798f97.jpg",
+      "https://media.rawg.io/media/screenshots/cd8/cd868f2529a30aa2e05d54a927a38ee2.jpg",
+      "https://media.rawg.io/media/screenshots/186/186df0e5c6ad8514780d95ade1ce3533.jpg",
+      "https://media.rawg.io/media/screenshots/423/423f99e0fab815c800d9595705ebb9b8.jpg"
+    ],
+    "desc": "farming incremental but with guns",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1020223",
+    "name": "Blob of Ink",
+    "type": "release",
+    "genres": [
+      "MMO",
+      "独立游戏"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-08-25"
+      },
+      {
+        "region": "CN",
+        "date": "2026-08-25"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/71f/71f67cf3377b9fdea33a7cc66ed376fb.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/71f/71f67cf3377b9fdea33a7cc66ed376fb.jpg"
+    ],
+    "desc": "blob of ink",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1016813",
     "name": "Steel Workers (Itch)",
     "type": "release",
@@ -11288,42 +11788,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1017405",
-    "name": "My Bloodsucking 9 to 5",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-04-03"
-      },
-      {
-        "region": "CN",
-        "date": "2026-04-03"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/b43/b4304fa177c185164460307592b80594.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/d68/d68a362f79c2a5e42a7a5a889e77af79.jpg",
-      "https://media.rawg.io/media/screenshots/b55/b55816429510f8b195d25042fd31c0fb.jpg",
-      "https://media.rawg.io/media/screenshots/f03/f03630f0e1dd32a1819742f5f493836c.jpg",
-      "https://media.rawg.io/media/screenshots/7a8/7a8246953b214165de3b5cfb0a962bce.jpg",
-      "https://media.rawg.io/media/screenshots/3a3/3a3f8a5fef1237617d73727e51c0d127.jpg",
-      "https://media.rawg.io/media/screenshots/b43/b4304fa177c185164460307592b80594.jpg"
-    ],
-    "desc": "my bloodsucking 9 to 5",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1017210",
     "name": "Kumitantei: Old-School Slaughter",
     "type": "release",
@@ -11357,76 +11821,6 @@
       "https://media.rawg.io/media/screenshots/76b/76be55eec3c319cdf51220f4da6547c6.jpg"
     ],
     "desc": "kumitantei old school slaughter",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1017496",
-    "name": "Kijutsu Rider",
-    "type": "release",
-    "genres": [
-      "独立游戏",
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-04-03"
-      },
-      {
-        "region": "CN",
-        "date": "2026-04-03"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/f59/f59bf2f0ce07249d1bfd3c9f125d5ffa.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/007/0076a62bd991898b23752e40564e98c3.jpg",
-      "https://media.rawg.io/media/screenshots/fcd/fcd5791f33d5cf0143bc84e80f51da80.jpg",
-      "https://media.rawg.io/media/screenshots/f59/f59bf2f0ce07249d1bfd3c9f125d5ffa.jpg"
-    ],
-    "desc": "kijutsu rider",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1017765",
-    "name": "Suicide Drive",
-    "type": "release",
-    "genres": [
-      "独立游戏"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-04-03"
-      },
-      {
-        "region": "CN",
-        "date": "2026-04-03"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/350/3506ab4f9794ab211ff28cdaf00d8e27.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/e7e/e7e9631f4aea9dff60aa65a9d2d3fb09.jpg",
-      "https://media.rawg.io/media/screenshots/250/250e2efff227ba78e55012b04d8a2ad6.jpg",
-      "https://media.rawg.io/media/screenshots/ec7/ec7fa772855bacfcccbc2c1c8a9d27c9.jpg",
-      "https://media.rawg.io/media/screenshots/3c8/3c835d69af5873c85760bac6b06b936f.jpg",
-      "https://media.rawg.io/media/screenshots/c88/c888e89c4595d6457d988c2a57172c7b.jpg",
-      "https://media.rawg.io/media/screenshots/350/3506ab4f9794ab211ff28cdaf00d8e27.jpg"
-    ],
-    "desc": "suicide drive",
     "source": "rawg_auto"
   },
   {
@@ -12341,6 +12735,301 @@
       "https://media.rawg.io/media/screenshots/b63/b63831e571cdefc646b19b7df98c7b99.jpg"
     ],
     "desc": "surroundead poly construction",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1020222",
+    "name": "Blast Head",
+    "type": "release",
+    "genres": [
+      "独立游戏",
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-06-10"
+      },
+      {
+        "region": "CN",
+        "date": "2026-06-10"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/491/491ca8dc00a662684bbf7095d79c217b.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/da6/da6c92e0a2079769ef379bf32cd8c738.jpg",
+      "https://media.rawg.io/media/screenshots/2f0/2f019b5e906d2ac152418d01c75b1376.jpg",
+      "https://media.rawg.io/media/screenshots/a75/a7553881bf2e73fc78c09feccf244aaa.jpg",
+      "https://media.rawg.io/media/screenshots/028/028979eaca8a9a1ca51c3e21361353dc.jpg",
+      "https://media.rawg.io/media/screenshots/895/895e685c003582cdcaeadd82ea77fa0a.jpg",
+      "https://media.rawg.io/media/screenshots/491/491ca8dc00a662684bbf7095d79c217b.jpg"
+    ],
+    "desc": "blast head",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1020220",
+    "name": "Blackwater Exchange",
+    "type": "release",
+    "genres": [
+      "模拟经营"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-07-13"
+      },
+      {
+        "region": "CN",
+        "date": "2026-07-13"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/d6b/d6b7664d0b21fae368e47c1939aed8a5.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/f6d/f6d5d80735211fb96762ec8882d4854b.jpg",
+      "https://media.rawg.io/media/screenshots/e82/e8256434bbdb21f2d33fc9c1bc2ae7f8.jpg",
+      "https://media.rawg.io/media/screenshots/e52/e52bc2fbb8e02bfbdfebe41b58daf269.jpg",
+      "https://media.rawg.io/media/screenshots/75c/75c960fb1c643ca2a305355c43a31277.jpg",
+      "https://media.rawg.io/media/screenshots/9be/9bebc9a5a1944027a2ae113c42393a7b.jpg",
+      "https://media.rawg.io/media/screenshots/d6b/d6b7664d0b21fae368e47c1939aed8a5.jpg"
+    ],
+    "desc": "blackwater exchange",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1020240",
+    "name": "Port Authority",
+    "type": "release",
+    "genres": [
+      "MMO",
+      "策略"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-05-15"
+      },
+      {
+        "region": "CN",
+        "date": "2026-05-15"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/fa6/fa6bd7f7a5714d16311d33c8f3b1668c.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/880/880f0bc4db105d80e9fad1f5ae763244.jpg",
+      "https://media.rawg.io/media/screenshots/fa7/fa739d81c89ef9d08042c70d96fcf57a.jpg",
+      "https://media.rawg.io/media/screenshots/78a/78abe99459eb77dd95277fbea9686a9e.jpg",
+      "https://media.rawg.io/media/screenshots/9ee/9ee992a17bc8027dac69e4342b6efe4c.jpg",
+      "https://media.rawg.io/media/screenshots/70b/70b6ba4461177202c558cf6693159ae2.jpg",
+      "https://media.rawg.io/media/screenshots/fa6/fa6bd7f7a5714d16311d33c8f3b1668c.jpg"
+    ],
+    "desc": "port authority",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1020247",
+    "name": "Mayor May Knott",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-05-01"
+      },
+      {
+        "region": "CN",
+        "date": "2026-05-01"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/390/3909d3817d1fea72af313a438ef13dcb.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/21c/21c31bd08cbc41dc64774f8dd440252b.jpg",
+      "https://media.rawg.io/media/screenshots/c4e/c4e034a7eae0aa19f35ac56bde7c21a1.jpg",
+      "https://media.rawg.io/media/screenshots/fc6/fc6783129bfba46c12b76c04aa6415c8.jpg",
+      "https://media.rawg.io/media/screenshots/23c/23c1f103de5aa1208d9e43c62fec6c6b.jpg",
+      "https://media.rawg.io/media/screenshots/3c1/3c1348bba1ac71fb13b37551ce6fa124.jpg",
+      "https://media.rawg.io/media/screenshots/390/3909d3817d1fea72af313a438ef13dcb.jpg"
+    ],
+    "desc": "mayor may knott",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1020228",
+    "name": "Finding Ruby: Hidden Object Adventure",
+    "type": "release",
+    "genres": [
+      "独立游戏",
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-08-19"
+      },
+      {
+        "region": "CN",
+        "date": "2026-08-19"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/50c/50cd62a3c27107ee0081f8ef4bc36423.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/59d/59dff56a556d0b9cc2b4d664b5766b2a.jpg",
+      "https://media.rawg.io/media/screenshots/b6d/b6d01e2285e42823ce4827c1fff73fdf.jpg",
+      "https://media.rawg.io/media/screenshots/fb7/fb713f2a71af07658eed27b39885dcba.jpg",
+      "https://media.rawg.io/media/screenshots/736/7369213bbd43b7826078c92bc9e748e6.jpg",
+      "https://media.rawg.io/media/screenshots/6c0/6c0653b59068ce81d44a77d21143bed2.jpg",
+      "https://media.rawg.io/media/screenshots/50c/50cd62a3c27107ee0081f8ef4bc36423.jpg"
+    ],
+    "desc": "finding ruby hidden object adventure",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1020244",
+    "name": "Parking in Tight Spaces",
+    "type": "release",
+    "genres": [
+      "模拟经营",
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2027-08-15"
+      },
+      {
+        "region": "CN",
+        "date": "2027-08-15"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/070/070c093ee4228b5672a301e0b8b760e5.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/13d/13d36d64479e4c874b4b0d7a5bf28a8e.jpg",
+      "https://media.rawg.io/media/screenshots/b98/b98c43788049b9b5b9e61aacbebc7a80.jpg",
+      "https://media.rawg.io/media/screenshots/226/226aa7ae803eed9cc01e5ccebbae9fd3.jpg",
+      "https://media.rawg.io/media/screenshots/128/128c99f346d1f3353e27ecbd39bd9a85.jpg",
+      "https://media.rawg.io/media/screenshots/cbc/cbce7f86c73af62393b7c577f87a8b10.jpg",
+      "https://media.rawg.io/media/screenshots/070/070c093ee4228b5672a301e0b8b760e5.jpg"
+    ],
+    "desc": "parking in tight spaces",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1020252",
+    "name": "Iron Blight",
+    "type": "release",
+    "genres": [
+      "FPS/射击",
+      "独立游戏",
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-08-25"
+      },
+      {
+        "region": "CN",
+        "date": "2026-08-25"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/66a/66a95129c7991e1347bd6f23623083fe.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/b0a/b0a8a0efb42ce950f43758bfdde5a8c6.jpg",
+      "https://media.rawg.io/media/screenshots/38e/38e12ef0d61f6d4c26d1ae3f5f2ed1a4.jpg",
+      "https://media.rawg.io/media/screenshots/718/71864b78d30a8bcff218f835e4d75d89.jpg",
+      "https://media.rawg.io/media/screenshots/7bc/7bc5ed391c95cc79b446272920396c09.jpg",
+      "https://media.rawg.io/media/screenshots/5f6/5f62f85feafb795a417132b6a5f674ed.jpg",
+      "https://media.rawg.io/media/screenshots/66a/66a95129c7991e1347bd6f23623083fe.jpg"
+    ],
+    "desc": "iron blight",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1020251",
+    "name": "Osta",
+    "type": "release",
+    "genres": [
+      "独立游戏",
+      "模拟经营"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-07-29"
+      },
+      {
+        "region": "CN",
+        "date": "2026-07-29"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/13a/13a882bee2e62e6c404d3e6818552396.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/33e/33e7f2a44e86a15bfa4f1efb7f68d9f7.jpg",
+      "https://media.rawg.io/media/screenshots/d43/d4360e49e25d1be2a47292711ad47740.jpg",
+      "https://media.rawg.io/media/screenshots/742/742b9a3c82f31b7a5a3ea5d3fa962182.jpg",
+      "https://media.rawg.io/media/screenshots/6eb/6eb2564c66eea70949e9df54e25a04d6.jpg",
+      "https://media.rawg.io/media/screenshots/63b/63be4f6c0ead28e317cefd91f563bc24.jpg",
+      "https://media.rawg.io/media/screenshots/13a/13a882bee2e62e6c404d3e6818552396.jpg"
+    ],
+    "desc": "osta",
     "source": "rawg_auto"
   },
   {
@@ -13443,684 +14132,6 @@
       "https://media.rawg.io/media/screenshots/ae9/ae903ce108f7d08056c19f02f3e20e80.jpg"
     ],
     "desc": "arsonate",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1018113",
-    "name": "Defender of the Crown: The Legend Returns",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-08-12"
-      },
-      {
-        "region": "CN",
-        "date": "2026-08-12"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/2c2/2c2751318377bdd9a8a8d5441b5afb58.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/039/0395d327c0fc2614c20e047f4d5f8073.jpg",
-      "https://media.rawg.io/media/screenshots/4e8/4e8b45f2e52636b05f1ac4bfb2eb4fe3.jpg",
-      "https://media.rawg.io/media/screenshots/f90/f90045e0b9cc95829f748cd8c7f48be5.jpg",
-      "https://media.rawg.io/media/screenshots/c01/c01e6ff75fbfb2092ddbcf4b06cc888e.jpg",
-      "https://media.rawg.io/media/screenshots/43e/43e9d6545e9a3b2f5d9dfabb3ddffd53.jpg",
-      "https://media.rawg.io/media/screenshots/eab/eab508ff4feab26340f6550007986f73.jpg"
-    ],
-    "desc": "defender of the crown the legend returns",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1019721",
-    "name": "Click the Button (LoopCap)",
-    "type": "release",
-    "genres": [
-      "MMO"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-08-26"
-      },
-      {
-        "region": "CN",
-        "date": "2026-08-26"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/44e/44eb161810779d72564de735ebeb7402.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/44e/44eb161810779d72564de735ebeb7402.jpg"
-    ],
-    "desc": "click the button loopcap",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1019727",
-    "name": "Transport Fever 3",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-09-28"
-      },
-      {
-        "region": "CN",
-        "date": "2026-09-28"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/003/003cfd6bb966df4e3e9cd97641c83bfb.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/230/230733c0830eb89aa997a3c266bb5a9e.jpg",
-      "https://media.rawg.io/media/screenshots/dbd/dbd9b530f9c5438e748715076da0f691.jpg",
-      "https://media.rawg.io/media/screenshots/78e/78eb97fc3b212eb47eaed6678dbaef30.jpg",
-      "https://media.rawg.io/media/screenshots/517/517be51aafdf4af4e964ab3993cbd09e.jpg",
-      "https://media.rawg.io/media/screenshots/e0c/e0c7e4ec6e566cfa126c2f85534204ba.jpg",
-      "https://media.rawg.io/media/screenshots/beb/beb7dcafc04017b38e1ea3663f90cde7.jpg"
-    ],
-    "desc": "transport fever 3",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1019830",
-    "name": "Rainy Waifu",
-    "type": "release",
-    "genres": [
-      "MMO"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-08-20"
-      },
-      {
-        "region": "CN",
-        "date": "2026-08-20"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/8ef/8ef804d8ad1199117b700fbc5e2e5a86.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/d98/d987081c10b500fcb12403d0716d6419.jpg",
-      "https://media.rawg.io/media/screenshots/c38/c38bbe5592a2f847c32f730c71d68e00.jpg",
-      "https://media.rawg.io/media/screenshots/be0/be0306a49fdfedb1680682ea8dca0ecf.jpg",
-      "https://media.rawg.io/media/screenshots/b6b/b6b76b497ec3fce4ab60ed83ac9fc366.jpg",
-      "https://media.rawg.io/media/screenshots/8ef/8ef804d8ad1199117b700fbc5e2e5a86.jpg"
-    ],
-    "desc": "rainy waifu",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1019831",
-    "name": "TOYS 18+",
-    "type": "release",
-    "genres": [
-      "动作冒险",
-      "RPG",
-      "MMO"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-08-21"
-      },
-      {
-        "region": "CN",
-        "date": "2026-08-21"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/28d/28dc565c596d2ab540b1a9988db198d9.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/fb1/fb133f4f4794ef7d7ea2b0cfa94e86c5.jpg",
-      "https://media.rawg.io/media/screenshots/548/5485e1a3a39ab1cc8124f695bc6d64ad.jpg",
-      "https://media.rawg.io/media/screenshots/d53/d53b5571475bc043159dab724b5c9059.jpg",
-      "https://media.rawg.io/media/screenshots/27a/27a1dc8f80fd361204ea17256a75e032.jpg",
-      "https://media.rawg.io/media/screenshots/614/61441e48a41a40ec412d255d3c2ff772.jpg",
-      "https://media.rawg.io/media/screenshots/28d/28dc565c596d2ab540b1a9988db198d9.jpg"
-    ],
-    "desc": "toys 18",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1020035",
-    "name": "PATLABOR the Case Files",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC",
-      "PS5"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-09-16"
-      },
-      {
-        "region": "CN",
-        "date": "2026-09-16"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/513/513ee3026e6a05c5aa9285a89d4f506b.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/85c/85c2ff691ee8669769970944f6fa4f63.jpg",
-      "https://media.rawg.io/media/screenshots/e66/e6603af83476186590d0a66f97c80a78.jpg",
-      "https://media.rawg.io/media/screenshots/3e9/3e967430aeba3fed17e127e9763a2379.jpg",
-      "https://media.rawg.io/media/screenshots/809/809706b549574b83907b2bb8449a0b2d.jpg"
-    ],
-    "desc": "patlabor the case files",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1018249",
-    "name": "The Coma 3: Bloodlines",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-04-29"
-      },
-      {
-        "region": "CN",
-        "date": "2026-04-29"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/ab8/ab804cc06fc9f2f0d736b687a777f4c7.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/24e/24ea86ade1093d886429df81118c3c2f.jpg",
-      "https://media.rawg.io/media/screenshots/cd0/cd0b7491965bbf65675a9bb1fd0f1ee9.jpg",
-      "https://media.rawg.io/media/screenshots/5d9/5d9e4322e964a46efb9a5a7c4c9de423.jpg",
-      "https://media.rawg.io/media/screenshots/008/00899def2809d5d83793d060aeb0513e.jpg",
-      "https://media.rawg.io/media/screenshots/ab8/ab804cc06fc9f2f0d736b687a777f4c7.jpg"
-    ],
-    "desc": "the coma 3 bloodlines",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1020214",
-    "name": "Frostrain 2",
-    "type": "release",
-    "genres": [
-      "策略",
-      "独立游戏"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-07-16"
-      },
-      {
-        "region": "CN",
-        "date": "2026-07-16"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/8fa/8fab99fc846aa112dedff4dfce72e7ce.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/67a/67af73b941f0d6ef63a22978d30d565d.jpg",
-      "https://media.rawg.io/media/screenshots/01b/01b9cadf635d324d21465e0b99fac451.jpg",
-      "https://media.rawg.io/media/screenshots/535/5354eaeb4d826f479f0e95bdd3625434.jpg",
-      "https://media.rawg.io/media/screenshots/23d/23d0eac6d4a9142afd32996c96554810.jpg",
-      "https://media.rawg.io/media/screenshots/3c5/3c5b44336420b69eb5398a9f816a6f4d.jpg",
-      "https://media.rawg.io/media/screenshots/8fa/8fab99fc846aa112dedff4dfce72e7ce.jpg"
-    ],
-    "desc": "frostrain 2",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_264720",
-    "name": "Gerenimot",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2027-06-13"
-      },
-      {
-        "region": "CN",
-        "date": "2027-06-13"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/e31/e316dce8abedcb69189b8951ee208a82.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/e31/e316dce8abedcb69189b8951ee208a82.jpg"
-    ],
-    "desc": "gerenimot",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1017222",
-    "name": "Smash it Wild: Tactical Volleyball Roguelike",
-    "type": "release",
-    "genres": [
-      "策略",
-      "RPG",
-      "体育竞速"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-04-15"
-      },
-      {
-        "region": "CN",
-        "date": "2026-04-15"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/7a1/7a1aaeaa79f6305f27ef887ae5721f94.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/152/152ce4bc17f03501756461b98aad9716.jpg",
-      "https://media.rawg.io/media/screenshots/580/580b707b4258e7028a696c5737dbe1bc.jpg",
-      "https://media.rawg.io/media/screenshots/040/0402d8d8b5977f9824ad72044c657b31.jpg",
-      "https://media.rawg.io/media/screenshots/b65/b6527d1d477ff2dd53d5c9d0056433a9.jpg",
-      "https://media.rawg.io/media/screenshots/0b9/0b9844ae4c5ac6c9817ebc7fcf0e3cf0.jpg",
-      "https://media.rawg.io/media/screenshots/218/2184ec9e346a78316d94f150002e3483.jpg"
-    ],
-    "desc": "smash it wild tactical volleyball roguelike",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1017418",
-    "name": "Frontier Paladin",
-    "type": "release",
-    "genres": [
-      "独立游戏",
-      "动作冒险",
-      "RPG"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-04-24"
-      },
-      {
-        "region": "CN",
-        "date": "2026-04-24"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/22b/22b03af85087449d34f6c657fddeedf9.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/8f4/8f4a2882f79b7bea6149fa6b702c6497.jpg",
-      "https://media.rawg.io/media/screenshots/45c/45ceb6cebc5588ec1ed7ccd4114e921f.jpg",
-      "https://media.rawg.io/media/screenshots/738/7380f3b0202319e15e0bba1221cff814.jpg",
-      "https://media.rawg.io/media/screenshots/a4b/a4b816e32dc6cfbe8fd22486a651b8f8.jpg",
-      "https://media.rawg.io/media/screenshots/22b/22b03af85087449d34f6c657fddeedf9.jpg"
-    ],
-    "desc": "frontier paladin",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1017375",
-    "name": "A Tragedy in Elvish",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-04-20"
-      },
-      {
-        "region": "CN",
-        "date": "2026-04-20"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/23e/23e1cb57906d43d4ad4b267136c0f9de.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/89b/89bad391f9b931455c68d7e89339fc5b.jpg",
-      "https://media.rawg.io/media/screenshots/0cb/0cb549ac8bf27515170a81952a629866.jpg",
-      "https://media.rawg.io/media/screenshots/bef/befeba4a991a76778e07e43a21724dfe.jpg",
-      "https://media.rawg.io/media/screenshots/17e/17ed8c02df724efa3ada61432cc6107c.jpg",
-      "https://media.rawg.io/media/screenshots/23e/23e1cb57906d43d4ad4b267136c0f9de.jpg"
-    ],
-    "desc": "a tragedy in elvish",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1017520",
-    "name": "Orbitmine",
-    "type": "release",
-    "genres": [
-      "独立游戏"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-04-06"
-      },
-      {
-        "region": "CN",
-        "date": "2026-04-06"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/3d6/3d601e252ab87052c597e49694fb97d2.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/a11/a1120d93c138ab2804bf05f0c8f74ec8.jpg",
-      "https://media.rawg.io/media/screenshots/ff1/ff1faef0139bc27a094ab3ee8f214709.jpg",
-      "https://media.rawg.io/media/screenshots/f17/f174bab9bbb07e06505dc67d1ed8dd47.jpg",
-      "https://media.rawg.io/media/screenshots/cb1/cb185f9f5533104a0df4196f98e938e6.jpg",
-      "https://media.rawg.io/media/screenshots/81c/81c31ade2f4efee4b5df5315eb8f327e.jpg",
-      "https://media.rawg.io/media/screenshots/3d6/3d601e252ab87052c597e49694fb97d2.jpg"
-    ],
-    "desc": "orbitmine",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1018050",
-    "name": "Fun with Ragdolls Plus",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-04-16"
-      },
-      {
-        "region": "CN",
-        "date": "2026-04-16"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/29b/29be4f1f2e74e6fa3021e07bc444d259.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/471/47106c1d6fb5094c610c5fd43f68ec17.jpg",
-      "https://media.rawg.io/media/screenshots/ef2/ef2a16aaf4a8be1d3339a4bdc2921e3a.jpg",
-      "https://media.rawg.io/media/screenshots/5ce/5ce13036e3fba90e7faded05c95a7301.jpg",
-      "https://media.rawg.io/media/screenshots/632/6320c98f118c2dfcc096255d994de54a.jpg",
-      "https://media.rawg.io/media/screenshots/356/3567a79b3a2c0ffc781708fe37ff193d.jpg",
-      "https://media.rawg.io/media/screenshots/29b/29be4f1f2e74e6fa3021e07bc444d259.jpg"
-    ],
-    "desc": "fun with ragdolls plus",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1017926",
-    "name": "NBA THE RUN",
-    "type": "release",
-    "genres": [
-      "体育竞速"
-    ],
-    "platforms": [
-      "PC",
-      "PS5",
-      "Xbox"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-06-09"
-      },
-      {
-        "region": "CN",
-        "date": "2026-06-09"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/e98/e984db819db44aac1dcfa26900f5b18e.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/e98/e984db819db44aac1dcfa26900f5b18e.jpg"
-    ],
-    "desc": "nba the run",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1017094",
-    "name": "Subversive Memories",
-    "type": "release",
-    "genres": [
-      "独立游戏",
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-04-08"
-      },
-      {
-        "region": "CN",
-        "date": "2026-04-08"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/3b8/3b80fec3c54b07e467031d0b933473c2.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/395/395cca974532610d46dd625c3e5b3989.jpg",
-      "https://media.rawg.io/media/screenshots/e01/e01e933e70430a643247c8b44c51ccee.jpg",
-      "https://media.rawg.io/media/screenshots/88b/88bd7ac8e86b2957f2cc5233897fe111.jpg",
-      "https://media.rawg.io/media/screenshots/d78/d788edba59a28e534e5d3b6d35ee4e50.jpg",
-      "https://media.rawg.io/media/screenshots/3e9/3e93a3e0ecc8fb17ee34133d75dd6ef9.jpg",
-      "https://media.rawg.io/media/screenshots/3b8/3b80fec3c54b07e467031d0b933473c2.jpg"
-    ],
-    "desc": "subversive memories",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1018170",
-    "name": "Ultimate Drummer",
-    "type": "release",
-    "genres": [
-      "独立游戏",
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-04-23"
-      },
-      {
-        "region": "CN",
-        "date": "2026-04-23"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/05e/05e187bf6b8352a8df1c009079bc09dc.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/a68/a68104a8294eb99f8e13f02f70a16c37.jpg",
-      "https://media.rawg.io/media/screenshots/0a8/0a882f5edd15d1ac756549eb3a52fada.jpg",
-      "https://media.rawg.io/media/screenshots/cc4/cc4c88ebc2415716122093fbef8a7220.jpg",
-      "https://media.rawg.io/media/screenshots/5a6/5a60c6c268b47ccc28c042a6fe14ede7.jpg",
-      "https://media.rawg.io/media/screenshots/76a/76a417f9b8e73cc467529c25eaa9ce00.jpg",
-      "https://media.rawg.io/media/screenshots/05e/05e187bf6b8352a8df1c009079bc09dc.jpg"
-    ],
-    "desc": "ultimate drummer",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1018202",
-    "name": "Judge SIM",
-    "type": "release",
-    "genres": [
-      "策略",
-      "动作冒险",
-      "模拟经营"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-04-03"
-      },
-      {
-        "region": "CN",
-        "date": "2026-04-03"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/ba1/ba1b1fdc2910d5dcd379641a3ee71b22.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/be0/be0ffd62276ff00c78b0a6897ce2e7e9.jpg",
-      "https://media.rawg.io/media/screenshots/675/675417be1e89570bcf64ec982b3ebc41.jpg",
-      "https://media.rawg.io/media/screenshots/b10/b104f959392606c3327daf489020f6ca.jpg",
-      "https://media.rawg.io/media/screenshots/7e3/7e36ef391aa03f421b914b61a62b395c.jpg",
-      "https://media.rawg.io/media/screenshots/504/504f45eef1673130b027741cda566510.jpg",
-      "https://media.rawg.io/media/screenshots/ba1/ba1b1fdc2910d5dcd379641a3ee71b22.jpg"
-    ],
-    "desc": "judge sim",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1018445",
-    "name": "Puzzle Park 2",
-    "type": "release",
-    "genres": [
-      "独立游戏",
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-05-12"
-      },
-      {
-        "region": "CN",
-        "date": "2026-05-12"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/46b/46bd93640cda1e6db48848a10565cb74.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/a88/a88a2812acd90c047e84f192dbdedc4a.jpg",
-      "https://media.rawg.io/media/screenshots/11a/11ab0e9e7e591c3bb3b7249c9e1204fe.jpg",
-      "https://media.rawg.io/media/screenshots/af3/af35f714076bcad41d219dfacef9dc25.jpg",
-      "https://media.rawg.io/media/screenshots/222/2223f19b39a941252ccfaf0940dd2f14.jpg",
-      "https://media.rawg.io/media/screenshots/c38/c3898343106ea1c5b7f07a3f75eaa1be.jpg",
-      "https://media.rawg.io/media/screenshots/1c6/1c660bad4aca505b8a826f6712595c6a.jpg"
-    ],
-    "desc": "puzzle park 2",
     "source": "rawg_auto"
   }
 ]
