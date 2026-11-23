@@ -357,7 +357,7 @@
         "date": "2026-06-05"
       }
     ],
-    "expectScore": 5,
+    "expectScore": 4,
     "scoreSource": "RAWG用户",
     "popularity": 27,
     "rating": "teen",
@@ -1244,42 +1244,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1019942",
-    "name": "The Legend of Zelda: Ocarina of Time",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "Switch"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-11-05"
-      },
-      {
-        "region": "CN",
-        "date": "2026-11-05"
-      }
-    ],
-    "expectScore": 5,
-    "scoreSource": "RAWG用户",
-    "popularity": 5,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/c3b/c3bc70310175785b0c9d7bfc93624d5f.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/a1c/a1c94b5dd81f1b6ebcf13317da0b8a57.jpg",
-      "https://media.rawg.io/media/screenshots/e53/e53ceae8190844dab138f12bd29aa46a.jpg",
-      "https://media.rawg.io/media/screenshots/7cb/7cba5f82d7bee4cda9a6040863de9ce9.jpg",
-      "https://media.rawg.io/media/screenshots/a52/a5297263296a65ee3ffe8eaacbf71f29.jpg",
-      "https://media.rawg.io/media/screenshots/022/0223878db36b78e1eaefaa1010eb44b5.jpg",
-      "https://media.rawg.io/media/screenshots/686/686f7cb27797a2601e2e7062c6d8e280.jpg"
-    ],
-    "desc": "the legend of zelda ocarina of time 2",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1008979",
     "name": "Lords of the Fallen 2",
     "type": "release",
@@ -1314,6 +1278,42 @@
       "https://media.rawg.io/media/screenshots/887/887f377d7e4fc503bb345aac6e62eb2a.jpg"
     ],
     "desc": "lords of the fallen 2 2",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1019942",
+    "name": "The Legend of Zelda: Ocarina of Time",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "Switch"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-11-05"
+      },
+      {
+        "region": "CN",
+        "date": "2026-11-05"
+      }
+    ],
+    "expectScore": 5,
+    "scoreSource": "RAWG用户",
+    "popularity": 5,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/c3b/c3bc70310175785b0c9d7bfc93624d5f.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/a1c/a1c94b5dd81f1b6ebcf13317da0b8a57.jpg",
+      "https://media.rawg.io/media/screenshots/e53/e53ceae8190844dab138f12bd29aa46a.jpg",
+      "https://media.rawg.io/media/screenshots/7cb/7cba5f82d7bee4cda9a6040863de9ce9.jpg",
+      "https://media.rawg.io/media/screenshots/a52/a5297263296a65ee3ffe8eaacbf71f29.jpg",
+      "https://media.rawg.io/media/screenshots/022/0223878db36b78e1eaefaa1010eb44b5.jpg",
+      "https://media.rawg.io/media/screenshots/686/686f7cb27797a2601e2e7062c6d8e280.jpg"
+    ],
+    "desc": "the legend of zelda ocarina of time 2",
     "source": "rawg_auto"
   },
   {
@@ -4369,6 +4369,35 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1020611",
+    "name": "Probably Stolen",
+    "type": "release",
+    "genres": [
+      "模拟经营"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-10-28"
+      },
+      {
+        "region": "CN",
+        "date": "2026-10-28"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 1,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/games/fec/fecc58b3e612ea54441e96c73866741b.jpg",
+    "screenshots": [],
+    "desc": "probably stolen",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1019225",
     "name": "IRON NEST: Heavy Turret Simulator",
     "type": "release",
@@ -4748,35 +4777,6 @@
       "https://media.rawg.io/media/screenshots/dd4/dd48c3927a02fcae0ca1a6aa82593df3.jpg"
     ],
     "desc": "daba land of water scar",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1020611",
-    "name": "Probably Stolen",
-    "type": "release",
-    "genres": [
-      "模拟经营"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-10-28"
-      },
-      {
-        "region": "CN",
-        "date": "2026-10-28"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/games/fec/fecc58b3e612ea54441e96c73866741b.jpg",
-    "screenshots": [],
-    "desc": "probably stolen",
     "source": "rawg_auto"
   },
   {
@@ -5353,11 +5353,10 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1018040",
-    "name": "Stonemachia",
+    "id": "rawg_1020198",
+    "name": "Lumina Veil",
     "type": "release",
     "genres": [
-      "独立游戏",
       "动作冒险"
     ],
     "platforms": [
@@ -5366,22 +5365,27 @@
     "releases": [
       {
         "region": "GLOBAL",
-        "date": "2026-05-26"
+        "date": "2026-06-21"
       },
       {
         "region": "CN",
-        "date": "2026-05-26"
+        "date": "2026-06-21"
       }
     ],
     "expectScore": null,
     "scoreSource": "暂无",
     "popularity": 0,
     "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/4f1/4f1d378b9c3a90b08b69c0b742def519.jpg",
+    "cover": "https://media.rawg.io/media/screenshots/685/68591ac95677eb13b9f83a91d1036340.jpg",
     "screenshots": [
-      "https://media.rawg.io/media/screenshots/4f1/4f1d378b9c3a90b08b69c0b742def519.jpg"
+      "https://media.rawg.io/media/screenshots/599/5997c7fbfed4567506db0eebebf9f396.jpg",
+      "https://media.rawg.io/media/screenshots/e9d/e9db82f4eb6571ee0b2765403f2678c9.jpg",
+      "https://media.rawg.io/media/screenshots/306/3068f872a8a7390301d4b8c8060a1219.jpg",
+      "https://media.rawg.io/media/screenshots/7c9/7c9088db61c37dbe47ce75659ad59f7b.jpg",
+      "https://media.rawg.io/media/screenshots/1b3/1b38039d462f0bf273bd36eba08f0c43.jpg",
+      "https://media.rawg.io/media/screenshots/649/6497e8ffb836fc0be005b1163d2328ca.jpg"
     ],
-    "desc": "stonemachia",
+    "desc": "lumina veil",
     "source": "rawg_auto"
   },
   {
@@ -5457,42 +5461,6 @@
       "https://media.rawg.io/media/screenshots/cb6/cb6b2d6507fe401313b9adf012f5febc.jpg"
     ],
     "desc": "guns of eschaton",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1020198",
-    "name": "Lumina Veil",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-06-21"
-      },
-      {
-        "region": "CN",
-        "date": "2026-06-21"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/685/68591ac95677eb13b9f83a91d1036340.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/599/5997c7fbfed4567506db0eebebf9f396.jpg",
-      "https://media.rawg.io/media/screenshots/e9d/e9db82f4eb6571ee0b2765403f2678c9.jpg",
-      "https://media.rawg.io/media/screenshots/306/3068f872a8a7390301d4b8c8060a1219.jpg",
-      "https://media.rawg.io/media/screenshots/7c9/7c9088db61c37dbe47ce75659ad59f7b.jpg",
-      "https://media.rawg.io/media/screenshots/1b3/1b38039d462f0bf273bd36eba08f0c43.jpg",
-      "https://media.rawg.io/media/screenshots/649/6497e8ffb836fc0be005b1163d2328ca.jpg"
-    ],
-    "desc": "lumina veil",
     "source": "rawg_auto"
   },
   {
@@ -5840,6 +5808,42 @@
       "https://media.rawg.io/media/screenshots/d8a/d8ac092a5141805435524ae453700703.jpg"
     ],
     "desc": "songs of glimmerwick",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1020686",
+    "name": "DERELIKT",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-11-12"
+      },
+      {
+        "region": "CN",
+        "date": "2026-11-12"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/96f/96fea960e706051d65722789e7e4a1d5.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/090/090659e8e1fb2dc4a55b349b3925d129.jpg",
+      "https://media.rawg.io/media/screenshots/de4/de4f8943cf66366ba02f772ab1d3a890.jpg",
+      "https://media.rawg.io/media/screenshots/533/533c4bbf877ca056d6eadbba33c2daf3.jpg",
+      "https://media.rawg.io/media/screenshots/088/088d6efa5d516820573fd437e991d557.jpg",
+      "https://media.rawg.io/media/screenshots/4ee/4ee51aaaec6fabd635731cd9786aa67b.jpg",
+      "https://media.rawg.io/media/screenshots/96f/96fea960e706051d65722789e7e4a1d5.jpg"
+    ],
+    "desc": "derelikt",
     "source": "rawg_auto"
   },
   {
@@ -6915,38 +6919,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1018008",
-    "name": "Yerba Buena",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC",
-      "PS5"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-05-26"
-      },
-      {
-        "region": "CN",
-        "date": "2026-05-26"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/e59/e59e2cd6bdad241b7f142c2ebe23ce3b.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/e59/e59e2cd6bdad241b7f142c2ebe23ce3b.jpg"
-    ],
-    "desc": "yerba buena",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1018448",
     "name": "Feed The Pit",
     "type": "release",
@@ -7050,6 +7022,35 @@
     "source": "rawg_auto"
   },
   {
+    "id": "rawg_1019797",
+    "name": "STEINS;GATE RE:BOOT",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-08-19"
+      },
+      {
+        "region": "CN",
+        "date": "2026-08-19"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "",
+    "screenshots": [],
+    "desc": "steinsgate reboot",
+    "source": "rawg_auto"
+  },
+  {
     "id": "rawg_1020033",
     "name": "Halloween: The Game",
     "type": "release",
@@ -7086,35 +7087,6 @@
       "https://media.rawg.io/media/screenshots/54c/54c8708079199482c2dc32a35b1ace12.jpg"
     ],
     "desc": "halloween the game",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1019797",
-    "name": "STEINS;GATE RE:BOOT",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-08-19"
-      },
-      {
-        "region": "CN",
-        "date": "2026-08-19"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "",
-    "screenshots": [],
-    "desc": "steinsgate reboot",
     "source": "rawg_auto"
   },
   {
@@ -8168,42 +8140,6 @@
     "cover": "https://media.rawg.io/media/games/f85/f850d26fc140cff6e269e66669a3db63.jpg",
     "screenshots": [],
     "desc": "cult of pin",
-    "source": "rawg_auto"
-  },
-  {
-    "id": "rawg_1020686",
-    "name": "DERELIKT",
-    "type": "release",
-    "genres": [
-      "动作冒险"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-11-12"
-      },
-      {
-        "region": "CN",
-        "date": "2026-11-12"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 0,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/96f/96fea960e706051d65722789e7e4a1d5.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/090/090659e8e1fb2dc4a55b349b3925d129.jpg",
-      "https://media.rawg.io/media/screenshots/de4/de4f8943cf66366ba02f772ab1d3a890.jpg",
-      "https://media.rawg.io/media/screenshots/533/533c4bbf877ca056d6eadbba33c2daf3.jpg",
-      "https://media.rawg.io/media/screenshots/088/088d6efa5d516820573fd437e991d557.jpg",
-      "https://media.rawg.io/media/screenshots/4ee/4ee51aaaec6fabd635731cd9786aa67b.jpg",
-      "https://media.rawg.io/media/screenshots/96f/96fea960e706051d65722789e7e4a1d5.jpg"
-    ],
-    "desc": "derelikt",
     "source": "rawg_auto"
   },
   {
@@ -10735,11 +10671,10 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1018171",
-    "name": "Unbound Drift",
+    "id": "rawg_1020690",
+    "name": "SURI: The Seventh Note",
     "type": "release",
     "genres": [
-      "独立游戏",
       "动作冒险"
     ],
     "platforms": [
@@ -10748,27 +10683,61 @@
     "releases": [
       {
         "region": "GLOBAL",
-        "date": "2026-05-26"
+        "date": "2026-10-29"
       },
       {
         "region": "CN",
-        "date": "2026-05-26"
+        "date": "2026-10-29"
       }
     ],
     "expectScore": null,
     "scoreSource": "暂无",
     "popularity": 0,
     "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/77b/77b275b6e6ad51aa798b88153b7bacf4.jpg",
+    "cover": "https://media.rawg.io/media/screenshots/a4d/a4d0e56d957992daa4123ad8b3d56191.jpg",
     "screenshots": [
-      "https://media.rawg.io/media/screenshots/4f9/4f93c9594a1060547d86b003ff443306.jpg",
-      "https://media.rawg.io/media/screenshots/5d7/5d71ff9605b7aac0cbff0c315066aeca.jpg",
-      "https://media.rawg.io/media/screenshots/76c/76c3faf904229a11a07bbd88fc395118.jpg",
-      "https://media.rawg.io/media/screenshots/f1a/f1acda159d6f0aa7db4942e952035eaa.jpg",
-      "https://media.rawg.io/media/screenshots/2cf/2cfed2d53168c14ee11412522dbfeb53.jpg",
-      "https://media.rawg.io/media/screenshots/77b/77b275b6e6ad51aa798b88153b7bacf4.jpg"
+      "https://media.rawg.io/media/screenshots/5f4/5f4110cda52fd1c0a5ce6addc0f506c8.jpg",
+      "https://media.rawg.io/media/screenshots/e0c/e0cc7f5acc10b87f7468e4108744b072.jpg",
+      "https://media.rawg.io/media/screenshots/6d5/6d577c9d043508d215d7d23e0bf52c8a.jpg",
+      "https://media.rawg.io/media/screenshots/890/890c18409414f4ca6b0a9ae68ce5fea6.jpg",
+      "https://media.rawg.io/media/screenshots/a4d/a4d0e56d957992daa4123ad8b3d56191.jpg"
     ],
-    "desc": "unbound drift",
+    "desc": "suri the seventh note",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1020989",
+    "name": "Takeover 2",
+    "type": "release",
+    "genres": [
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-11-10"
+      },
+      {
+        "region": "CN",
+        "date": "2026-11-10"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 0,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/231/23116a1c9345b98b4205b046e075967a.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/5c9/5c921dd38f9f8954e8d2eb58ee018795.jpg",
+      "https://media.rawg.io/media/screenshots/829/82948ea534796b5b73c171ac5bb63724.jpg",
+      "https://media.rawg.io/media/screenshots/a71/a715c10047d7a2886fcc9a54204e767d.jpg",
+      "https://media.rawg.io/media/screenshots/7b9/7b9ed59501095bd75185bc8581e26d86.jpg",
+      "https://media.rawg.io/media/screenshots/231/23116a1c9345b98b4205b046e075967a.jpg"
+    ],
+    "desc": "takeover 2 2",
     "source": "rawg_auto"
   },
   {
@@ -13408,43 +13377,6 @@
     "source": "rawg_auto"
   },
   {
-    "id": "rawg_1017982",
-    "name": "7 Days Before the End",
-    "type": "release",
-    "genres": [
-      "独立游戏",
-      "RPG"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "releases": [
-      {
-        "region": "GLOBAL",
-        "date": "2026-05-26"
-      },
-      {
-        "region": "CN",
-        "date": "2026-05-26"
-      }
-    ],
-    "expectScore": null,
-    "scoreSource": "暂无",
-    "popularity": 10,
-    "rating": "teen",
-    "cover": "https://media.rawg.io/media/screenshots/ef1/ef1249b51d519c6fc87b0d6c8744a008.jpg",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/976/976710aac81de2337a81314f5dc60a46.jpg",
-      "https://media.rawg.io/media/screenshots/848/848efe3a21a825567647b4c05d22fa28.jpg",
-      "https://media.rawg.io/media/screenshots/c25/c25831678cecacd8c4308a4320f2cc95.jpg",
-      "https://media.rawg.io/media/screenshots/619/6198442a62cef38fe709c3b483e90a6d.jpg",
-      "https://media.rawg.io/media/screenshots/a1e/a1e5a829ac7d9c697472244c6580443c.jpg",
-      "https://media.rawg.io/media/screenshots/5ac/5ac3a265681bf5eca0dd58da25086f40.jpg"
-    ],
-    "desc": "7 days before the end",
-    "source": "rawg_auto"
-  },
-  {
     "id": "rawg_1017983",
     "name": "Mina the Hollower & Soundtrack Bundle",
     "type": "release",
@@ -14172,6 +14104,81 @@
       "https://media.rawg.io/media/screenshots/da6/da675c56250d0a8cc1277160eaec0dc2.jpg"
     ],
     "desc": "desktop pinforge",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1019641",
+    "name": "A Sea of Grey & Green",
+    "type": "release",
+    "genres": [
+      "MMO",
+      "独立游戏",
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-08-14"
+      },
+      {
+        "region": "CN",
+        "date": "2026-08-14"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 10,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/f08/f08ddd492020c3d35d62045eef2f0487.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/235/235fccb4d2e1c6b66fe39bdb9c369e50.jpg",
+      "https://media.rawg.io/media/screenshots/ec4/ec43934d279722eba2577eff4bc6c6bf.jpg",
+      "https://media.rawg.io/media/screenshots/f51/f5134a40604d3a7268be254701b68ffe.jpg",
+      "https://media.rawg.io/media/screenshots/e57/e571fdd4fb9efbef132a0228480709f3.jpg",
+      "https://media.rawg.io/media/screenshots/2e7/2e7163c96c57a9616911d7ce12259459.jpg",
+      "https://media.rawg.io/media/screenshots/12b/12b2ab7d94bd3070a86706ebb1358bc8.jpg"
+    ],
+    "desc": "a sea of grey green",
+    "source": "rawg_auto"
+  },
+  {
+    "id": "rawg_1019640",
+    "name": "Perdido na Mina",
+    "type": "release",
+    "genres": [
+      "MMO",
+      "独立游戏",
+      "动作冒险"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "releases": [
+      {
+        "region": "GLOBAL",
+        "date": "2026-08-13"
+      },
+      {
+        "region": "CN",
+        "date": "2026-08-13"
+      }
+    ],
+    "expectScore": null,
+    "scoreSource": "暂无",
+    "popularity": 10,
+    "rating": "teen",
+    "cover": "https://media.rawg.io/media/screenshots/290/290dd080ca1b046ef378e4f8381834a9.jpg",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/c90/c909c66108159c9ed0fe559e1494662c.jpg",
+      "https://media.rawg.io/media/screenshots/27c/27cc1cc24a8860660ca6b11d730325ab.jpg",
+      "https://media.rawg.io/media/screenshots/f7d/f7dad81ee3a449aaeb45615eb555880a.jpg",
+      "https://media.rawg.io/media/screenshots/c15/c15c024f7f617c871ae556c09190a7c9.jpg",
+      "https://media.rawg.io/media/screenshots/290/290dd080ca1b046ef378e4f8381834a9.jpg"
+    ],
+    "desc": "perdido na mina",
     "source": "rawg_auto"
   }
 ]
